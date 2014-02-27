@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="052" pageID="https://www.thegazette.co.uk/id/London/index/year/1961/volume/2/page/052" pagePDF="https://www.thegazette.co.uk/London/index/year/1961/volume/2/page/052" pageRDF="https://www.thegazette.co.uk/London/index/year/1961/volume/2/page/052?view=linked-data" type="index" volume="2" year="1961">
+  <ItemGroup>
+    <MainItem>
+      <Key>Young</Key>
+      <Forenames>P. R.</Forenames>
+      <PageNumber>2721</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>R. A</Forenames>
+      <PageNumber>3898</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Forenames>R. E</Forenames>
+      <PageNumber>3857</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Young</Key>
+      <Forenames>R. W. R .</Forenames>
+      <PageNumber>2828</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>T. F. B.</Forenames>
+      <PageNumber>3439</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>W</Forenames>
+      <PageNumber>3900</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Young</Key>
+      <Title>Rev.</Title>
+      <Forenames>W. B.</Forenames>
+      <PageNumber>4764</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Yule</Key>
+      <Forenames>D. M.</Forenames>
+      <PageNumber>3430</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>A. J.</Forenames>
+      <PageNumber>3984</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Yule</Key>
+      <Forenames>R. C.</Forenames>
+      <PageNumber>3075</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Zirnmer</Key>
+      <Forenames>E.</Forenames>
+      <PageNumber>4366</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Zmitrowicz</Key>
+      <Forenames>Z.</Forenames>
+      <PageNumber>2647</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aberdeen</Key>
+      <Forenames>Property Invest-</Forenames>
+      <Text>ment Building Society transfer notice</Text>
+      <PageNumber>4703</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Angus</Key>
+      <Forenames>John</Forenames>
+      <Text>, inquiry notice</Text>
+      <PageNumber>4803</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Assignments</Key>
+      <Text>for the-benefit of Creditors: Barrett, N. L</Text>
+      <PageNumber>3472</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>
+        <PageNumber>3472</PageNumber>
+      </Text>
+      <PageNumber>4328</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Astley</Key>
+      <Forenames>Bank Working Men</Forenames>
+      <Text>'s Club and Institute Cancelling of Registry</Text>
+      <PageNumber>4612</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Atherstone</Key>
+      <Forenames>Industrial Co-</Forenames>
+      <Text>operative Society, Cancelling of Registry</Text>
+      <PageNumber>4090</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Balne</Key>
+      <Forenames>Lane Allotment Society</Forenames>
+      <Text>, Cancelling of Registry</Text>
+      <PageNumber>4222</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beard</Key>
+      <Forenames>A. C</Forenames>
+      <Text>, Notices</Text>
+      <PageNumber>4537</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bennett</Key>
+      <Forenames>H. E.</Forenames>
+      <Text>, Notice</Text>
+      <PageNumber>4537</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Blackwell</Key>
+      <Forenames>Gardens Associa-</Forenames>
+      <Text>tion, Cancelling of Registry</Text>
+      <PageNumber>3455</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Booksellers</Key>
+      <Text>' Provident Institution, Amalgamation Notice</Text>
+      <PageNumber>4612</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bootle</Key>
+      <Forenames>British Legion Club</Forenames>
+      <Text>, Cancelling of Registry</Text>
+      <PageNumber>4308</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bradford</Key>
+      <Forenames>Woolcombers Trade Union Social Club</Forenames>
+      <Text>and.. Institute, Cancellation of Registry</Text>
+      <PageNumber>2572</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bristol</Key>
+      <Text>and West Building Society, Transfer Notice</Text>
+      <PageNumber>3198</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>British</Key>
+      <Forenames>Legion Club Rougham</Forenames>
+      <Text>, Dissolution</Text>
+      <PageNumber>4386</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>British</Key>
+      <Forenames>Transport Commis-</Forenames>
+      <Text>sion : Gloucester and Sharpness Canal and River Severn Navigation Bye-laws</Text>
+      <PageNumber>2993</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Buckley</Key>
+      <Forenames>Victoria Tontine Mutual Benefit Society</Forenames>
+      <Text>, Cancellation</Text>
+      <PageNumber>2751</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Building</Key>
+      <Forenames>Societies Acts</Forenames>
+      <Text>, Transfer Notices</Text>
+      <PageNumber>2993</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Castle</Key>
+      <Forenames>Works Club</Forenames>
+      <Text>and Institute, Cancellation</Text>
+      <PageNumber>2751</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Central</Key>
+      <Forenames>Electricity Generat-</Forenames>
+      <Text>ing Board: new power stations: Eggborough</Text>
+      <PageNumber>2980</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Central</Key>
+      <Forenames>Investment Com-</Forenames>
+      <Text>pany, Exemption under Moneylenders Acts</Text>
+      <PageNumber>4106</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chatham</Key>
+      <Forenames>Rochester</Forenames>
+      <Text>and District Good Samaritan Society, Dissolution</Text>
+      <PageNumber>4308</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Clean</Key>
+      <Forenames>Air Act</Forenames>
+      <Text>, notices: Altrincham</Text>
+      <PageNumber>2978</PageNumber>
+      <PageNumber>2978</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Islington</Text>
+      <PageNumber>2660</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Morley</Text>
+      <PageNumber>3770</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Old Fletton</Text>
+      <PageNumber>4299</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Oxford</Text>
+      <PageNumber>2559</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>2562</PageNumber>
+        <PageNumber>2741</PageNumber>
+      </Text>
+      <PageNumber>4609</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>4383</PageNumber>
+      </Text>
+      <PageNumber>3771</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Smethwick</Text>
+      <PageNumber>3700</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Spenborough</Text>
+      <PageNumber>3091</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Stockport</Text>
+      <PageNumber>3526</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Wakefield</Text>
+      <PageNumber>3092</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>West</Key>
+      <Forenames>Bromwich</Forenames>
+      <PageNumber>3184</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Coal</Key>
+      <Forenames>Act</Forenames>
+      <Text>, 1938, Notices: Bothamsall</Text>
+      <PageNumber>2510</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Coast</Key>
+      <Forenames>Protection Act</Forenames>
+      <Text>: Chichester, East Wittering</Text>
+      <PageNumber>4300</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Copyright</Key>
+      <Forenames>Act</Forenames>
+      <Text>, 1956, Performing Right Tribunal, Notices, Association of Independent Cinemas :</Text>
+      <PageNumber>3196</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Credit</Key>
+      <Text>for Industry, Exemption from Moneylenders Acts</Text>
+      <PageNumber>2522</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dengie</Key>
+      <Forenames>Associated Producers Organisation</Forenames>
+      <Text>, Cancelling of Registry</Text>
+      <PageNumber>4790</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Deritend</Key>
+      <Forenames>Housing Society</Forenames>
+      <Text>, Dissolution</Text>
+      <PageNumber>4308</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Domestic</Key>
+      <Forenames>Servants</Forenames>
+      <Text>' Registry, Eton R.D.C. Order</Text>
+      <PageNumber>3091</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>East</Key>
+      <Text>and Central Lewisham British Legion Club, Cancellation of Registry</Text>
+      <PageNumber>2573</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Elmswell</Key>
+      <Text>and District Cooperative Threshing, Dissolution</Text>
+      <PageNumber>2752</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Equipment</Key>
+      <Forenames>Credit</Forenames>
+      <Text>, Exemption under Moneylenders Acts</Text>
+      <PageNumber>3882</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Forestry</Key>
+      <Forenames>Commission Des-</Forenames>
+      <Text>tructive Insects and Pests Acts, Landing of Unbarked Coniferous Timber Order, 1961</Text>
+      <PageNumber>2664</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Foster</Key>
+      <Forenames>Leonard</Forenames>
+      <Text>, Notice to Creditors</Text>
+      <PageNumber>3562</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Foundling</Key>
+      <Forenames>Hospital</Forenames>
+      <Text>, Notice</Text>
+      <PageNumber>3301</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Friendly</Key>
+      <Forenames>Societies Act</Forenames>
+      <Text>, 1896: Amalgamation or Transfer of Engagements, Application for Dispensing with Consents or Conditions</Text>
+      <PageNumber>4612</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Friendly</Key>
+      <Title>Societies .</Title>
+      <Forenames>Act</Forenames>
+      <Text>,</Text>
+      <PageNumber>1896</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>
+        <PageNumber>3926</PageNumber>
+        <PageNumber>4090</PageNumber>
+        <PageNumber>4308</PageNumber>
+        <PageNumber>4612</PageNumber>
+      </Text>
+      <PageNumber>4871</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>3926</PageNumber>
+        <PageNumber>4090</PageNumber>
+        <PageNumber>4221</PageNumber>
+        <PageNumber>4308</PageNumber>
+      </Text>
+      <PageNumber>4703</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gardeners</Key>
+      <Forenames>Royal Benevolent Institution Residential Homes</Forenames>
+      <Text>, Dissolution</Text>
+      <PageNumber>2752</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gas</Key>
+      <Forenames>Act Notices</Forenames>
+      <Text>: East Midlands Board</Text>
+      <PageNumber>3701</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto />
+      </Key>
+      <Forenames>Wales Gas Board</Forenames>
+      <Text>, Ffestiniog</Text>
+      <PageNumber>4692</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Great</Key>
+      <Forenames>Harwood Industrial</Forenames>
+      <Text>and Co-operative Provision Society, Cancellation</Text>
+      <PageNumber>3926</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Halyard</Key>
+      <Forenames>Finance Company</Forenames>
+      <Text>, Exemption from Moneylenders Act</Text>
+      <PageNumber>3114</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hare</Key>
+      <Text>and Hounds Sick and Dividend Society, Cancellation</Text>
+      <PageNumber>3926</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Herring</Key>
+      <Forenames>Industry Board</Forenames>
+      <Text>, Notice of Rules</Text>
+      <PageNumber>3197</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Highways</Key>
+      <Forenames>Act</Forenames>
+      <Text>: Ampthill</Text>
+      <PageNumber>3707</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Biggleswade</Text>
+      <PageNumber>3923</PageNumber>
+      <PageNumber>4869</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>2749</PageNumber>
+      </Text>
+      <PageNumber>3454</PageNumber>
+      <PageNumber>3707</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Bournemouth</Text>
+      <PageNumber>3538</PageNumber>
+      <PageNumber>3783</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Brighton</Text>
+      <PageNumber>4220</PageNumber>
+      <PageNumber>4386</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Bullingdon</Text>
+      <PageNumber>4519</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>2856</PageNumber>
+        <PageNumber>3283</PageNumber>
+      </Text>
+      <PageNumber>4700</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>4517</PageNumber>
+      </Text>
+      <PageNumber>2511</PageNumber>
+      <PageNumber>3923</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Chard</Text>
+      <PageNumber>2748</PageNumber>
+      <PageNumber>4701</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Chesterton</Text>
+      <PageNumber>4519</PageNumber>
+    </SubItem>
+  </ItemGroup>
+</Index>
+
