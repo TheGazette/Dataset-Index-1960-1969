@@ -110,8 +110,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, G. M</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>G. M.</Forenames>
       <PageNumber>313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1929,8 +1929,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilkington</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>J. St. P</Forenames>
       <PageNumber>2662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2411,8 +2410,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>G. A. St. G</Forenames>
       <PageNumber>72</PageNumber>
     </MainItem>
   </ItemGroup>

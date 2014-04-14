@@ -2149,8 +2149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord .</Title>
       <PageNumber>5881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2584,8 +2583,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burden</Key>
-      <Forenames>G. S.St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. S.St. J</Forenames>
       <PageNumber>7363</PageNumber>
     </MainItem>
   </ItemGroup>

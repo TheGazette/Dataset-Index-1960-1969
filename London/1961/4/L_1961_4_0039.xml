@@ -268,8 +268,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>W.</Forenames>
-      <Text>de W. W</Text>
+      <Forenames>W. de W</Forenames>
+      <Text>. W</Text>
       <PageNumber>8613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2184,8 +2184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomalin</Key>
-      <Forenames>S. W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. W. St. J</Forenames>
       <PageNumber>7694</PageNumber>
     </MainItem>
   </ItemGroup>

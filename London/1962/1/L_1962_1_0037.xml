@@ -1898,8 +1898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kentiy</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>E. St. B</Forenames>
       <PageNumber>71</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2351,7 +2350,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. De L.</Forenames>
+      <Forenames>R. De L</Forenames>
       <PageNumber>137</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2,8 +2,8 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="040" pageID="https://www.thegazette.co.uk/id/London/index/year/1963/volume/1/page/040" pagePDF="https://www.thegazette.co.uk/London/index/year/1963/volume/1/page/040" pageRDF="https://www.thegazette.co.uk/London/index/year/1963/volume/1/page/040?view=linked-data" type="index" volume="1" year="1963">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, J. J. B</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>J. J. B.</Forenames>
       <PageNumber>1885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,15 +32,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, B. A</Text>
+      <Key>O'Flaherty</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>895</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, F. J</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>F. J.</Forenames>
       <PageNumber>2517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,22 +77,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, G. L</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>G. L.</Forenames>
       <PageNumber>80</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Higgins, O. M. M.'</Text>
+      <Key>O'Higgins</Key>
+      <Forenames>O. M. M.</Forenames>
+      <Text>'</Text>
       <PageNumber>1186</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, P. F</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>P. F.</Forenames>
       <PageNumber>1315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,22 +242,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, S. M. B</Text>
+      <Key>O'Meara</Key>
+      <Forenames>S. M. B.</Forenames>
       <PageNumber>2005</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil Roe, D. G. b!</Text>
+      <Key>O'Neil</Key>
+      <Forenames>Roe</Forenames>
+      <Text>, D. G. b!</Text>
       <PageNumber>1809</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H. C</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H. C.</Forenames>
       <PageNumber>491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,8 +278,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, F. L</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>F. L.</Forenames>
       <PageNumber>901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,8 +293,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, M. J</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>1311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,15 +353,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, E</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>2520</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, M. DA</Text>
+      <Key>O'Shea</Key>
+      <Forenames>M.</Forenames>
+      <Text>DA</Text>
       <PageNumber>76</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,8 +398,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, E. H. -</Text>
+      <Key>O'Toole</Key>
+      <Forenames>E. H.</Forenames>
+      <Text>-</Text>
       <PageNumber>81</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -454,9 +454,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Harris-St</Key>
-      <Forenames>John</Forenames>
-      <Text>, B. J</Text>
+      <Key>Harris-St. John</Key>
+      <Forenames>B. J.</Forenames>
       <PageNumber>8691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,8 +773,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. St. A</Forenames>
       <PageNumber>7869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,8 +966,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haslam-Fox</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>8336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,8 +1059,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Haugh-O</Key>
-      <Text>'Connor, B. A</Text>
+      <Key>Haugh-O'Connor</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>9211</PageNumber>
     </MainItem>
   </ItemGroup>

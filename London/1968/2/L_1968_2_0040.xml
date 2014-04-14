@@ -94,8 +94,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Redsell</Key>
-      <Forenames>A. T. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. T. St. G</Forenames>
       <PageNumber>4893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1986,8 +1985,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
+      <Key>St. Clair</Key>
       <Text>Sproul Bolton, R. R. J</Text>
       <PageNumber>6796</PageNumber>
     </MainItem>
@@ -2002,9 +2000,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Quintin</Forenames>
-      <Text>, P. R</Text>
+      <Key>St. Quintin</Key>
+      <Forenames>P. R.</Forenames>
       <PageNumber>5737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2200,8 +2197,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. N. St. J</Forenames>
       <PageNumber>6545</PageNumber>
     </MainItem>
   </ItemGroup>

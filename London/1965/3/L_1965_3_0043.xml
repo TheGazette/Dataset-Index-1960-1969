@@ -93,8 +93,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. R. St. J</Forenames>
       <PageNumber>6929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,8 +109,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>L. B.</Forenames>
-      <Text>de V</Text>
+      <Forenames>L. B. de V</Forenames>
       <PageNumber>6719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,17 +182,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, S. G. M</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>S. G. M.</Forenames>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, C. A. R. L</Text>
+      <Key>St. John</Key>
+      <Forenames>C. A. R. L.</Forenames>
       <PageNumber>6718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,9 +206,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Paul</Forenames>
-      <Text>, H. J. W</Text>
+      <Key>St. Paul</Key>
+      <Forenames>H. J. W.</Forenames>
       <PageNumber>7779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,8 +406,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandys</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>7136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,8 +1042,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scriven</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>6722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,8 +1471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shannon</Key>
-      <Forenames>D. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. R. St. J</Forenames>
       <PageNumber>7354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2349,8 +2341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simonds</Key>
-      <Forenames>T. A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>T. A. de L</Forenames>
       <PageNumber>7571</PageNumber>
     </MainItem>
   </ItemGroup>

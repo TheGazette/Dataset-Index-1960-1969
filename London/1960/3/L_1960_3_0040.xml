@@ -396,7 +396,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mompalao</Key>
-      <Text>de Biro, G</Text>
+      <Forenames>de Biro</Forenames>
+      <Text>, G</Text>
       <PageNumber>5455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,13 +487,6 @@
       <Key>OlBoyle</Key>
       <Forenames>C. A.</Forenames>
       <Text>-'</Text>
-      <PageNumber>6229</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-. E. ... . .V</Text>
       <PageNumber>6229</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2595,9 +2595,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Cutsem</Forenames>
-      <Text>, G. N</Text>
+      <Key>Van Cutsem</Key>
+      <Forenames>G. N.</Forenames>
       <PageNumber>8340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2610,17 +2609,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Often</Forenames>
-      <Text>, C. E</Text>
+      <Key>Van Often</Key>
+      <Forenames>C. E.</Forenames>
       <PageNumber>7347</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Someren</Forenames>
-      <Text>, R. S</Text>
+      <Key>Van Someren</Key>
+      <Forenames>R. S.</Forenames>
       <PageNumber>9348</PageNumber>
     </MainItem>
   </ItemGroup>

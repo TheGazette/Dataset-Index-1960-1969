@@ -508,7 +508,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rockey</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,8 +1232,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. St. C</Forenames>
       <PageNumber>2325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1366,17 +1367,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Croix</Forenames>
-      <Text>, J</Text>
+      <Key>St. Croix</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>1695</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, R. E. T</Text>
+      <Key>St. John</Key>
+      <Forenames>R. E. T.</Forenames>
       <PageNumber>1969</PageNumber>
       <PageNumber>3167</PageNumber>
     </MainItem>

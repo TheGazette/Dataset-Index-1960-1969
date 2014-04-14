@@ -1089,8 +1089,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>1760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,8 +1257,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. A. St</Forenames>
-      <Text>. C. K. ,</Text>
+      <Forenames>M. A. St. C</Forenames>
+      <Text>. K. ,</Text>
       <PageNumber>1</PageNumber>
       <PageNumber>759</PageNumber>
     </MainItem>
@@ -1349,8 +1348,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Skeen</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. J. .. -</Text>
+      <Forenames>O. St. J</Forenames>
+      <Text>. .. -</Text>
       <PageNumber>1759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2012,7 +2011,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___ .</KeyDitto>
     <SubItem>
-      <Text>'</Text>
+      <Text>'.</Text>
       <PageNumber>1208</PageNumber>
     </SubItem>
   </ItemGroup>

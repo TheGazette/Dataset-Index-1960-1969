@@ -1539,8 +1539,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickman</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>3497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2587,7 +2586,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.M. :</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5641</PageNumber>
     </MainItem>
   </ItemGroup>

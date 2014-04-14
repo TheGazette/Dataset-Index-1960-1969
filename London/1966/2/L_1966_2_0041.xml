@@ -2111,7 +2111,9 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>5796</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2257,7 +2257,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>I.</Forenames>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>9215</PageNumber>
     </MainItem>
   </ItemGroup>

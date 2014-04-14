@@ -1819,8 +1819,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>T. O'H</Forenames>
       <PageNumber>5484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2450,7 +2449,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>5485</PageNumber>
     </MainItem>
   </ItemGroup>

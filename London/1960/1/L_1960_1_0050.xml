@@ -772,6 +772,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Raeve</Key>
+      <Forenames>P. A.</Forenames>
+      <PageNumber>1544</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deane</Key>
       <Forenames>A. M.</Forenames>
       <PageNumber>337</PageNumber>
@@ -1051,8 +1058,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>T. St. J</Forenames>
       <PageNumber>1014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,9 +1363,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Plessis</Forenames>
-      <Text>, B. D</Text>
+      <Key>Du Plessis</Key>
+      <Forenames>B. D.</Forenames>
       <PageNumber>693</PageNumber>
     </MainItem>
   </ItemGroup>

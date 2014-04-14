@@ -135,7 +135,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Larthe</Key>
-      <Text>de Langladure, C. H. A</Text>
+      <Forenames>de Langladure</Forenames>
+      <Text>, C. H. A</Text>
       <PageNumber>5175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1629,8 +1630,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>T. M. O'H</Forenames>
       <PageNumber>4604</PageNumber>
     </MainItem>
   </ItemGroup>

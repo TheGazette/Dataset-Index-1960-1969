@@ -1301,8 +1301,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, M. J</Text>
+      <Key>O'Shea</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>2792</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -889,7 +889,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. De P.</Forenames>
+      <Forenames>R. De P</Forenames>
       <PageNumber>3302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1655,7 +1655,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Couve</Key>
-      <Text>de Murville, J. C</Text>
+      <Forenames>de Murville</Forenames>
+      <Text>, J. C</Text>
       <PageNumber>4121</PageNumber>
       <PageNumber>5580</PageNumber>
     </MainItem>

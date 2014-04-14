@@ -2511,8 +2511,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, P. J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2525,15 +2525,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, D. I</Text>
+      <Key>O'Hara</Key>
+      <Forenames>D. I.</Forenames>
       <PageNumber>69</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Herlihy, D. M '</Text>
+      <Key>O'Herlihy</Key>
+      <Forenames>D. M</Forenames>
+      <Text>'</Text>
       <PageNumber>1013</PageNumber>
     </MainItem>
   </ItemGroup>

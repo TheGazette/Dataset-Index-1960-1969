@@ -91,8 +91,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dill</Key>
-      <Forenames>J.</Forenames>
-      <Text>de G</Text>
+      <Forenames>J. de G</Forenames>
       <PageNumber>1475</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>

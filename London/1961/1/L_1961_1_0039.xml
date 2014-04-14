@@ -39,9 +39,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Coillie</Forenames>
-      <Text>, W. G</Text>
+      <Key>Van Coillie</Key>
+      <Forenames>W. G.</Forenames>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,8 +899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. St. A</Forenames>
       <PageNumber>1114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2201,8 +2199,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>23</PageNumber>
     </MainItem>
   </ItemGroup>

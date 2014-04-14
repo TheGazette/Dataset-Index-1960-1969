@@ -1474,8 +1474,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sansom</Key>
-      <Forenames>C. A. St</Forenames>
-      <Text>. Q!</Text>
+      <Forenames>C. A. St. Q</Forenames>
+      <Text>!</Text>
       <PageNumber>7962</PageNumber>
     </MainItem>
   </ItemGroup>

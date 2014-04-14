@@ -884,7 +884,9 @@
       <Key>
         <KeyDitto>___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>^-=-=MM :</Text>
+      <Text>
+        <Honour>MM</Honour>
+      </Text>
       <PageNumber>4766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1763,8 +1765,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Askins</Key>
-      <Forenames>M. E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. E. St. G</Forenames>
       <PageNumber>2797</PageNumber>
       <PageNumber>2924</PageNumber>
     </MainItem>

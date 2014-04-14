@@ -1146,8 +1146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lohan</Key>
-      <Forenames>H. M.</Forenames>
-      <Text>du V</Text>
+      <Forenames>H. M. du V</Forenames>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1586,8 +1585,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lytle</Key>
-      <Forenames>S. W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. W. St. J</Forenames>
       <PageNumber>1616</PageNumber>
     </MainItem>
   </ItemGroup>

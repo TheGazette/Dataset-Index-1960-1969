@@ -1582,8 +1582,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rae</Key>
-      <Forenames>K. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>K. St. J</Forenames>
       <PageNumber>5452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2381,7 +2380,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>M. H. D.</Text>
+      <Text>M. H. D</Text>
       <PageNumber>6346</PageNumber>
     </SubItem>
   </ItemGroup>

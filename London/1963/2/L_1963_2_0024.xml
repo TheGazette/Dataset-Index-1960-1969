@@ -1367,8 +1367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forrer</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>4597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1635,8 +1634,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, B. H. J. A</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>B. H. J. A.</Forenames>
       <PageNumber>4683</PageNumber>
     </MainItem>
   </ItemGroup>

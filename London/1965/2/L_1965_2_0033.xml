@@ -1037,8 +1037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickman</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>5065</PageNumber>
     </MainItem>
   </ItemGroup>

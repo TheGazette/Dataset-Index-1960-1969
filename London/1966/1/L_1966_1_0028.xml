@@ -882,8 +882,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blum</Key>
-      <Forenames>G. M.</Forenames>
-      <Text>de M</Text>
+      <Forenames>G. M. de M</Forenames>
       <PageNumber>2418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1980,7 +1979,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Briffa</Key>
-      <Text>de St. Vincent, E. P. E</Text>
+      <Title>de St.</Title>
+      <Forenames>Vincent</Forenames>
+      <Text>, E. P. E</Text>
       <PageNumber>74</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2531,8 +2532,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. T. St</Forenames>
-      <Text>. J:</Text>
+      <Forenames>J. T. St. J</Forenames>
+      <Text>:</Text>
       <PageNumber>3351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2659,8 +2660,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. J.</Forenames>
-      <Text>de C. (Sub. not.)</Text>
+      <Forenames>T. J. de C</Forenames>
+      <Text>. (Sub. not.)</Text>
       <PageNumber>3223</PageNumber>
     </MainItem>
   </ItemGroup>

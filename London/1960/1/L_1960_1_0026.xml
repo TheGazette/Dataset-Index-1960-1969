@@ -886,8 +886,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, C. R. A</Text>
+      <Key>O'Brien</Key>
+      <Forenames>C. R. A.</Forenames>
       <PageNumber>340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,15 +937,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, M. F</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>M. F.</Forenames>
       <PageNumber>1805</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riiorden, J. P. B</Text>
+      <Key>O'Riiorden</Key>
+      <Forenames>J. P. B.</Forenames>
       <PageNumber>1805</PageNumber>
     </MainItem>
   </ItemGroup>

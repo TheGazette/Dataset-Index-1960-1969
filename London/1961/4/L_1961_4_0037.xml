@@ -186,8 +186,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sansom</Key>
-      <Forenames>A. C. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>A. C. St. Q</Forenames>
       <PageNumber>7862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,8 +396,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>8971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,8 +808,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott-Harden</Key>
-      <Forenames>A. W. U. L. Scott O</Forenames>
-      <Text>'Connor, T</Text>
+      <Forenames>A. W. U. L. Scott O'Connor</Forenames>
+      <Text>, T</Text>
       <PageNumber>9402</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1170,8 +1170,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilkington</Key>
-      <Forenames>J. R.</Forenames>
-      <Text>de G. '</Text>
+      <Forenames>J. R. de G</Forenames>
+      <Text>. '</Text>
       <PageNumber>10436</PageNumber>
     </MainItem>
   </ItemGroup>

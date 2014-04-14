@@ -496,9 +496,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Puyenbroek</Forenames>
-      <Text>, J. E</Text>
+      <Key>Van Puyenbroek</Key>
+      <Forenames>J. E.</Forenames>
       <PageNumber>3748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1369,8 +1368,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walpole</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord .</Title>
       <PageNumber>3932</PageNumber>
     </MainItem>
   </ItemGroup>

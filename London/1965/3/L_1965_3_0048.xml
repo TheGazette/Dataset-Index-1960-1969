@@ -30,7 +30,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. A. Du C.</Forenames>
+      <Forenames>J. A. Du C</Forenames>
       <PageNumber>7563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1851,8 +1851,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worsley</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord .</Title>
       <PageNumber>7227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2125,8 +2124,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. C. St. J</Forenames>
       <PageNumber>7145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2437,8 +2435,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yearwood</Key>
-      <Forenames>G.</Forenames>
-      <Text>de L. ... S89o Yeats, T. D</Text>
+      <Forenames>G. de L</Forenames>
+      <Text>. ... S89o Yeats, T. D</Text>
       <PageNumber>6723</PageNumber>
     </MainItem>
   </ItemGroup>

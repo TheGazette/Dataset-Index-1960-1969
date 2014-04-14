@@ -883,8 +883,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanson</Key>
-      <Forenames>G. H.</Forenames>
-      <Text>de G</Text>
+      <Forenames>G. H. de G</Forenames>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,8 +910,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de G</Text>
+      <Forenames>R. de G</Forenames>
       <PageNumber>7092</PageNumber>
     </MainItem>
   </ItemGroup>

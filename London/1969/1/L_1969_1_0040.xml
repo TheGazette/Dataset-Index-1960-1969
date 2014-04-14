@@ -665,7 +665,9 @@
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>D.F.C. (Ceylon) exemption under Moneylenders' Acts</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>780</PageNumber>
     </MainItem>
   </ItemGroup>

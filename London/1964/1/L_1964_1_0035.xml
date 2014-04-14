@@ -1149,8 +1149,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de G</Text>
+      <Forenames>R. de G</Forenames>
       <PageNumber>2681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1491,8 +1490,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harper</Key>
-      <Forenames>C. A.</Forenames>
-      <Text>de N</Text>
+      <Forenames>C. A. de N</Forenames>
       <PageNumber>2757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1950,8 +1948,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. St. A</Forenames>
       <PageNumber>85</PageNumber>
     </MainItem>
   </ItemGroup>

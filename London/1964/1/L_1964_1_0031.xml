@@ -1389,8 +1389,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuylenburg</Key>
-      <Forenames>R. O</Forenames>
-      <Text>'B. van</Text>
+      <Forenames>R. O'B</Forenames>
+      <Text>. van</Text>
       <PageNumber>190</PageNumber>
     </MainItem>
   </ItemGroup>

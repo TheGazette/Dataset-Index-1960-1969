@@ -1163,8 +1163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hager</Key>
-      <Forenames>M.</Forenames>
-      <Text>van E</Text>
+      <Forenames>M. van E</Forenames>
       <PageNumber>8136</PageNumber>
     </MainItem>
   </ItemGroup>

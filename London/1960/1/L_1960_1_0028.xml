@@ -2637,8 +2637,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackmore</Key>
-      <Forenames>E. P.</Forenames>
-      <Text>de C</Text>
+      <Forenames>E. P. de C</Forenames>
       <PageNumber>72</PageNumber>
     </MainItem>
   </ItemGroup>

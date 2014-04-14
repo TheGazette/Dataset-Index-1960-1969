@@ -186,9 +186,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bono</Forenames>
-      <Text>, V. J</Text>
+      <Key>De Bono</Key>
+      <Forenames>V. J.</Forenames>
       <PageNumber>1706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,9 +207,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Fraine</Forenames>
-      <Text>, F. W</Text>
+      <Key>De Fraine</Key>
+      <Forenames>F. W.</Forenames>
       <PageNumber>1696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,9 +423,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Whalley</Forenames>
-      <Text>, P. H</Text>
+      <Key>De Whalley</Key>
+      <Forenames>P. H.</Forenames>
       <PageNumber>2888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,9 +1490,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Plat-Taylor</Forenames>
-      <Text>, St. J. M</Text>
+      <Key>Du Plat-Taylor</Key>
+      <Title>St. J.</Title>
+      <Forenames>M.</Forenames>
       <PageNumber>3168</PageNumber>
     </MainItem>
   </ItemGroup>

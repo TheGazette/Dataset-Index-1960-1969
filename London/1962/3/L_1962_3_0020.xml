@@ -488,6 +488,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Bergen</Key>
+      <Forenames>E. J.</Forenames>
+      <PageNumber>5307</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Van</Key>
       <Text>der Poel, A. T</Text>
       <PageNumber>5305</PageNumber>
@@ -495,9 +502,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gruisen</Forenames>
-      <Text>, M. H</Text>
+      <Key>Van Gruisen</Key>
+      <Forenames>M. H.</Forenames>
       <PageNumber>5724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,6 +512,28 @@
       <Key>Vanhegan</Key>
       <Forenames>F. W.</Forenames>
       <PageNumber>5971</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Straittan</Key>
+      <Forenames>J. A. S.</Forenames>
+      <PageNumber>5309</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Wulven</Key>
+      <Forenames>B. F.</Forenames>
+      <PageNumber>5309</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Wyk</Key>
+      <Forenames>A. E.</Forenames>
+      <Text>,</Text>
+      <PageNumber>5310</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

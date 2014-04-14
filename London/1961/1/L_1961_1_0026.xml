@@ -376,7 +376,9 @@
       <Key>Cotter</Key>
       <Title>Sir</Title>
       <Forenames>D. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>25</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2383,9 +2385,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Berry</Forenames>
-      <Text>, D. F. R</Text>
+      <Key>De Berry</Key>
+      <Forenames>D. F. R.</Forenames>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2399,41 +2400,60 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>de Gex</Key>
+      <Forenames>G. F.</Forenames>
+      <PageNumber>19</PageNumber>
+      <PageNumber>1113</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guingand</Key>
+      <Forenames>G. P.</Forenames>
+      <PageNumber>1350</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, R. St. C</Text>
       <PageNumber>1911</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rauch</Forenames>
-      <Text>, N. M</Text>
+      <Key>de Lisle</Key>
+      <Forenames>Bush</Forenames>
+      <Text>, M. P. T</Text>
+      <PageNumber>353</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Rauch</Key>
+      <Forenames>N. M.</Forenames>
       <PageNumber>492</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Uphaugh</Forenames>
-      <Text>, J. R. D</Text>
+      <Key>De Uphaugh</Key>
+      <Forenames>J. R. D.</Forenames>
       <PageNumber>1611</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ville</Forenames>
-      <Text>, J. M. A</Text>
+      <Key>De Ville</Key>
+      <Forenames>J. M. A.</Forenames>
       <PageNumber>1247</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wolf</Forenames>
-      <Text>, S. G</Text>
+      <Key>De Wolf</Key>
+      <Forenames>S. G.</Forenames>
       <PageNumber>1916</PageNumber>
       <PageNumber>2050</PageNumber>
     </MainItem>

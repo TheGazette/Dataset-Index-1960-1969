@@ -306,7 +306,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>6024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +412,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R.D. B</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,7 +1483,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>6538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2355,9 +2361,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Brugen</Forenames>
-      <Text>, M.J</Text>
+      <Key>Van Brugen</Key>
+      <Forenames>M.J.</Forenames>
       <PageNumber>5731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2370,17 +2375,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Byl</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Byl</Forenames>
       <Text>, S. A. V</Text>
       <PageNumber>4184</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Leuven</Forenames>
-      <Text>, J. K</Text>
+      <Key>Van Leuven</Key>
+      <Forenames>J. K.</Forenames>
       <PageNumber>6259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2693,9 +2697,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Prince of</Text>
+      <Title>H.R.H. The Prince</Title>
+      <Text>of</Text>
       <PageNumber>6015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2884,8 +2887,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. M. M. M. St</Forenames>
-      <Text>. St. St. St. Q Q Q Q</Text>
+      <Forenames>M. M. M. M. St. St</Forenames>
+      <Text>. St. St. Q Q Q Q</Text>
       <PageNumber>5723</PageNumber>
     </MainItem>
   </ItemGroup>

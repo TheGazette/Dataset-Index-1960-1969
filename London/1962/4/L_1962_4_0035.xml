@@ -148,17 +148,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aldwyn</Forenames>
-      <Text>, Earl</Text>
+      <Key>St. Aldwyn</Key>
+      <Title>Earl .</Title>
       <PageNumber>8801</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, T. E</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>T. E.</Forenames>
       <PageNumber>9460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,9 +170,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Pierre</Forenames>
-      <Text>, Y</Text>
+      <Key>St. Pierre</Key>
+      <Forenames>Y.</Forenames>
       <PageNumber>10069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +249,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>R. C</Text>
+      <Text>R. C.</Text>
       <PageNumber>9462</PageNumber>
     </SubItem>
   </ItemGroup>

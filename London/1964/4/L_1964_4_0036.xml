@@ -183,8 +183,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Forenames>E.</Forenames>
-      <Text>de T. W</Text>
+      <Forenames>E. de T</Forenames>
+      <Text>. W</Text>
       <PageNumber>10438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2416,7 +2416,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallock</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>10649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2569,7 +2571,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>V. E. De S. Le</Forenames>
+      <Forenames>V. E. De S</Forenames>
+      <Text>. Le</Text>
       <PageNumber>8640</PageNumber>
     </MainItem>
   </ItemGroup>

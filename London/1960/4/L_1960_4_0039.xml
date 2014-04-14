@@ -186,8 +186,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, M. DA</Text>
+      <Key>O'Shea</Key>
+      <Forenames>M.</Forenames>
+      <Text>DA</Text>
       <PageNumber>7856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,7 +1361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pelgrom</Key>
-      <Text>von Motz, R. H</Text>
+      <Forenames>von Motz</Forenames>
+      <Text>, R. H</Text>
       <PageNumber>6869</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -477,7 +477,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gresley</Key>
-      <Forenames>R. De L. Le</Forenames>
+      <Forenames>R. De L</Forenames>
+      <Text>. Le</Text>
       <PageNumber>8288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,8 +503,7 @@
       <Key>
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. J. St. J</Forenames>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,8 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grimthorpe</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord</Title>
       <PageNumber>8639</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -169,16 +169,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Heuvel</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Heuvel</Forenames>
       <Text>, C</Text>
       <PageNumber>200</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Merwe</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Merwe</Forenames>
       <Text>, D</Text>
       <PageNumber>1208</PageNumber>
     </MainItem>
@@ -351,7 +351,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>3169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +714,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>2082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,8 +925,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. St. A</Forenames>
       <PageNumber>1499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1326,8 +1329,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J.P. O</Forenames>
-      <Text>'F</Text>
+      <Forenames>J.P. O'F</Forenames>
       <PageNumber>997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1776,7 +1778,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>2896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2086,8 +2090,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>N. J.</Forenames>
-      <Text>du C</Text>
+      <Forenames>N. J. du C</Forenames>
       <PageNumber>2629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -3006,8 +3009,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. J</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. J</Text>
       <PageNumber>2898</PageNumber>
     </MainItem>
   </ItemGroup>

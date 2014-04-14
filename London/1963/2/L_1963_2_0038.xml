@@ -363,8 +363,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molesworth</Key>
-      <Title>St.</Title>
-      <Forenames>Aubyn</Forenames>
+      <Forenames>St. Aubyn</Forenames>
       <Text>, A.W</Text>
       <PageNumber>3239</PageNumber>
     </MainItem>
@@ -534,8 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moor</Key>
-      <Forenames>R. S.</Forenames>
-      <Text>de G</Text>
+      <Forenames>R. S. de G</Forenames>
       <PageNumber>2947</PageNumber>
     </MainItem>
   </ItemGroup>

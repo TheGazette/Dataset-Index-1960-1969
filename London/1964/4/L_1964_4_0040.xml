@@ -2064,9 +2064,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Martin</Forenames>
-      <Text>, M. O</Text>
+      <Key>St. Martin</Key>
+      <Forenames>M. O.</Forenames>
       <PageNumber>10654</PageNumber>
     </MainItem>
   </ItemGroup>

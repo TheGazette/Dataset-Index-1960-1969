@@ -1209,8 +1209,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cullen</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord .</Title>
       <PageNumber>3742</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2,9 +2,8 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="025" pageID="https://www.thegazette.co.uk/id/London/index/year/1967/volume/1/page/025" pagePDF="https://www.thegazette.co.uk/London/index/year/1967/volume/1/page/025" pageRDF="https://www.thegazette.co.uk/London/index/year/1967/volume/1/page/025?view=linked-data" type="index" volume="1" year="1967">
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vigne</Forenames>
-      <Text>, L. C. E</Text>
+      <Key>De Vigne</Key>
+      <Forenames>L. C. E.</Forenames>
       <PageNumber>34</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,8 +205,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, R. P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>R. P.</Forenames>
       <PageNumber>34</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,8 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Forenames>S. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>S. M. O'H</Forenames>
       <PageNumber>1154</PageNumber>
     </MainItem>
   </ItemGroup>

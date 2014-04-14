@@ -1213,7 +1213,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.P. L. F</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2017,7 +2019,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>6784</PageNumber>
     </MainItem>
   </ItemGroup>

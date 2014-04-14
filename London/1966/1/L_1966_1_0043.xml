@@ -1055,9 +1055,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Martin</Forenames>
-      <Text>, M. O</Text>
+      <Key>St. Martin</Key>
+      <Forenames>M. O.</Forenames>
       <PageNumber>1400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1815,8 +1814,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scriven</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>1401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2452,8 +2450,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shevlin</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <PageNumber>3224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2687,8 +2685,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. St. C</Forenames>
       <PageNumber>1400</PageNumber>
     </MainItem>
   </ItemGroup>

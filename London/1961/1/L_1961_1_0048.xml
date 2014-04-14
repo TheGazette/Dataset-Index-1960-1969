@@ -1236,8 +1236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyatt</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1683,8 +1682,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galloway</Key>
-      <Forenames>M.</Forenames>
-      <Text>de V</Text>
+      <Forenames>M. de V</Forenames>
       <PageNumber>776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2061,22 +2059,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, M. W</Text>
+      <Key>O'Connell</Key>
+      <Forenames>M. W.</Forenames>
       <PageNumber>1121</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, C. M</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>C. M.</Forenames>
       <PageNumber>1921</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, B. M</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>B. M.</Forenames>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>

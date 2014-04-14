@@ -915,8 +915,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>T. M. O'H</Forenames>
       <PageNumber>10677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,8 +991,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. de B</Forenames>
       <PageNumber>12343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,8 +1056,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyburn</Key>
-      <Forenames>D. B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. B. St. J</Forenames>
       <PageNumber>11534</PageNumber>
     </MainItem>
   </ItemGroup>

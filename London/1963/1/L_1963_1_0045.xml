@@ -1500,24 +1500,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Baerle</Forenames>
-      <Text>, A. R. H</Text>
+      <Key>Van Baerle</Key>
+      <Forenames>A. R. H.</Forenames>
       <PageNumber>897</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Cutsem</Forenames>
-      <Text>, H. B. E</Text>
+      <Key>Van Cutsem</Key>
+      <Forenames>H. B. E.</Forenames>
       <PageNumber>579</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Beeck</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Beeck</Forenames>
       <Text>, P. A</Text>
       <PageNumber>792</PageNumber>
     </MainItem>

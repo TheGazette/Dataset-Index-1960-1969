@@ -1352,8 +1352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenwell</Key>
-      <Forenames>P. M.</Forenames>
-      <Text>de W</Text>
+      <Forenames>P. M. de W</Forenames>
       <PageNumber>9261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1476,8 +1475,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. J. St. J</Forenames>
       <PageNumber>8080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2599,7 +2597,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>R. R. W</Text>
+      <Text>R. R. W.</Text>
       <PageNumber>8693</PageNumber>
     </SubItem>
   </ItemGroup>

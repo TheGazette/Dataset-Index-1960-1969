@@ -2628,8 +2628,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickey</Key>
-      <Forenames>D. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>D. O'R</Forenames>
       <PageNumber>1477</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -750,25 +750,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Noot</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Noot</Forenames>
       <Text>, C. H</Text>
       <PageNumber>11865</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Vord</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Vord</Forenames>
       <Text>, J</Text>
       <PageNumber>10971</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Essen</Forenames>
-      <Text>, C. G</Text>
+      <Key>Van Essen</Key>
+      <Forenames>C. G.</Forenames>
       <PageNumber>10977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,9 +805,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Sertima</Forenames>
-      <Text>, J. P</Text>
+      <Key>Van Sertima</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>9979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,9 +1056,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Maltzahn</Forenames>
-      <Text>, E. J. C. R</Text>
+      <Key>Von Maltzahn</Key>
+      <Forenames>E. J. C. R.</Forenames>
       <PageNumber>9281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1585,8 +1582,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. J.</Forenames>
-      <Text>de W</Text>
+      <Forenames>H. J. de W</Forenames>
       <PageNumber>10427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1595,8 +1591,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. S.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. S. de W</Forenames>
       <PageNumber>11304</PageNumber>
     </MainItem>
   </ItemGroup>

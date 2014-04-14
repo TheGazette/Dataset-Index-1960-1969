@@ -887,8 +887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gribbon</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>N. St. G</Forenames>
       <PageNumber>3338</PageNumber>
     </MainItem>
   </ItemGroup>

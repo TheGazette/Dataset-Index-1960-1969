@@ -1399,8 +1399,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barkshire</Key>
-      <Forenames>R. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. R. St. J</Forenames>
       <PageNumber>1164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1891,8 +1890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartley</Key>
-      <Forenames>I. K. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>I. K. St. C</Forenames>
       <PageNumber>78</PageNumber>
     </MainItem>
   </ItemGroup>

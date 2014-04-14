@@ -774,25 +774,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bass</Forenames>
-      <Text>, F. W. J</Text>
+      <Key>De Bass</Key>
+      <Forenames>F. W. J.</Forenames>
       <PageNumber>7633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bromhead</Forenames>
-      <Text>, M. ]</Text>
+      <Key>De Bromhead</Key>
+      <Forenames>M.</Forenames>
+      <Text>]</Text>
       <PageNumber>10421</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, M</Text>
+      <Key>De Burgh</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>7392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,9 +810,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gruchy</Forenames>
-      <Text>, N. E</Text>
+      <Key>De Gruchy</Key>
+      <Forenames>N. E.</Forenames>
       <PageNumber>9496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,9 +847,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lange</Forenames>
-      <Text>, A. E</Text>
+      <Key>De Lange</Key>
+      <Forenames>A. E.</Forenames>
       <PageNumber>7887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,25 +990,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Roeper</Forenames>
-      <Text>, G. F</Text>
+      <Key>De Roeper</Key>
+      <Forenames>G. F.</Forenames>
       <PageNumber>10208</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salts</Forenames>
-      <Text>, B. P</Text>
+      <Key>De Salts</Key>
+      <Forenames>B. P.</Forenames>
       <PageNumber>9485</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, P. G</Text>
+      <Key>De Souza</Key>
+      <Forenames>P. G.</Forenames>
       <PageNumber>10421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,9 +1025,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vecchis</Forenames>
-      <Text>, B</Text>
+      <Key>De Vecchis</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>8110</PageNumber>
     </MainItem>
   </ItemGroup>

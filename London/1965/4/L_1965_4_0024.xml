@@ -2,8 +2,8 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="024" pageID="https://www.thegazette.co.uk/id/London/index/year/1965/volume/4/page/024" pagePDF="https://www.thegazette.co.uk/London/index/year/1965/volume/4/page/024" pageRDF="https://www.thegazette.co.uk/London/index/year/1965/volume/4/page/024?view=linked-data" type="index" volume="4" year="1965">
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pare Braham</Forenames>
+      <Key>Du Pare</Key>
+      <Forenames>Braham</Forenames>
       <Text>, J. C,</Text>
       <PageNumber>9357</PageNumber>
     </MainItem>
@@ -936,8 +936,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Erieigh</Key>
-      <Forenames>The</Forenames>
-      <Text>Viscount</Text>
+      <Title>The Viscount</Title>
       <PageNumber>9757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,8 +1225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairhurst</Key>
-      <Forenames>F. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. N. St. J</Forenames>
       <PageNumber>12165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,8 +1285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fancourt</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>11995</PageNumber>
     </MainItem>
   </ItemGroup>

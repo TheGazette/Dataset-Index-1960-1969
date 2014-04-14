@@ -726,8 +726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>LAmie</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>N. St. C</Forenames>
       <PageNumber>4156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1917,7 +1916,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>3817</PageNumber>
     </MainItem>
   </ItemGroup>

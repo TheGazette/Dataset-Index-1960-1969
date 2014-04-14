@@ -605,8 +605,8 @@
       <Key>
         <KeyDitto>___ —___ ___</KeyDitto>
       </Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B. F</Text>
+      <Forenames>A. O'B</Forenames>
+      <Text>. F</Text>
       <PageNumber>1808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2538,8 +2538,7 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de L</Text>
+      <Forenames>R. de L</Forenames>
       <PageNumber>1191</PageNumber>
     </MainItem>
   </ItemGroup>

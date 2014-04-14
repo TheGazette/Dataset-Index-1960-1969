@@ -957,8 +957,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baird</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. St. C</Forenames>
       <PageNumber>3429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1364,8 +1363,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bamber</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>T. O'B</Forenames>
       <PageNumber>2494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1944,8 +1942,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>C. G.</Forenames>
+      <Title>St. C.</Title>
+      <Forenames>G.</Forenames>
       <PageNumber>3901</PageNumber>
     </MainItem>
   </ItemGroup>

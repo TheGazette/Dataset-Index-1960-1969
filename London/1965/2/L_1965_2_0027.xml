@@ -454,8 +454,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>B. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>B. St. L</Forenames>
       <PageNumber>3943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +554,7 @@
       <PageNumber>4119</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>V. A</Text>
+      <Text>V. A.</Text>
       <PageNumber>3943</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1637,8 +1636,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. St. G</Forenames>
       <PageNumber>4855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2659,7 +2657,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>W. L. S</Text>
+      <Text>W. L. S.</Text>
       <PageNumber>4647</PageNumber>
     </SubItem>
   </ItemGroup>

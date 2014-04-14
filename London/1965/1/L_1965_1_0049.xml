@@ -2762,33 +2762,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Damm</Forenames>
-      <Text>, S</Text>
+      <Key>Van Damm</Key>
+      <Forenames>S.</Forenames>
       <PageNumber>2140</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Merwe</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Merwe</Forenames>
       <Text>, D</Text>
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gruisen</Forenames>
-      <Text>, M. H</Text>
+      <Key>Van Gruisen</Key>
+      <Forenames>M. H.</Forenames>
       <PageNumber>1458</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Someren</Forenames>
-      <Text>, R. S</Text>
+      <Key>Van Someren</Key>
+      <Forenames>R. S.</Forenames>
       <PageNumber>2633</PageNumber>
     </MainItem>
   </ItemGroup>

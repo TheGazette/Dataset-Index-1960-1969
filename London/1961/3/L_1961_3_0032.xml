@@ -1263,8 +1263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Irwin</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>B. St. G</Forenames>
       <PageNumber>6879</PageNumber>
     </MainItem>
   </ItemGroup>

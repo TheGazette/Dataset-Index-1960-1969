@@ -363,7 +363,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___</KeyDitto>
     <SubItem>
-      <Text>B. T. C</Text>
+      <Text>B. T. C.</Text>
       <PageNumber>8073</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -457,8 +457,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>D. O'C</Forenames>
       <PageNumber>7360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1859,8 +1858,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. C. St. J</Forenames>
       <PageNumber>7355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2138,8 +2136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steiner</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>8900</PageNumber>
     </MainItem>
   </ItemGroup>

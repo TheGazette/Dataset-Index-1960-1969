@@ -854,25 +854,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beugen Bik</Forenames>
+      <Key>Van Beugen</Key>
+      <Forenames>Bik</Forenames>
       <Text>, J. A</Text>
       <PageNumber>6069</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Goillie</Forenames>
-      <Text>, W. G</Text>
+      <Key>Van Goillie</Key>
+      <Forenames>W. G.</Forenames>
       <PageNumber>7191</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Cutsom</Forenames>
-      <Text>, G. N</Text>
+      <Key>Van Cutsom</Key>
+      <Forenames>G. N.</Forenames>
       <PageNumber>7978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1910,8 +1908,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord .</Title>
       <PageNumber>5817</PageNumber>
     </MainItem>
   </ItemGroup>

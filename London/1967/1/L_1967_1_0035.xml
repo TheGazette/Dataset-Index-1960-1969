@@ -856,7 +856,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>A.E. W</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1050,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>de Bartolome, J. F</Text>
+      <Forenames>de Bartolome</Forenames>
+      <Text>, J. F</Text>
       <PageNumber>817</PageNumber>
     </MainItem>
   </ItemGroup>

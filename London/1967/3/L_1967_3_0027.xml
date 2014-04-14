@@ -1902,8 +1902,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gauvain</Key>
-      <Forenames>A.</Forenames>
-      <Text>de P</Text>
+      <Forenames>A. de P</Forenames>
       <PageNumber>8441</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -422,9 +422,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mel</Forenames>
-      <Text>, K., notice of bankruptcy ... -</Text>
+      <Key>De Mel</Key>
+      <Forenames>K.</Forenames>
+      <Text>, notice of bankruptcy ... -</Text>
       <PageNumber>3353</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -347,8 +347,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de S</Text>
+      <Forenames>P. de S</Forenames>
       <PageNumber>6527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,8 +677,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Battersby</Key>
-      <Forenames>A. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. A. St. J</Forenames>
       <PageNumber>7915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1522,8 +1520,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>M.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. de B</Forenames>
       <PageNumber>6643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2207,8 +2204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bisgood</Key>
-      <Forenames>F. H. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>F. H. St. L</Forenames>
       <PageNumber>7091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2652,8 +2648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blower</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>F. St. M</Forenames>
       <PageNumber>6349</PageNumber>
     </MainItem>
   </ItemGroup>

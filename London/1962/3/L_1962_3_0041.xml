@@ -1266,8 +1266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuppen</Key>
-      <Forenames>N.</Forenames>
-      <Text>de B. H</Text>
+      <Forenames>N. de B</Forenames>
+      <Text>. H</Text>
       <PageNumber>5804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1748,25 +1748,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Cruiser</Forenames>
-      <Text>,, M. H</Text>
+      <Key>Van Cruiser</Key>
+      <Text>, M. H</Text>
       <PageNumber>5724</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Kempen</Forenames>
-      <Text>, R. E</Text>
+      <Key>Van Kempen</Key>
+      <Forenames>R. E.</Forenames>
       <PageNumber>6663</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Namen</Forenames>
-      <Text>, C. D</Text>
+      <Key>Van Namen</Key>
+      <Forenames>C. D.</Forenames>
       <PageNumber>5901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1779,9 +1776,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Wtberghe</Forenames>
-      <Text>, G. G</Text>
+      <Key>Van Wtberghe</Key>
+      <Forenames>G. G.</Forenames>
       <PageNumber>7360</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -522,7 +522,7 @@
     <KeyDitto>___ ___ ___</KeyDitto>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>T. W. J.</Text>
+      <Text>T. W. J</Text>
       <PageNumber>4545</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -2527,8 +2527,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de C</Text>
+      <Forenames>P. de C</Forenames>
       <PageNumber>2</PageNumber>
       <PageNumber>924</PageNumber>
     </MainItem>

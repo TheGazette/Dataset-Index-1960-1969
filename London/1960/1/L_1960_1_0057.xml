@@ -398,7 +398,9 @@
     <MainItem>
       <Key>Coast</Key>
       <Forenames>Protection Act</Forenames>
-      <Text>: Axbridge R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>467</PageNumber>
       <PageNumber>569</PageNumber>
     </MainItem>

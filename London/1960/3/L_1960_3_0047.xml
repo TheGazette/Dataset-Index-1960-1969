@@ -1026,7 +1026,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>C.H. ,'</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>

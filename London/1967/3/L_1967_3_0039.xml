@@ -750,8 +750,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simonds</Key>
-      <Forenames>A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>A. de L</Forenames>
       <PageNumber>7380</PageNumber>
     </MainItem>
   </ItemGroup>

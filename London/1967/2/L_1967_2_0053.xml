@@ -2165,33 +2165,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, M. A. J</Text>
+      <Key>St. Clair</Key>
+      <Forenames>M. A. J.</Forenames>
       <PageNumber>3817</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John Perry</Forenames>
+      <Key>St. John</Key>
+      <Forenames>Perry</Forenames>
       <Text>, C. H</Text>
       <PageNumber>4931</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Johnston</Forenames>
-      <Text>, T. E</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>T. E.</Forenames>
       <PageNumber>5193</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Oswald</Forenames>
-      <Text>, Lord</Text>
+      <Key>St. Oswald</Key>
+      <Title>Lord .</Title>
       <PageNumber>6333</PageNumber>
     </MainItem>
   </ItemGroup>

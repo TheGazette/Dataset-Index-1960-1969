@@ -1485,8 +1485,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Becher</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>8713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1860,8 +1859,7 @@
       <Key>
         <KeyDitto>___ ___ —— ___ ___</KeyDitto>
       </Key>
-      <Forenames>C.</Forenames>
-      <Text>de P</Text>
+      <Forenames>C. de P</Forenames>
       <PageNumber>87111</PageNumber>
     </MainItem>
   </ItemGroup>

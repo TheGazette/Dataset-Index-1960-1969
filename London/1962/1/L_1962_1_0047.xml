@@ -444,7 +444,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>S. M. G</Text>
+      <Text>S. M. G.</Text>
       <PageNumber>136</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1742,8 +1742,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stfathdene</Key>
-      <Forenames>J. E. O</Forenames>
-      <Text>'M. Stratton-Brown, .C. K</Text>
+      <Forenames>J. E. O'M</Forenames>
+      <Text>. Stratton-Brown, .C. K</Text>
       <PageNumber>1557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1880,7 +1880,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___ ___ -</KeyDitto>
     <SubItem>
-      <Text>C. J. ... . »</Text>
+      <Text>C. J. ... . ».</Text>
       <PageNumber>587</PageNumber>
     </SubItem>
   </ItemGroup>

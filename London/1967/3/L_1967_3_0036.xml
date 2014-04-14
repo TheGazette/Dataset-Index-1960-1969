@@ -2150,8 +2150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilkington</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>J. St. P</Forenames>
       <PageNumber>9269</PageNumber>
     </MainItem>
   </ItemGroup>

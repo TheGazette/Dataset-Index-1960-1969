@@ -229,7 +229,9 @@
   <ItemGroup>
     <MainItem>
       <Key>I</Key>
-      <Text>___ ___ V. A.' M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>2221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2642,8 +2644,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A</Forenames>
       <PageNumber>2219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2658,8 +2660,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Hill, J. D</Text>
+      <Key>O'Brien-Hill</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>1610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2672,8 +2674,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, J. V. E. F</Text>
+      <Key>O'Connell</Key>
+      <Forenames>J. V. E. F.</Forenames>
       <PageNumber>893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2688,8 +2690,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, B. C</Text>
+      <Key>O'Connor</Key>
+      <Forenames>B. C.</Forenames>
       <PageNumber>700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2793,8 +2795,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, R. E</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>R. E.</Forenames>
       <PageNumber>1883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2809,15 +2811,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, J</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>494</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, M. S</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>M. S .</Forenames>
       <PageNumber>1613</PageNumber>
     </MainItem>
   </ItemGroup>

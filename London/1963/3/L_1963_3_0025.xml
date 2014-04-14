@@ -163,8 +163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DArcy</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. O'C</Forenames>
       <PageNumber>5639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1090,9 +1089,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brett</Forenames>
-      <Text>, R. J. H</Text>
+      <Key>De Brett</Key>
+      <Forenames>R. J. H.</Forenames>
       <PageNumber>7514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,9 +1117,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Malpas-Finlay</Forenames>
-      <Text>, M</Text>
+      <Key>De Malpas-Finlay</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>6640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2491,8 +2488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunleath</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord.</Title>
       <PageNumber>6453</PageNumber>
     </MainItem>
   </ItemGroup>

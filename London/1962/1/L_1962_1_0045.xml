@@ -1675,8 +1675,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutherford</Key>
-      <Forenames>F. G.</Forenames>
-      <Text>de L. '</Text>
+      <Forenames>F. G. de L</Forenames>
+      <Text>. '</Text>
       <PageNumber>2315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1862,17 +1862,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, G. P</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>G. P.</Forenames>
       <PageNumber>1556</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Ford</Forenames>
-      <Text>, R, S...:</Text>
+      <Key>St. Clair-Ford</Key>
+      <Forenames>R</Forenames>
+      <Text>, S...:</Text>
       <PageNumber>1760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2337,8 +2336,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sausmarez</Key>
-      <Forenames>P. W. D. St</Forenames>
-      <Text>. V. de</Text>
+      <Forenames>P. W. D. St. V</Forenames>
+      <Text>. de</Text>
       <PageNumber>1759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2692,8 +2691,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>C. J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>C. J. de C</Forenames>
       <PageNumber>804</PageNumber>
     </MainItem>
   </ItemGroup>

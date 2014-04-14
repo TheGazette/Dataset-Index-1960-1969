@@ -769,8 +769,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ballenden</Key>
-      <Forenames>J. P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. P. St. C</Forenames>
       <PageNumber>9293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1952,8 +1951,7 @@
       <Key>
         <KeyDitto>-— ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>9291</PageNumber>
     </MainItem>
   </ItemGroup>

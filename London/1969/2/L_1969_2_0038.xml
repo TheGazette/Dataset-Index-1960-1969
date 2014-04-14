@@ -661,7 +661,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Companhia</Key>
-      <Text>de Mocambique, notice of Annual General . Meeting</Text>
+      <Forenames>de Mocambique</Forenames>
+      <Text>, notice of Annual General . Meeting</Text>
       <PageNumber>5234</PageNumber>
     </MainItem>
   </ItemGroup>

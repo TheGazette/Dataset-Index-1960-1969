@@ -1756,7 +1756,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Daffarn</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>10740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2428,6 +2430,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>Milne</Forenames>
+      <Text>, D.C. L</Text>
+      <PageNumber>10470</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deedes</Key>
       <Forenames>C. G.</Forenames>
       <PageNumber>12861</PageNumber>
@@ -2442,8 +2452,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Hochepied Larpent</Forenames>
+      <Key>De Hochepied</Key>
+      <Forenames>Larpent</Forenames>
       <Text>, L.D.A</Text>
       <PageNumber>11814</PageNumber>
     </MainItem>
@@ -2457,9 +2467,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Laszlo</Forenames>
-      <Text>, D. P</Text>
+      <Key>De Laszlo</Key>
+      <Forenames>D. P.</Forenames>
       <PageNumber>12235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2530,9 +2539,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pledge</Forenames>
-      <Text>, P</Text>
+      <Key>De Pledge</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>10737</PageNumber>
     </MainItem>
   </ItemGroup>

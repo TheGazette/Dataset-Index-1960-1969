@@ -1304,8 +1304,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaufort</Key>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>The Duke</Title>
+      <Text>of</Text>
       <PageNumber>3454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2285,7 +2285,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blacker</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>5724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2848,7 +2850,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>3455</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1057,9 +1057,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brett</Forenames>
-      <Text>, E. M</Text>
+      <Key>De Brett</Key>
+      <Forenames>E. M.</Forenames>
       <PageNumber>10428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,9 +1093,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lacy</Forenames>
-      <Text>, K</Text>
+      <Key>De Lacy</Key>
+      <Forenames>K.</Forenames>
       <PageNumber>9863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,6 +1103,14 @@
       <Key>Delany</Key>
       <Forenames>C. G.</Forenames>
       <PageNumber>10526</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lisle</Key>
+      <Forenames>Bush</Forenames>
+      <Text>, M. P. T</Text>
+      <PageNumber>11439</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1130,9 +1136,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Marco</Forenames>
-      <Text>, M. L</Text>
+      <Key>De Marco</Key>
+      <Forenames>M. L.</Forenames>
       <PageNumber>9475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,9 +1254,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vos</Forenames>
-      <Text>, B</Text>
+      <Key>De Vos</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>9761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1271,17 +1275,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wolf</Forenames>
-      <Text>, S. G</Text>
+      <Key>De Wolf</Key>
+      <Forenames>S. G.</Forenames>
       <PageNumber>12167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wytt</Forenames>
-      <Text>, W. H. H. J. de W</Text>
+      <Key>De Wytt</Key>
+      <Forenames>W. H. H. J. de W</Forenames>
       <PageNumber>12224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,7 +1652,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodgson</Key>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>10070</PageNumber>
     </MainItem>
   </ItemGroup>

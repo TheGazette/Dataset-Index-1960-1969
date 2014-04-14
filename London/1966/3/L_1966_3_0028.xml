@@ -867,8 +867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaillard</Key>
-      <Forenames>M. C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>M. C. de L</Forenames>
       <PageNumber>8131</PageNumber>
       <PageNumber>9583</PageNumber>
     </MainItem>

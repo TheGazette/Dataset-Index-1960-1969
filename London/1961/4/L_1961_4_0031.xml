@@ -1830,7 +1830,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McGraHh</Key>
-      <Text>M.D. :</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7928</PageNumber>
     </MainItem>
   </ItemGroup>

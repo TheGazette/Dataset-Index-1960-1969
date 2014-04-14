@@ -2288,8 +2288,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>F. H.</Forenames>
-      <Text>de B</Text>
+      <Forenames>F. H. de B</Forenames>
       <PageNumber>1410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2829,9 +2828,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>197</PageNumber>
     </MainItem>
   </ItemGroup>

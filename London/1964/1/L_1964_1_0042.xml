@@ -101,22 +101,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'May, T. L</Text>
+      <Key>O'May</Key>
+      <Forenames>T. L.</Forenames>
       <PageNumber>2377</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, P. J</Text>
+      <Key>O'Meara</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>260</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. P. H</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. P. H.</Forenames>
       <PageNumber>78</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,8 +184,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, A. F</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>A. F.</Forenames>
       <PageNumber>382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,8 +198,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, G. J</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>G. J.</Forenames>
       <PageNumber>2070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,15 +242,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, C. M. J</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>C. M. J.</Forenames>
       <PageNumber>563</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, B. A</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>1555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,8 +338,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, D. K</Text>
+      <Key>O'Shea</Key>
+      <Forenames>D. K.</Forenames>
       <PageNumber>2839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,8 +366,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, D</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>2186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,8 +635,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pallot</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. St. G</Forenames>
       <PageNumber>2375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2555,8 +2554,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickard</Key>
-      <Forenames>M.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. de B</Forenames>
       <PageNumber>1052</PageNumber>
     </MainItem>
   </ItemGroup>

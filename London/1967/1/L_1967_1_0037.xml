@@ -2398,8 +2398,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>C. St. G</Forenames>
       <PageNumber>1696</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -365,10 +365,48 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Clermont</Forenames>
-      <Text>, P. A. J</Text>
+      <Key>De Clermont</Key>
+      <Forenames>P. A. J.</Forenames>
       <PageNumber>539</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>D. G.</Forenames>
+      <PageNumber>2294</PageNumber>
+      <PageNumber>2294</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guingand</Key>
+      <Title>Sir</Title>
+      <Forenames>F. W</Forenames>
+      <PageNumber>1715</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Jorre</Forenames>
+      <Text>, J. A</Text>
+      <PageNumber>1898</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>C.</Forenames>
+      <Text>.J</Text>
+      <PageNumber>845</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Text>.D. B. G</Text>
+      <PageNumber>74</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1021,8 +1059,7 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Forenames>H.</Forenames>
-      <Text>de S</Text>
+      <Forenames>H. de S</Forenames>
       <PageNumber>1535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,7 +1469,7 @@
     <KeyDitto>___ ___ ___ ,</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>T. I. ... c.</Text>
+      <Text>T. I. ... c</Text>
       <PageNumber>2116</PageNumber>
     </SubItem>
   </ItemGroup>

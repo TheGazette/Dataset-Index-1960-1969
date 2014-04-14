@@ -1284,8 +1284,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Troubridge</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>E. St. V</Forenames>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2057,9 +2056,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beest</Forenames>
-      <Text>, F. G. L</Text>
+      <Key>Van Beest</Key>
+      <Forenames>F. G. L.</Forenames>
       <PageNumber>3841</PageNumber>
     </MainItem>
   </ItemGroup>

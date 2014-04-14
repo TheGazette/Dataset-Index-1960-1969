@@ -2416,8 +2416,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loftus</Key>
-      <Forenames>D. J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. J. St. J</Forenames>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2775,8 +2774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luckett</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. de B</Forenames>
       <PageNumber>9667</PageNumber>
     </MainItem>
   </ItemGroup>

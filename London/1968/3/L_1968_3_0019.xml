@@ -98,8 +98,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Forenames>S. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>S. M. O'H</Forenames>
       <PageNumber>7344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1855,7 +1854,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>de Sugg, R. G. L</Text>
+      <Forenames>de Sugg</Forenames>
+      <Text>, R. G. L</Text>
       <PageNumber>8343</PageNumber>
     </MainItem>
   </ItemGroup>

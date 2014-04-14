@@ -1089,8 +1089,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>R. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. M. St. G</Forenames>
       <PageNumber>8943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1366,7 +1365,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Koch</Key>
-      <Text>de Gooreynd, S. P. J. G</Text>
+      <Forenames>de Gooreynd</Forenames>
+      <Text>, S. P. J. G</Text>
       <PageNumber>8794</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -316,7 +316,8 @@
   <ItemGroup>
     <MainItem>
       <Key>March-Phillipps</Key>
-      <Text>de Lisle, H.L.R</Text>
+      <Forenames>de Lisle</Forenames>
+      <Text>, H.L.R</Text>
       <PageNumber>5726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1835,9 +1836,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Molesworth-St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, J. A</Text>
+      <Key>Molesworth-St. Aubyn</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>3457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1890,7 +1890,9 @@
     <MainItem>
       <Key>Monk</Key>
       <Forenames>C.</Forenames>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>4993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2087,7 +2089,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moralee</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>3931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2135,8 +2139,8 @@
   <ItemGroup>
     <MainItem>
       <Key>More</Key>
-      <Forenames>O</Forenames>
-      <Text>'Ferrall, R. L. D. J</Text>
+      <Forenames>O'Ferrall</Forenames>
+      <Text>, R. L. D. J</Text>
       <PageNumber>6015</PageNumber>
     </MainItem>
   </ItemGroup>

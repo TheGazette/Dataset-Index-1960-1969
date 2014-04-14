@@ -1804,8 +1804,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>M. St. A</Forenames>
       <PageNumber>5168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1873,8 +1872,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNeile</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>S. St. C</Forenames>
       <PageNumber>5572</PageNumber>
     </MainItem>
   </ItemGroup>

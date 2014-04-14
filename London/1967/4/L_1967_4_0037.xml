@@ -1658,8 +1658,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Byl</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Byl</Forenames>
       <Text>, S. R. V</Text>
       <PageNumber>11524</PageNumber>
     </MainItem>
@@ -2319,8 +2319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Forenames>C. E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. E. St. J</Forenames>
       <PageNumber>12692</PageNumber>
     </MainItem>
   </ItemGroup>

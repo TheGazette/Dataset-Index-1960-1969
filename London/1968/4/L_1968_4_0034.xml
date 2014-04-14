@@ -624,25 +624,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, J. L</Text>
+      <Key>St. John</Key>
+      <Forenames>J. L.</Forenames>
       <PageNumber>12668</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Ruth</Forenames>
-      <Text>, P</Text>
+      <Key>St. Ruth</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>11842</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Vaughan</Forenames>
-      <Text>, T. E. J</Text>
+      <Key>St. Vaughan</Key>
+      <Forenames>T. E. J.</Forenames>
       <PageNumber>10772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,8 +841,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. M. St. G</Forenames>
       <PageNumber>11842</PageNumber>
     </MainItem>
   </ItemGroup>

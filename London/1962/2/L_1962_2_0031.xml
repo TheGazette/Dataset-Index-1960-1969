@@ -1068,8 +1068,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Giuseppi</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>G. St. A</Forenames>
       <PageNumber>2921</PageNumber>
     </MainItem>
   </ItemGroup>

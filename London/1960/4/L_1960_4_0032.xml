@@ -1786,8 +1786,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finlay</Key>
-      <Forenames>H. C. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>H. C. O'H</Forenames>
       <PageNumber>8947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2178,8 +2177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford-Robertson</Key>
-      <Forenames>J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. de C</Forenames>
       <PageNumber>7010</PageNumber>
     </MainItem>
   </ItemGroup>

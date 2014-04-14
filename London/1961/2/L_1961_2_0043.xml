@@ -3,8 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>3065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,8 +18,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, B. A</Text>
+      <Key>O'Toole</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1867,8 +1867,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Veen</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Veen</Forenames>
       <Text>, M</Text>
       <PageNumber>9112</PageNumber>
     </MainItem>

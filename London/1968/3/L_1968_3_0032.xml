@@ -169,8 +169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickard</Key>
-      <Forenames>M.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. de B</Forenames>
       <PageNumber>8609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,8 +643,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. P. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>J. P. O'H</Forenames>
       <PageNumber>7344</PageNumber>
     </MainItem>
   </ItemGroup>

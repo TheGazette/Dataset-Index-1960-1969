@@ -1401,9 +1401,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vivenot</Forenames>
-      <Text>, F. X</Text>
+      <Key>De Vivenot</Key>
+      <Forenames>F. X.</Forenames>
       <PageNumber>7948</PageNumber>
     </MainItem>
   </ItemGroup>

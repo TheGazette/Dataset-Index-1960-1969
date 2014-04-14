@@ -106,8 +106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewar</Key>
-      <Forenames>M. K. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>M. K. O'M</Forenames>
       <PageNumber>5264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,9 +119,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Whalley</Forenames>
-      <Text>, C. V</Text>
+      <Key>De Whalley</Key>
+      <Forenames>C. V.</Forenames>
       <PageNumber>5073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,9 +142,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wilde</Forenames>
-      <Text>, W. E</Text>
+      <Key>De Wilde</Key>
+      <Forenames>W. E.</Forenames>
       <PageNumber>4856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2328,8 +2325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Erleigh</Key>
-      <Forenames>The</Forenames>
-      <Text>Viscount</Text>
+      <Title>The Viscount</Title>
       <PageNumber>3025</PageNumber>
     </MainItem>
   </ItemGroup>

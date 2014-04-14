@@ -336,7 +336,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Begg</Key>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>10265</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1751,7 +1751,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Briffa</Key>
-      <Text>de St. Vincent, E. P. E</Text>
+      <Title>de St.</Title>
+      <Forenames>Vincent</Forenames>
+      <Text>, E. P. E</Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1994,8 +1996,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Broe-Ferguson</Key>
-      <Forenames>E. N.</Forenames>
-      <Text>de B. de B</Text>
+      <Forenames>E. N. de B</Forenames>
+      <Text>. de B</Text>
       <PageNumber>3675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2691,8 +2693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord .</Title>
       <PageNumber>4854</PageNumber>
     </MainItem>
   </ItemGroup>

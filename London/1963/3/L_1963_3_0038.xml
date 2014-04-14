@@ -471,8 +471,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Title>St.</Title>
+      <Key>St. St</Key>
       <Forenames>Aubyn</Forenames>
       <Text>, Aubyn, S. S. G. G. M</Text>
       <PageNumber>7979</PageNumber>
@@ -480,8 +479,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Title>St.</Title>
+      <Key>St. St</Key>
       <Forenames>Aubyn-Sayer</Forenames>
       <Text>, Aubyn-Sayer, J. J. H</Text>
       <PageNumber>5993</PageNumber>
@@ -489,8 +487,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John Blake</Forenames>
+      <Key>St. John</Key>
+      <Forenames>Blake</Forenames>
       <Text>, E. M. M</Text>
       <PageNumber>6838</PageNumber>
     </MainItem>
@@ -902,8 +900,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sansom</Key>
-      <Forenames>A. C. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>A. C. St. Q</Forenames>
       <PageNumber>7910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,8 +957,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. M. St</Forenames>
-      <Text>. G. .:</Text>
+      <Forenames>D. M. St. G</Forenames>
+      <Text>. .:</Text>
       <PageNumber>6265</PageNumber>
     </MainItem>
   </ItemGroup>

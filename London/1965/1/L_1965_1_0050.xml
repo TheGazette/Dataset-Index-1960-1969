@@ -901,8 +901,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>H. J.</Forenames>
-      <Text>de W</Text>
+      <Forenames>H. J. de W</Forenames>
       <PageNumber>71</PageNumber>
     </MainItem>
     <SubItem>
@@ -1783,8 +1782,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>L. St. J</Forenames>
       <PageNumber>2139</PageNumber>
     </MainItem>
   </ItemGroup>

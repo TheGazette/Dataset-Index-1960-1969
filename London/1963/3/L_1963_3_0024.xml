@@ -1197,7 +1197,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>DL U</Text>
+      <Text>
+        <Honour>DL</Honour>
+      </Text>
       <PageNumber>7091</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1945,17 +1945,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bois</Forenames>
-      <Text>, W. J</Text>
+      <Key>De Bois</Key>
+      <Forenames>W. J.</Forenames>
       <PageNumber>79</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, P. R. R</Text>
+      <Key>De Burgh</Key>
+      <Forenames>P. R. R.</Forenames>
       <PageNumber>2309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1992,9 +1990,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gruyther</Forenames>
-      <Text>, A. A</Text>
+      <Key>De Gruyther</Key>
+      <Forenames>A. A.</Forenames>
       <PageNumber>1757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2014,9 +2011,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Laszlo</Forenames>
-      <Text>, D. P</Text>
+      <Key>De Laszlo</Key>
+      <Forenames>D. P.</Forenames>
       <PageNumber>1522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2214,9 +2210,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, C. E</Text>
+      <Key>De Salis</Key>
+      <Forenames>C. E.</Forenames>
       <PageNumber>1163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2231,9 +2226,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Saram</Forenames>
-      <Text>, R. B</Text>
+      <Key>De Saram</Key>
+      <Forenames>R. B.</Forenames>
       <PageNumber>1410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2361,8 +2355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickey</Key>
-      <Forenames>D. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>D. O'R</Forenames>
       <PageNumber>2317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2708,8 +2701,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Donnan</Key>
-      <Forenames>F.</Forenames>
-      <Text>de S</Text>
+      <Forenames>F. de S</Forenames>
       <PageNumber>1410</PageNumber>
     </MainItem>
   </ItemGroup>

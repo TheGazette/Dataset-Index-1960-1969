@@ -1580,8 +1580,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. R.</Forenames>
-      <Text>de G</Text>
+      <Forenames>J. R. de G</Forenames>
       <PageNumber>6466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2419,7 +2418,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>6151</PageNumber>
     </MainItem>
   </ItemGroup>

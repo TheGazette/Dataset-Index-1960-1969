@@ -485,7 +485,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>de Vere Cole, T. H</Text>
+      <Forenames>de Vere Cole</Forenames>
+      <Text>, T. H</Text>
       <PageNumber>5866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1785,8 +1786,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>R. E.</Forenames>
-      <Text>de M</Text>
+      <Forenames>R. E. de M</Forenames>
       <PageNumber>4828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2280,8 +2280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>E. V. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. V. St. J</Forenames>
       <PageNumber>5866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2472,8 +2471,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>5075</PageNumber>
     </MainItem>
   </ItemGroup>

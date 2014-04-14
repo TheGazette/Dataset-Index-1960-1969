@@ -1620,7 +1620,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McMeekin</Key>
-      <Text>T.D. .H</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1674,8 +1676,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>M. St. A</Forenames>
       <PageNumber>7007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2004,7 +2005,9 @@
     <MainItem>
       <Key>Man-ley</Key>
       <Forenames>G.</Forenames>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2406,8 +2409,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. A. St. G</Forenames>
       <PageNumber>7544</PageNumber>
     </MainItem>
   </ItemGroup>

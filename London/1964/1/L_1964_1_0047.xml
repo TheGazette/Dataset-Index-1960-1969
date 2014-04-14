@@ -735,8 +735,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornhill</Key>
-      <Forenames>P.</Forenames>
-      <Text>de G</Text>
+      <Forenames>P. de G</Forenames>
       <PageNumber>934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,8 +838,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thurlow</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord</Title>
       <PageNumber>1765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1879,33 +1877,32 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Kiste</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Kiste</Forenames>
       <Text>, R. E. G</Text>
       <PageNumber>2675</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Merwe</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Merwe</Forenames>
       <Text>, D</Text>
       <PageNumber>1265</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Plank</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Plank</Forenames>
       <Text>, R. E</Text>
       <PageNumber>2680</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Eesbeck</Forenames>
-      <Text>, P. J</Text>
+      <Key>Van Eesbeck</Key>
+      <Forenames>P. J</Forenames>
       <PageNumber>191</PageNumber>
     </MainItem>
   </ItemGroup>

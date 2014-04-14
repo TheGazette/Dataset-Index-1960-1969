@@ -1018,8 +1018,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gainer</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>N. St. C</Forenames>
       <PageNumber>2158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,8 +1032,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gainsford</Key>
-      <Forenames>R. D.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. D. de V</Forenames>
       <PageNumber>1616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2231,8 +2229,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>A. P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>A. P. de B</Forenames>
       <PageNumber>354</PageNumber>
       <PageNumber>1346</PageNumber>
     </MainItem>

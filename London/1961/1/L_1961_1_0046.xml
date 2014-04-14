@@ -201,8 +201,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G. J.</Forenames>
       <PageNumber>774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,15 +288,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, J. D</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>1121</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, F. H</Text>
+      <Key>O'Neill</Key>
+      <Forenames>F. H.</Forenames>
       <PageNumber>1920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,8 +316,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, C. E. N</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>C. E. N.</Forenames>
       <PageNumber>27</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2128,8 +2128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudolph</Key>
-      <Forenames>R.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. de V</Forenames>
       <PageNumber>33</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2441,8 +2440,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Severne</Key>
-      <Forenames>J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>28</PageNumber>
     </MainItem>
   </ItemGroup>

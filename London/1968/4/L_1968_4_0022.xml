@@ -1320,8 +1320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calderwood</Key>
-      <Forenames>K. D. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>K. D. O'D</Forenames>
       <PageNumber>11322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2339,8 +2338,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Forenames>P. N.</Forenames>
-      <Text>de R</Text>
+      <Forenames>P. N. de R</Forenames>
       <PageNumber>13794</PageNumber>
     </MainItem>
   </ItemGroup>

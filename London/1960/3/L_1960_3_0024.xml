@@ -79,7 +79,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bodell</Key>
-      <Forenames>A. De V.</Forenames>
+      <Forenames>A. De V</Forenames>
       <PageNumber>6087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +992,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. S. Von P.</Forenames>
+      <Forenames>H. S. Von P</Forenames>
       <PageNumber>6609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2295,8 +2295,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>N. St. C</Forenames>
       <PageNumber>6325</PageNumber>
     </MainItem>
   </ItemGroup>

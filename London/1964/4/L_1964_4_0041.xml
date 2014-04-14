@@ -301,8 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savill</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>10107</PageNumber>
     </MainItem>
   </ItemGroup>

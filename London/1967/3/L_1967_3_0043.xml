@@ -85,7 +85,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ].</KeyDitto>
       </Key>
-      <Text>de C. K</Text>
+      <Title>de C.</Title>
+      <Forenames>K.</Forenames>
       <PageNumber>7396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1872,7 +1873,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeo</Key>
-      <Forenames>F. G. De V.</Forenames>
+      <Forenames>F. G. De V</Forenames>
       <PageNumber>7388</PageNumber>
     </MainItem>
   </ItemGroup>

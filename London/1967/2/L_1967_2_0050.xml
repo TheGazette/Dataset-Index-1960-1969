@@ -2,8 +2,8 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="050" pageID="https://www.thegazette.co.uk/id/London/index/year/1967/volume/2/page/050" pagePDF="https://www.thegazette.co.uk/London/index/year/1967/volume/2/page/050" pageRDF="https://www.thegazette.co.uk/London/index/year/1967/volume/2/page/050?view=linked-data" type="index" volume="2" year="1967">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. K. A</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. K. A.</Forenames>
       <PageNumber>5462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -27,8 +27,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, D. M</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>D. M.</Forenames>
       <PageNumber>6802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,8 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, B. C</Text>
+      <Key>O'Connor</Key>
+      <Forenames>B. C.</Forenames>
       <PageNumber>3838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,8 +102,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor-Fenton, J. P</Text>
+      <Key>O'Connor-Fenton</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>3814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,8 +130,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, G. M</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>G. M.</Forenames>
       <PageNumber>5197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,15 +146,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, M</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>6809</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, B. A</Text>
+      <Key>O'Flaherty</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>5461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,23 +213,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, F. W</Text>
+      <Key>O'Grady</Key>
+      <Forenames>F. W.</Forenames>
       <PageNumber>3849</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, A. R</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>A. R.</Forenames>
       <PageNumber>5198</PageNumber>
       <PageNumber>7067</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, J. N</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>J. N.</Forenames>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,8 +244,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, H</Text>
+      <Key>O'Hara</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,8 +263,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. M. F. J. O</Forenames>
-      <Text>'Henley-Sibley,</Text>
+      <Forenames>T. M. F. J. O'Henley-Sibley</Forenames>
+      <Text>,</Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,8 +292,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, D. O</Text>
+      <Key>O'Leary</Key>
+      <Forenames>D. O.</Forenames>
       <PageNumber>4582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,15 +476,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'May, T. L. Mc. K</Text>
+      <Key>O'May</Key>
+      <Forenames>T. L. Mc</Forenames>
+      <Text>. K</Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, C</Text>
+      <Key>O'Neill</Key>
+      <Forenames>C</Forenames>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,8 +669,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, K. M</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>K. M.</Forenames>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,8 +690,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, G</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,8 +713,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, T. C</Text>
+      <Key>O'Toole</Key>
+      <Forenames>T. C.</Forenames>
       <PageNumber>6560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1837,8 +1838,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de V</Text>
+      <Forenames>P. de V</Forenames>
       <PageNumber>6805</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1710,17 +1710,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Cent</Forenames>
-      <Text>, D. C, Sub. not</Text>
+      <Key>De Cent</Key>
+      <Forenames>D. C</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>8943</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Cruz</Forenames>
-      <Text>, S. J</Text>
+      <Key>De Cruz</Key>
+      <Forenames>S. J.</Forenames>
       <PageNumber>7272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1734,11 +1733,46 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Haye</Forenames>
+      <Key>De La</Key>
+      <Forenames>Haye</Forenames>
       <Text>, P.,</Text>
       <PageNumber>6859</PageNumber>
       <PageNumber>6859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Remusat</Key>
+      <Forenames>P. J. F. F. A.</Forenames>
+      <PageNumber>8714</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rebeck</Key>
+      <Forenames>B. M.</Forenames>
+      <PageNumber>8794</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ville</Key>
+      <Forenames>J. M. A.</Forenames>
+      <PageNumber>6692</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vote</Key>
+      <Forenames>A. V.</Forenames>
+      <PageNumber>7732</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Watteville</Key>
+      <Forenames>A. E. L.</Forenames>
+      <PageNumber>7728</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2608,6 +2642,13 @@
       <Key>Drury</Key>
       <Forenames>T. F.</Forenames>
       <PageNumber>8142</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Boulay</Key>
+      <Forenames>P. H.</Forenames>
+      <PageNumber>8389</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

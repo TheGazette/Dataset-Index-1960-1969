@@ -325,7 +325,9 @@
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>D.F.C. (Malaysia), exemption under Moneylenders' Acts</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9243</PageNumber>
     </MainItem>
   </ItemGroup>

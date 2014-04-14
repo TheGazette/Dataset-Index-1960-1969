@@ -636,8 +636,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>B. St. L</Forenames>
       <PageNumber>2588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1577,8 +1576,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. de B</Forenames>
       <PageNumber>1003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2034,8 +2032,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>R.</Forenames>
-      <Text>de L</Text>
+      <Forenames>R. de L</Forenames>
       <PageNumber>1165</PageNumber>
     </MainItem>
   </ItemGroup>

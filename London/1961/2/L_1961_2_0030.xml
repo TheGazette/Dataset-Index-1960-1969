@@ -561,8 +561,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cummings</Key>
-      <Forenames>E. I. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>E. I. St. C</Forenames>
       <PageNumber>47711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,8 +1128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dashwood</Key>
-      <Forenames>M.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. de C</Forenames>
       <PageNumber>3670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1917,18 +1915,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bono</Forenames>
-      <Text>, V. J</Text>
+      <Key>De Bono</Key>
+      <Forenames>V. J.</Forenames>
       <PageNumber>2500</PageNumber>
       <PageNumber>4374</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Clermont</Forenames>
-      <Text>, P. A. J</Text>
+      <Key>De Clermont</Key>
+      <Forenames>P. A. J.</Forenames>
       <PageNumber>4489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1962,9 +1958,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Garis</Forenames>
-      <Text>, DR. W</Text>
+      <Key>de Gale</Key>
+      <Forenames>D. O.</Forenames>
+      <PageNumber>3505</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Garis</Key>
+      <Text>DR. W</Text>
       <PageNumber>4587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1979,10 +1981,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gex</Forenames>
-      <Text>, G. F</Text>
+      <Key>De Gex</Key>
+      <Forenames>G. F.</Forenames>
       <PageNumber>2719</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Grey</Key>
+      <Forenames>Waiter</Forenames>
+      <Text>, J. A</Text>
+      <PageNumber>3152</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2024,9 +2033,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Leacy</Forenames>
-      <Text>, J. R</Text>
+      <Key>De Leacy</Key>
+      <Forenames>J. R.</Forenames>
       <PageNumber>4374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2195,25 +2203,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Penning</Forenames>
-      <Text>, G. A. W</Text>
+      <Key>De Penning</Key>
+      <Forenames>G. A. W.</Forenames>
       <PageNumber>2642</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Robeck</Forenames>
-      <Text>, P</Text>
+      <Key>De Robeck</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>3261</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Roeper</Forenames>
-      <Text>, G. F</Text>
+      <Key>De Roeper</Key>
+      <Forenames>G. F.</Forenames>
       <PageNumber>4764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2278,9 +2283,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wardt</Forenames>
-      <Text>, G. M. :</Text>
+      <Key>De Wardt</Key>
+      <Forenames>G. M.</Forenames>
+      <Text>:</Text>
       <PageNumber>4281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2332,9 +2337,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Zouche</Forenames>
-      <Text>, R. B</Text>
+      <Key>De Zouche</Key>
+      <Forenames>R. B.</Forenames>
       <PageNumber>3336</PageNumber>
     </MainItem>
   </ItemGroup>

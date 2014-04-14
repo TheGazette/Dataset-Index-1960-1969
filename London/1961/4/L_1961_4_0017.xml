@@ -590,8 +590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Absolon</Key>
-      <Forenames>J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>8784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,8 +876,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J. R</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. R</Text>
       <PageNumber>7191</PageNumber>
     </MainItem>
   </ItemGroup>

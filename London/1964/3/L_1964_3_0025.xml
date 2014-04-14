@@ -1429,8 +1429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faunce</Key>
-      <Forenames>E.</Forenames>
-      <Text>de L</Text>
+      <Forenames>E. de L</Forenames>
       <PageNumber>7081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1917,8 +1916,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. D.</Forenames>
-      <Text>de R</Text>
+      <Forenames>M. D. de R</Forenames>
       <PageNumber>7601</PageNumber>
     </MainItem>
   </ItemGroup>

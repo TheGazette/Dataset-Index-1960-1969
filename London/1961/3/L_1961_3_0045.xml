@@ -267,8 +267,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>B. N. St</Forenames>
-      <Text>. C. ,</Text>
+      <Forenames>B. N. St. C</Forenames>
+      <Text>. ,</Text>
       <PageNumber>4934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +523,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turtle</Key>
-      <Forenames>P. De B.</Forenames>
+      <Forenames>P. De B</Forenames>
       <PageNumber>6677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,9 +898,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Blommenstein</Forenames>
-      <Text>, V. C</Text>
+      <Key>Van Blommenstein</Key>
+      <Forenames>V. C.</Forenames>
       <PageNumber>6882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,8 +919,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Noot</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Noot</Forenames>
       <Text>, C. H</Text>
       <PageNumber>5669</PageNumber>
     </MainItem>
@@ -1227,10 +1226,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Bethmann-Hollweg</Forenames>
-      <Text>, A</Text>
+      <Key>Von Bethmann-Hollweg</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>6756</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Maltzahn</Key>
+      <Forenames>E. J. C. R.</Forenames>
+      <PageNumber>6543</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1799,8 +1804,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>F.</Forenames>
-      <Text>de B</Text>
+      <Forenames>F. de B</Forenames>
       <PageNumber>5274</PageNumber>
     </MainItem>
   </ItemGroup>

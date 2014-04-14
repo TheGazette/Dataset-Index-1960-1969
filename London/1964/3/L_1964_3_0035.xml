@@ -216,8 +216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purcell</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. O'C</Forenames>
       <PageNumber>6604</PageNumber>
     </MainItem>
   </ItemGroup>

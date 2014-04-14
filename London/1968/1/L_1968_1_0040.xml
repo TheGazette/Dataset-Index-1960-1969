@@ -356,8 +356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallalieu</Key>
-      <Forenames>L. J.</Forenames>
-      <Text>de L</Text>
+      <Forenames>L. J. de L</Forenames>
       <PageNumber>607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +549,8 @@
   <ItemGroup>
     <MainItem>
       <Key>March-Phillips</Key>
-      <Text>de Lisle, H. L. R</Text>
+      <Forenames>de Lisle</Forenames>
+      <Text>, H. L. R</Text>
       <PageNumber>2657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1695,8 +1695,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>T.</Forenames>
-      <Text>de B</Text>
+      <Forenames>T. de B</Forenames>
       <PageNumber>1765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2121,9 +2120,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Molesworth-St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, J. A</Text>
+      <Key>Molesworth-St. Aubyn</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>74</PageNumber>
     </MainItem>
   </ItemGroup>

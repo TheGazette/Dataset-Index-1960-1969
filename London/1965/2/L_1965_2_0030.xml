@@ -1720,8 +1720,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eve</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>5974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2313,8 +2312,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>K.</Forenames>
-      <Text>de B</Text>
+      <Forenames>K. de B</Forenames>
       <PageNumber>3441</PageNumber>
     </MainItem>
   </ItemGroup>

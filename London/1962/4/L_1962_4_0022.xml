@@ -1526,17 +1526,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Belder</Forenames>
-      <Text>, K. R. J-</Text>
+      <Key>De Belder</Key>
+      <Forenames>K. R.</Forenames>
+      <Text>J-</Text>
       <PageNumber>9269</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcy-Ireland</Forenames>
-      <Text>, H. D</Text>
+      <Key>De Courcy-Ireland</Key>
+      <Forenames>H. D.</Forenames>
       <PageNumber>9353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1587,9 +1586,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Looze</Forenames>
-      <Text>, G</Text>
+      <Key>De Looze</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>9639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2649,8 +2647,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drewitt</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G. N</Text>
+      <Forenames>M. St. G</Forenames>
+      <Text>. N</Text>
       <PageNumber>8452</PageNumber>
     </MainItem>
   </ItemGroup>

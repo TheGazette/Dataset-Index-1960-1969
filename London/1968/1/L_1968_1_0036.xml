@@ -691,8 +691,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haworth</Key>
-      <Forenames>R. C. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>R. C. O'B</Forenames>
       <PageNumber>1181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1486,8 +1485,7 @@
       <Key>
         <KeyDitto>— ___</KeyDitto>
       </Key>
-      <Forenames>M. M. P. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>M. M. P. O'C</Forenames>
       <PageNumber>1189</PageNumber>
     </MainItem>
   </ItemGroup>

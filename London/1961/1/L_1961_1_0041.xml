@@ -160,8 +160,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gara, W</Text>
+      <Key>O'Gara</Key>
+      <Forenames>W .</Forenames>
       <PageNumber>87</PageNumber>
     </MainItem>
   </ItemGroup>

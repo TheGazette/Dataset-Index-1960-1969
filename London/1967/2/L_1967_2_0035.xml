@@ -1086,8 +1086,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Daniell</Key>
-      <Forenames>A. P.</Forenames>
-      <Text>de T, .&lt;</Text>
+      <Forenames>A. P. de T</Forenames>
+      <Text>, .&lt;</Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1733,10 +1733,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beaumont</Forenames>
-      <Text>, H. A</Text>
+      <Key>De Beaumont</Key>
+      <Forenames>H. A.</Forenames>
       <PageNumber>6334</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brunner</Key>
+      <Forenames>N. G. W.</Forenames>
+      <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1748,6 +1754,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Chair</Key>
+      <Forenames>D. G.</Forenames>
+      <PageNumber>5716</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deeman</Key>
       <Forenames>S. H.</Forenames>
       <PageNumber>4587</PageNumber>
@@ -1755,9 +1768,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Foubert</Forenames>
-      <Text>, N. O. H</Text>
+      <Key>De Foubert</Key>
+      <Forenames>N. O. H.</Forenames>
       <PageNumber>5458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1791,8 +1803,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Haye</Forenames>
+      <Key>De La</Key>
+      <Forenames>Haye</Forenames>
       <Text>, P</Text>
       <PageNumber>4583</PageNumber>
     </MainItem>
@@ -1813,9 +1825,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lazlo</Forenames>
-      <Text>, D. P</Text>
+      <Key>De Lazlo</Key>
+      <Forenames>D. P.</Forenames>
       <PageNumber>3845</PageNumber>
     </MainItem>
   </ItemGroup>

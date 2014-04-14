@@ -518,8 +518,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Longsdon</Key>
-      <Forenames>S. M.</Forenames>
-      <Text>de L</Text>
+      <Forenames>S. M. de L</Forenames>
       <PageNumber>8140</PageNumber>
     </MainItem>
   </ItemGroup>

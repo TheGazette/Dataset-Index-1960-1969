@@ -2,8 +2,8 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="026" pageID="https://www.thegazette.co.uk/id/London/index/year/1969/volume/4/page/026" pagePDF="https://www.thegazette.co.uk/London/index/year/1969/volume/4/page/026" pageRDF="https://www.thegazette.co.uk/London/index/year/1969/volume/4/page/026?view=linked-data" type="index" volume="4" year="1969">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, E. T</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>E. T.</Forenames>
       <PageNumber>11812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,8 +34,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flanagan, P. E</Text>
+      <Key>O'Flanagan</Key>
+      <Forenames>P. E.</Forenames>
       <PageNumber>12865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,8 +78,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, R. A</Text>
+      <Key>O'Leary</Key>
+      <Forenames>R. A.</Forenames>
       <PageNumber>11377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,22 +188,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meeghan, P. D</Text>
+      <Key>O'Meeghan</Key>
+      <Forenames>P. D.</Forenames>
       <PageNumber>11376</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>12554</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, The Lord</Text>
+      <Key>O'Neill</Key>
+      <Title>The Lord .</Title>
       <PageNumber>11812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,8 +237,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, P. J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>11390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,8 +272,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, J. J</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>12553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,15 +329,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, K. M. P</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>K. M. P.</Forenames>
       <PageNumber>12236</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, M. E</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>M. E.</Forenames>
       <PageNumber>12865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1950,7 +1950,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitman</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>12555</PageNumber>
     </MainItem>
   </ItemGroup>

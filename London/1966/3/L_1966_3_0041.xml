@@ -10,17 +10,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Arend</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Arend</Forenames>
       <Text>, J. F</Text>
       <PageNumber>7828</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Haefton</Forenames>
-      <Text>, P. P. G</Text>
+      <Key>Van Haefton</Key>
+      <Forenames>P. P. G.</Forenames>
       <PageNumber>7824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +871,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>10477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1658,8 +1659,7 @@
       <Key>
         <KeyDitto>___ —___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. J. St. C</Forenames>
       <PageNumber>7558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1776,8 +1776,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weldon</Key>
-      <Forenames>H.</Forenames>
-      <Text>de W</Text>
+      <Forenames>H. de W</Forenames>
       <PageNumber>9035</PageNumber>
     </MainItem>
   </ItemGroup>

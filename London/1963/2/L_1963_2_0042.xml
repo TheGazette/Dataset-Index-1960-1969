@@ -128,8 +128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>5263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,8 +318,8 @@
       <Key>
         <KeyDitto>___ ___ ,</KeyDitto>
       </Key>
-      <Forenames>M. A. St</Forenames>
-      <Text>. C. K</Text>
+      <Forenames>M. A. St. C</Forenames>
+      <Text>. K</Text>
       <PageNumber>5262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,8 +440,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skeen</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>O. St. J</Forenames>
       <PageNumber>5261</PageNumber>
     </MainItem>
   </ItemGroup>

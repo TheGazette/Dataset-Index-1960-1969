@@ -528,8 +528,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey</Key>
-      <Forenames>M. J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. J. St. J</Forenames>
       <PageNumber>8137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,8 +543,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gribbon</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. G 3..:</Text>
+      <Forenames>N. St. G</Forenames>
+      <Text>3..:</Text>
       <PageNumber>7557</PageNumber>
     </MainItem>
   </ItemGroup>

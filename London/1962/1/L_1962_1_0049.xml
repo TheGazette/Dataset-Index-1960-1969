@@ -261,7 +261,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>2603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,8 +657,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Valentine</Key>
-      <Forenames>B. E. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. E. St. C</Forenames>
       <PageNumber>2399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,17 +710,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Brugem</Forenames>
-      <Text>, M. J</Text>
+      <Key>Van Brugem</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>2050</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gutsem</Forenames>
-      <Text>, H. B. E</Text>
+      <Key>Van Gutsem</Key>
+      <Forenames>H. B. E.</Forenames>
       <PageNumber>2131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,8 +731,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Horst</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Horst</Forenames>
       <Text>, R. C</Text>
       <PageNumber>2605</PageNumber>
     </MainItem>
@@ -748,9 +747,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Haeften</Forenames>
-      <Text>, P. P. C</Text>
+      <Key>Van Haeften</Key>
+      <Forenames>P. P. C.</Forenames>
       <PageNumber>2057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1543,8 +1541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wall</Key>
-      <Forenames>C. R. St</Forenames>
-      <Text>. Q. ... I1B</Text>
+      <Forenames>C. R. St. Q</Forenames>
+      <Text>. ... I1B</Text>
       <PageNumber>02</PageNumber>
     </MainItem>
   </ItemGroup>

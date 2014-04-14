@@ -257,8 +257,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. St. G</Forenames>
       <PageNumber>4492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,8 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jago</Key>
-      <Forenames>T.</Forenames>
-      <Text>de F</Text>
+      <Forenames>T. de F</Forenames>
       <PageNumber>2535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2209,8 +2207,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de C</Text>
+      <Forenames>P. de C</Forenames>
       <PageNumber>2492</PageNumber>
     </MainItem>
   </ItemGroup>

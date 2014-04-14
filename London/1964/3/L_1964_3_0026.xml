@@ -1811,8 +1811,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glen</Key>
-      <Forenames>A. M.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. M. de C</Forenames>
       <PageNumber>8209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1852,9 +1851,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duchess of</Text>
+      <Title>H.R.H. The Duchess</Title>
+      <Text>of</Text>
       <PageNumber>7419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2300,8 +2298,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon-Steward</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>R. St. L</Forenames>
       <PageNumber>7318</PageNumber>
     </MainItem>
   </ItemGroup>

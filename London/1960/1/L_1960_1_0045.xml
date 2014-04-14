@@ -1390,9 +1390,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Lottum</Forenames>
-      <Text>, G. W.-</Text>
+      <Key>Van Lottum</Key>
+      <Forenames>G. W.</Forenames>
+      <Text>-</Text>
       <PageNumber>687</PageNumber>
     </MainItem>
   </ItemGroup>

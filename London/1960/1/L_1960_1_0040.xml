@@ -355,8 +355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Money</Key>
-      <Forenames>J. E.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. E. de B</Forenames>
       <PageNumber>1</PageNumber>
       <PageNumber>719</PageNumber>
     </MainItem>
@@ -458,7 +457,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>Cuninghame, Sir J. C. F., Bt.,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2505,8 +2506,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A</Forenames>
       <PageNumber>901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2519,8 +2520,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A. E</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A. E.</Forenames>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2573,8 +2574,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doherty, T. R</Text>
+      <Key>O'Doherty</Key>
+      <Forenames>T. R.</Forenames>
       <PageNumber>76</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2596,8 +2597,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, P. D</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>P. D.</Forenames>
       <PageNumber>1800</PageNumber>
     </MainItem>
   </ItemGroup>

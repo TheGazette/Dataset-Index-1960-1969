@@ -17,8 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gates</Key>
-      <Forenames>P. A. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>P. A. St. Q</Forenames>
       <PageNumber>2537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,8 +749,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>R. J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. J. de C</Forenames>
       <PageNumber>4023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2622,7 +2620,9 @@
       <Key>Hamilton-Dalrymple</Key>
       <Title>Sir</Title>
       <Forenames>H. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2536</PageNumber>
     </MainItem>
   </ItemGroup>

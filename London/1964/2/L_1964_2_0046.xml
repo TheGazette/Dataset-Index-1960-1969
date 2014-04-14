@@ -598,17 +598,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Bergen</Forenames>
-      <Text>, K. E</Text>
+      <Key>Van Bergen</Key>
+      <Forenames>K. E.</Forenames>
       <PageNumber>3195</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Loock</Forenames>
-      <Text>, G. E</Text>
+      <Key>Van Loock</Key>
+      <Forenames>G. E.</Forenames>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>

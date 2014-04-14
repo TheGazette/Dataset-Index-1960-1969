@@ -1255,8 +1255,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>10440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,8 +1269,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Daly, E. F</Text>
+      <Key>O'Daly</Key>
+      <Forenames>E. F.</Forenames>
       <PageNumber>8922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1283,8 +1283,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dea, M. J. M</Text>
+      <Key>O'Dea</Key>
+      <Forenames>M. J. M.</Forenames>
       <PageNumber>9306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,8 +1297,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>10235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,15 +1324,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Duffy, S. D</Text>
+      <Key>O'Duffy</Key>
+      <Forenames>S. D.</Forenames>
       <PageNumber>9511</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, J. M</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>8926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,8 +1346,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, D. W. V. P</Text>
+      <Key>O'Flaherty</Key>
+      <Forenames>D. W. V. P.</Forenames>
       <PageNumber>10436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,8 +1360,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, W. R</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>W. R.</Forenames>
       <PageNumber>10440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,15 +1413,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, D. J</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>D. J.</Forenames>
       <PageNumber>9312</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, H. A:</Text>
+      <Key>O'Grady</Key>
+      <Forenames>H. A</Forenames>
+      <Text>:</Text>
       <PageNumber>8410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,8 +1431,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>O</Forenames>
-      <Text>'Hagan, A. B</Text>
+      <Forenames>O'Hagan</Forenames>
+      <Text>, A. B</Text>
       <PageNumber>9387</PageNumber>
     </MainItem>
     <SubItem>
@@ -1441,8 +1442,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlan-Ribbins, St. J. K H-</Text>
+      <Key>O'Hanlan-Ribbins</Key>
+      <Title>St. J.</Title>
+      <Forenames>K</Forenames>
+      <Text>H-</Text>
       <PageNumber>9305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1463,8 +1466,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, M. G</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>M. G.</Forenames>
       <PageNumber>8921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1557,8 +1560,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. S. L</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. S. L.</Forenames>
       <PageNumber>10435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1684,8 +1687,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, K. M. P</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>K. M. P.</Forenames>
       <PageNumber>8403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1698,8 +1701,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, E. K</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>E. K.</Forenames>
       <PageNumber>9507</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -205,8 +205,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>L.</Forenames>
-      <Text>de M</Text>
+      <Forenames>L. de M</Forenames>
       <PageNumber>8074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1669,25 +1668,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Berg</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Berg</Forenames>
       <Text>, J. S</Text>
       <PageNumber>9082</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Haefton</Forenames>
-      <Text>, P. P. C</Text>
+      <Key>Van Haefton</Key>
+      <Forenames>P. P. C.</Forenames>
       <PageNumber>7786</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Orton</Forenames>
-      <Text>, C. E</Text>
+      <Key>Van Orton</Key>
+      <Forenames>C. E.</Forenames>
       <PageNumber>6723</PageNumber>
     </MainItem>
   </ItemGroup>

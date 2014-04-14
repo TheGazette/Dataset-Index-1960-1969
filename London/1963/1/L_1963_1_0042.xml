@@ -1603,17 +1603,15 @@
   <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>George</Forenames>
-      <Text>, F. F. B</Text>
+      <Key>St. George</Key>
+      <Forenames>F. F. B.</Forenames>
       <PageNumber>2735</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, R. E. T</Text>
+      <Key>St. John</Key>
+      <Forenames>R. E. T.</Forenames>
       <PageNumber>1183</PageNumber>
     </MainItem>
   </ItemGroup>

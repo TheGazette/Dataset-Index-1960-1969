@@ -671,7 +671,9 @@
     <MainItem>
       <Key>Crosse-Kelly</Key>
       <Forenames>R.</Forenames>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>11793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2096,9 +2098,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Larrinaga</Forenames>
-      <Text>, R. A. R</Text>
+      <Key>De Larrinaga</Key>
+      <Forenames>R. A. R.</Forenames>
       <PageNumber>13270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2132,9 +2133,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mowbray</Forenames>
-      <Text>, C. J</Text>
+      <Key>De Mowbray</Key>
+      <Forenames>C. J.</Forenames>
       <PageNumber>11524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2148,8 +2148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denning</Key>
-      <Forenames>J. H. K.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. H. K. de W</Forenames>
       <PageNumber>11795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2199,9 +2198,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rougemont</Forenames>
-      <Text>, C. I</Text>
+      <Key>De Rougemont</Key>
+      <Forenames>C. I.</Forenames>
       <PageNumber>11791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2221,9 +2219,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, R. G</Text>
+      <Key>De Souza</Key>
+      <Forenames>R. G.</Forenames>
       <PageNumber>13276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2279,8 +2276,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. K. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>M. K. O'M</Forenames>
       <PageNumber>14160</PageNumber>
     </MainItem>
   </ItemGroup>

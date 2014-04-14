@@ -640,8 +640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenny</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>E. St. B</Forenames>
       <PageNumber>5690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1949,7 +1948,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Larthe</Key>
-      <Text>de Langladure, J. E. M</Text>
+      <Forenames>de Langladure</Forenames>
+      <Text>, J. E. M</Text>
       <PageNumber>4123</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -562,8 +562,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T.</Forenames>
-      <Text>de P</Text>
+      <Forenames>T. de P</Forenames>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,9 +1031,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gruyther</Forenames>
-      <Text>, A. A</Text>
+      <Key>De Gruyther</Key>
+      <Forenames>A. A.</Forenames>
       <PageNumber>10528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,9 +1059,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lay</Forenames>
-      <Text>, J</Text>
+      <Key>De Lay</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>10440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,9 +1073,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Marco</Forenames>
-      <Text>, M. L</Text>
+      <Key>De Marco</Key>
+      <Forenames>M. L.</Forenames>
       <PageNumber>8921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1244,9 +1240,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rohan</Forenames>
-      <Text>, L. F</Text>
+      <Key>De Rohan</Key>
+      <Forenames>L. F.</Forenames>
       <PageNumber>10818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2274,8 +2269,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drew</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>G. St. Q</Forenames>
       <PageNumber>11075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2334,8 +2328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drewitt</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. St. G</Forenames>
       <PageNumber>9510</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1027,8 +1027,8 @@
     <MainItem>
       <Key>BaWitelot</Key>
       <Title>Sir</Title>
-      <Forenames>B. W.</Forenames>
-      <Text>de S. '</Text>
+      <Forenames>B. W. de S</Forenames>
+      <Text>. '</Text>
       <PageNumber>1759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1767,8 +1767,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. H.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>H.</Forenames>
       <PageNumber>23119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1963,8 +1963,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E. B. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>E. B. O'H</Forenames>
       <PageNumber>213</PageNumber>
     </MainItem>
   </ItemGroup>

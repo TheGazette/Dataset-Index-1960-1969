@@ -646,9 +646,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bourcier</Forenames>
-      <Text>, P. G:... Dean, A. S</Text>
+      <Key>De Bourcier</Key>
+      <Forenames>P. G</Forenames>
+      <Text>:... Dean, A. S</Text>
       <PageNumber>5804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2524,8 +2524,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>6412</PageNumber>
     </MainItem>
   </ItemGroup>

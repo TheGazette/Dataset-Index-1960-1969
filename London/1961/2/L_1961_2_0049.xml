@@ -806,8 +806,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Horst</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Horst</Forenames>
       <Text>, R. C</Text>
       <PageNumber>4779</PageNumber>
     </MainItem>
@@ -1879,8 +1879,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. J.</Forenames>
-      <Text>de W. ..I</Text>
+      <Forenames>J. J. de W</Forenames>
+      <Text>. ..I</Text>
       <PageNumber>2959</PageNumber>
     </MainItem>
   </ItemGroup>

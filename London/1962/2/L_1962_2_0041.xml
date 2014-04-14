@@ -732,8 +732,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pringle</Key>
-      <Forenames>I. G. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>I. G. St. C</Forenames>
       <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>

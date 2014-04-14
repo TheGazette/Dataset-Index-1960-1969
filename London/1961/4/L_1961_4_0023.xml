@@ -515,10 +515,32 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bburcier</Key>
+      <Forenames>P. G.</Forenames>
+      <PageNumber>8259</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>deCandole</Key>
       <Title>Rev.</Title>
       <Forenames>C. P.</Forenames>
       <PageNumber>9213</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Charmoy</Key>
+      <Forenames>C. M.</Forenames>
+      <Text>DE</Text>
+      <PageNumber>7859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cburcy-Ireland</Key>
+      <Forenames>D. G.</Forenames>
+      <PageNumber>8435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -533,6 +555,13 @@
       <Key>Deeks</Key>
       <Forenames>F. J.</Forenames>
       <PageNumber>7693</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ferrars</Key>
+      <Forenames>P. K. D.</Forenames>
+      <PageNumber>8784</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -572,10 +601,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lyle Turner</Forenames>
+      <Key>De Lyle</Key>
+      <Forenames>Turner</Forenames>
       <Text>, C</Text>
       <PageNumber>7855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mercado</Key>
+      <Forenames>R. E. C.</Forenames>
+      <PageNumber>8789</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -677,6 +713,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Quincey</Key>
+      <Forenames>A. B.</Forenames>
+      <PageNumber>9038</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Raeve</Key>
+      <Forenames>P. A.</Forenames>
+      <PageNumber>7864</PageNumber>
+      <PageNumber>9212</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Darham</Key>
       <Forenames>J. E.</Forenames>
       <Text>.:</Text>
@@ -692,6 +743,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Roithschild</Key>
+      <Forenames>L. D.</Forenames>
+      <PageNumber>7869</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>deSt</Key>
       <Forenames>Croix</Forenames>
       <Text>, A. M. J</Text>
@@ -700,9 +758,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, H. J. A. F</Text>
+      <Key>De Salis</Key>
+      <Forenames>H. J. A. F.</Forenames>
       <PageNumber>9212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,6 +781,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Verteudl</Key>
+      <Text>. R. A. P</Text>
+      <PageNumber>8259</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dewe</Key>
       <Forenames>Mathews</Forenames>
       <Text>, B. P</Text>
@@ -735,6 +799,13 @@
       <Key>Dewey</Key>
       <Forenames>M. G.</Forenames>
       <PageNumber>9290</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Whalley</Key>
+      <Forenames>C. V.</Forenames>
+      <PageNumber>8436</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2290,8 +2361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duvoisin</Key>
-      <Forenames>J. F.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. F. de W</Forenames>
       <PageNumber>7129</PageNumber>
       <PageNumber>8967</PageNumber>
       <PageNumber>8967</PageNumber>

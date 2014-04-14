@@ -1833,8 +1833,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cathcart</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl</Text>
+      <Title>The Earl .</Title>
       <PageNumber>1155</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -388,6 +388,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Laun</Key>
+      <Forenames>W.</Forenames>
+      <Text>'</Text>
+      <PageNumber>5307</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vanner</Key>
       <Forenames>R. C.</Forenames>
       <PageNumber>6611</PageNumber>

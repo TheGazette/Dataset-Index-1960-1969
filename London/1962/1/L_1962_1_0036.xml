@@ -1381,8 +1381,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>A. W.</Forenames>
-      <Text>de V. . .. ,</Text>
+      <Forenames>A. W. de V</Forenames>
+      <Text>. . .. ,</Text>
       <PageNumber>587</PageNumber>
     </MainItem>
   </ItemGroup>

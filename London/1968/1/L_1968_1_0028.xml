@@ -21,8 +21,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. V. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>G. V. O'B</Forenames>
       <PageNumber>78</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2017,7 +2016,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>de Sugg, R. G. L</Text>
+      <Forenames>de Sugg</Forenames>
+      <Text>, R. G. L</Text>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>

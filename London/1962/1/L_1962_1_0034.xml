@@ -701,7 +701,9 @@
     <MainItem>
       <Key>Haig</Key>
       <Forenames>J.</Forenames>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>1473</PageNumber>
     </MainItem>
   </ItemGroup>

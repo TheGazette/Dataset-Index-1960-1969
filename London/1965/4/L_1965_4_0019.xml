@@ -695,8 +695,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>O. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>O. St. G</Forenames>
       <PageNumber>11305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,8 +1441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Babington</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>11540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1509,8 +1507,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baglee</Key>
-      <Title>St.</Title>
-      <Forenames>J. B.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>B.</Forenames>
       <PageNumber>10972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2362,8 +2360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnetson</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>10429</PageNumber>
     </MainItem>
   </ItemGroup>

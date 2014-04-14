@@ -362,8 +362,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vere Hunt</Forenames>
+      <Key>De Vere</Key>
+      <Forenames>Hunt</Forenames>
       <Text>, P. A</Text>
       <PageNumber>10539</PageNumber>
     </MainItem>
@@ -424,9 +424,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wilde</Forenames>
-      <Text>, W. E</Text>
+      <Key>De Wilde</Key>
+      <Forenames>W. E.</Forenames>
       <PageNumber>10285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,8 +1212,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>G. St. Q</Forenames>
       <PageNumber>10543</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -142,8 +142,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, D. K</Text>
+      <Key>O'Shea</Key>
+      <Forenames>D. K.</Forenames>
       <PageNumber>2996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,8 +189,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>3192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,8 +627,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkinson</Key>
-      <Forenames>C.</Forenames>
-      <Text>de H</Text>
+      <Forenames>C. de H</Forenames>
       <PageNumber>4636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1232,8 +1231,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paynter</Key>
-      <Forenames>C.</Forenames>
-      <Text>de C. P</Text>
+      <Forenames>C. de C</Forenames>
+      <Text>. P</Text>
       <PageNumber>4457</PageNumber>
     </MainItem>
   </ItemGroup>

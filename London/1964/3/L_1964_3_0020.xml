@@ -673,8 +673,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bametson</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>7255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1773,8 +1772,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. de B</Forenames>
       <PageNumber>6609</PageNumber>
     </MainItem>
   </ItemGroup>

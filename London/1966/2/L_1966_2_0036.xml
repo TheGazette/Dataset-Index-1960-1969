@@ -404,8 +404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>5450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,9 +563,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Buriatte</Forenames>
-      <Text>, A. H</Text>
+      <Key>De Buriatte</Key>
+      <Forenames>A. H.</Forenames>
       <PageNumber>6587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,9 +599,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Legh</Forenames>
-      <Text>, H. L:</Text>
+      <Key>De Legh</Key>
+      <Forenames>H. L</Forenames>
+      <Text>:</Text>
       <PageNumber>5194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,9 +614,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Merindol</Forenames>
-      <Text>, P. H</Text>
+      <Key>De Merindol</Key>
+      <Forenames>P. H.</Forenames>
       <PageNumber>5449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,9 +724,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, J. P. F</Text>
+      <Key>De Salis</Key>
+      <Forenames>J. P. F.</Forenames>
       <PageNumber>6794</PageNumber>
     </MainItem>
   </ItemGroup>

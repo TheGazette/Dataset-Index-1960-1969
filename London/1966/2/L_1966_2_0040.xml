@@ -31,8 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hiley</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>5448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +248,7 @@
     <KeyDitto>___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>W. J. C.</Text>
+      <Text>W. J. C</Text>
       <PageNumber>4120</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -702,8 +701,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>T. O'B</Forenames>
       <PageNumber>6346</PageNumber>
     </MainItem>
   </ItemGroup>

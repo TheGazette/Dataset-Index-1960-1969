@@ -105,8 +105,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. L. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>H. L. St. V</Forenames>
       <PageNumber>10292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,9 +797,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, S. G. M</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>S. G. M.</Forenames>
       <PageNumber>8367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,8 +842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Salter</Key>
-      <Forenames>P. J.</Forenames>
-      <Text>de C. S</Text>
+      <Forenames>P. J. de C</Forenames>
+      <Text>. S</Text>
       <PageNumber>9259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,8 +1170,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sausmarez</Key>
-      <Forenames>P. W. D. St</Forenames>
-      <Text>. V.de</Text>
+      <Forenames>P. W. D. St. V</Forenames>
+      <Text>.de</Text>
       <PageNumber>8826</PageNumber>
     </MainItem>
   </ItemGroup>

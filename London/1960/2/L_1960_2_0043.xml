@@ -509,9 +509,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bourbel</Forenames>
-      <Text>, C. V. E</Text>
+      <Key>De Bourbel</Key>
+      <Forenames>C. V. E.</Forenames>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,8 +568,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Forenames>M.</Forenames>
-      <Text>de L</Text>
+      <Forenames>M. de L</Forenames>
       <PageNumber>4029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +853,9 @@
     <MainItem>
       <Key>Hogg</Key>
       <Forenames>M.</Forenames>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>2780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1418,8 +1418,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, J</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>4512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1453,8 +1453,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, A</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>3457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1767,8 +1767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Soares</Key>
-      <Forenames>M.</Forenames>
-      <Text>de L</Text>
+      <Forenames>M. de L</Forenames>
       <PageNumber>2541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1969,9 +1968,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Horn</Forenames>
-      <Text>, E. A</Text>
+      <Key>Van Horn</Key>
+      <Forenames>E. A.</Forenames>
       <PageNumber>2780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1985,8 +1983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Forenames>U. V.</Forenames>
-      <Text>de L</Text>
+      <Forenames>U. V. de L</Forenames>
       <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>

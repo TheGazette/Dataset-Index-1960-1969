@@ -658,8 +658,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. D</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G. D</Forenames>
       <PageNumber>2463</PageNumber>
       <PageNumber>2463</PageNumber>
     </MainItem>
@@ -680,15 +680,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, J. D</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, T. B</Text>
+      <Key>O'Hara</Key>
+      <Forenames>T. B.</Forenames>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,15 +723,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, J. A</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>3462</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, K. V</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>K. V.</Forenames>
       <PageNumber>3817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,8 +761,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. B. P</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. B. P.</Forenames>
       <PageNumber>4155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1654,7 +1654,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>3817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2460,9 +2461,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, D.--E. St. Pierre, A. H. G</Text>
+      <Key>St. John</Key>
+      <Forenames>D.</Forenames>
+      <Text>--E. St. Pierre, A. H. G</Text>
       <PageNumber>2783</PageNumber>
       <PageNumber>2785</PageNumber>
       <PageNumber>2785</PageNumber>

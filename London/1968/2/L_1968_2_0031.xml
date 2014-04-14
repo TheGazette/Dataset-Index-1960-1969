@@ -857,17 +857,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beer</Forenames>
-      <Text>, F. B. C</Text>
+      <Key>De Beer</Key>
+      <Forenames>F. B. C.</Forenames>
       <PageNumber>4895</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Blac</Forenames>
-      <Text>, I. J. M. A</Text>
+      <Key>De Blac</Key>
+      <Forenames>I. J. M. A.</Forenames>
       <PageNumber>7079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,9 +878,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Coutere</Forenames>
-      <Text>, L. St. V</Text>
+      <Key>De Coutere</Key>
+      <Forenames>L. St. V</Forenames>
       <PageNumber>6354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2269,9 +2266,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Sautoy</Forenames>
-      <Text>, A. J</Text>
+      <Key>Du Sautoy</Key>
+      <Forenames>A. J.</Forenames>
       <PageNumber>4385</PageNumber>
     </MainItem>
   </ItemGroup>

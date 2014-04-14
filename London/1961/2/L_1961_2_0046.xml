@@ -107,41 +107,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, M. J. A</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>M. J. A.</Forenames>
       <PageNumber>3440</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>George-Bond</Forenames>
-      <Text>, H</Text>
+      <Key>St. George-Bond</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>4771</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, R. E. T</Text>
+      <Key>St. John</Key>
+      <Forenames>R. E. T.</Forenames>
       <PageNumber>4835</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Johnston</Forenames>
-      <Text>, T. A</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>T. A.</Forenames>
       <PageNumber>3667</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Martin</Forenames>
-      <Text>, M. O</Text>
+      <Key>St. Martin</Key>
+      <Forenames>M. O.</Forenames>
       <PageNumber>3853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,8 +314,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. T. St. J</Forenames>
       <PageNumber>2640</PageNumber>
     </MainItem>
   </ItemGroup>

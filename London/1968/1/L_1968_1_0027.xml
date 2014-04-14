@@ -1202,15 +1202,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, W</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>W.</Forenames>
       <PageNumber>2373</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, G. P</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>G. P.</Forenames>
       <PageNumber>33</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,15 +1223,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, D. T</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>D. T.</Forenames>
       <PageNumber>879</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, M. J</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>887</PageNumber>
     </MainItem>
   </ItemGroup>

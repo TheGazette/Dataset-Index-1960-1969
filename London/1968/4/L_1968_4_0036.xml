@@ -1140,8 +1140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turpin</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. St. G</Forenames>
       <PageNumber>12941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,16 +1351,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Brugen</Forenames>
-      <Text>, M. J</Text>
+      <Key>Van Brugen</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>12404</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Kistfe</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Kistfe</Forenames>
       <Text>, K. S. A</Text>
       <PageNumber>10777</PageNumber>
       <PageNumber>13799</PageNumber>
@@ -1383,9 +1381,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Geene</Forenames>
-      <Text>, R. G</Text>
+      <Key>Van Geene</Key>
+      <Forenames>R. G.</Forenames>
       <PageNumber>13916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1596,9 +1593,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Maltzhan</Forenames>
-      <Text>, E. J. C. R</Text>
+      <Key>Von Maltzhan</Key>
+      <Forenames>E. J. C. R.</Forenames>
       <PageNumber>12943</PageNumber>
     </MainItem>
   </ItemGroup>

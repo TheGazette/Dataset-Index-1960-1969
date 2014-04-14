@@ -578,8 +578,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shortt</Key>
-      <Forenames>H.</Forenames>
-      <Text>de S</Text>
+      <Forenames>H. de S</Forenames>
       <PageNumber>700</PageNumber>
     </MainItem>
   </ItemGroup>

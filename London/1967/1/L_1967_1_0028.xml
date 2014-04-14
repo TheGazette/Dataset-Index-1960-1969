@@ -336,8 +336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collin</Key>
-      <Forenames>G.</Forenames>
-      <Text>de E</Text>
+      <Forenames>G. de E</Forenames>
       <PageNumber>1155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1480,8 +1479,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranfield</Key>
-      <Forenames>J. T. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J. T. O'B</Forenames>
       <PageNumber>1975</PageNumber>
     </MainItem>
   </ItemGroup>

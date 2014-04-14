@@ -1415,8 +1415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hulton-Harrop</Key>
-      <Forenames>C. P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. P. de L</Forenames>
       <PageNumber>4686</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -418,8 +418,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Magniae</Key>
-      <Forenames>V. St</Forenames>
-      <Text>. C. L</Text>
+      <Forenames>V. St. C</Forenames>
+      <Text>. L</Text>
       <PageNumber>2603</PageNumber>
     </MainItem>
   </ItemGroup>

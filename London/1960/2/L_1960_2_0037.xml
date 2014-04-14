@@ -95,8 +95,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. C. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>H. C. O'H</Forenames>
       <PageNumber>3812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1773,8 +1772,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, D.'</Text>
+      <Key>O'Connor</Key>
+      <Forenames>D.</Forenames>
+      <Text>'</Text>
       <PageNumber>2715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1789,29 +1789,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conor, R. A;</Text>
+      <Key>O'Conor</Key>
+      <Forenames>R. A</Forenames>
+      <Text>;</Text>
       <PageNumber>2456</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Daly, E. F</Text>
+      <Key>O'Daly</Key>
+      <Forenames>E. F.</Forenames>
       <PageNumber>3027</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, M. S</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>M. S</Forenames>
       <PageNumber>2460</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Cwyer, J</Text>
+      <Key>O'Cwyer</Key>
+      <Forenames>J</Forenames>
       <PageNumber>3812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1824,8 +1825,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, D. J. E</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>D. J. E.</Forenames>
       <PageNumber>3195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1849,15 +1850,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, M. H</Text>
+      <Key>O'Grady</Key>
+      <Forenames>M. H.</Forenames>
       <PageNumber>3295</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, C. J. M</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>C. J. M.</Forenames>
       <PageNumber>2778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1918,15 +1919,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loughlin, J. P</Text>
+      <Key>O'Loughlin</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>2641</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, D. W. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>D. W. J.</Forenames>
       <PageNumber>4150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2532,7 +2533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkinson</Key>
-      <Forenames>C. De H.</Forenames>
+      <Forenames>C. De H</Forenames>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>

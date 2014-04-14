@@ -1741,8 +1741,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caulfeild</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>T. St. G</Forenames>
       <PageNumber>10436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1887,8 +1886,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Forenames>R. H.</Forenames>
-      <Text>de R</Text>
+      <Forenames>R. H. de R</Forenames>
       <PageNumber>10818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1915,8 +1913,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Forenames>R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. de C</Forenames>
       <PageNumber>9507</PageNumber>
     </MainItem>
   </ItemGroup>

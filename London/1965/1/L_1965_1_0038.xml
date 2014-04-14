@@ -514,8 +514,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Forenames>J. P. F. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>J. P. F. St. L</Forenames>
       <PageNumber>2138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1935,8 +1934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harding-Rolls</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>P. St. V</Forenames>
       <PageNumber>2794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2214,8 +2212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harries</Key>
-      <Forenames>G.</Forenames>
-      <Text>de W. W</Text>
+      <Forenames>G. de W</Forenames>
+      <Text>. W</Text>
       <PageNumber>196</PageNumber>
     </MainItem>
   </ItemGroup>

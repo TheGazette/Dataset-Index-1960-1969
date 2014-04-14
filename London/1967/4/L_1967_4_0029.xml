@@ -531,8 +531,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelton</Key>
-      <Forenames>M. J. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. J. St. G</Forenames>
       <PageNumber>12688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,8 +1141,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King-Hall</Key>
-      <Forenames>D. F. N. King-Wilkinson</Forenames>
-      <Text>, J</Text>
+      <Forenames>D. F. N.</Forenames>
+      <Text>King-Wilkinson, J</Text>
       <PageNumber>13270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1856,8 +1855,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lash</Key>
-      <Forenames>W. R.</Forenames>
-      <Text>de W</Text>
+      <Forenames>W. R. de W</Forenames>
       <PageNumber>10898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1987,8 +1985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>10906</PageNumber>
     </MainItem>
   </ItemGroup>

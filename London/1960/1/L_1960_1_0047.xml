@@ -643,7 +643,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>1384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,8 +915,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodward</Key>
-      <Forenames>A. L.</Forenames>
-      <Text>de P</Text>
+      <Forenames>A. L. de P</Forenames>
       <PageNumber>2013</PageNumber>
     </MainItem>
   </ItemGroup>

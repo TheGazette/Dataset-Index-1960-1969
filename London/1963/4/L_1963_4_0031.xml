@@ -31,8 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Larpent</Key>
-      <Forenames>S. D. J.</Forenames>
-      <Text>de H</Text>
+      <Forenames>S. D. J. de H</Forenames>
       <PageNumber>8254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2030,8 +2029,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyburn</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>8873</PageNumber>
     </MainItem>
   </ItemGroup>

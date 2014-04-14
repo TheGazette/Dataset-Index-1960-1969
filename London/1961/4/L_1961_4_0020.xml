@@ -559,7 +559,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brufal</Key>
-      <Text>de Melgarejo, M. R</Text>
+      <Forenames>de Melgarejo</Forenames>
+      <Text>, M. R</Text>
       <PageNumber>8862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,8 +812,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. L</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. L</Text>
       <PageNumber>7857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2712,8 +2713,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. St. G</Forenames>
       <PageNumber>8260</PageNumber>
     </MainItem>
   </ItemGroup>

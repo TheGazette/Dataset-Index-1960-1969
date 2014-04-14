@@ -333,8 +333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Braham</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>du P</Text>
+      <Forenames>J. C. du P</Forenames>
       <PageNumber>5840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1177,8 +1176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromhead</Key>
-      <Forenames>J. E.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. E. de C</Forenames>
       <PageNumber>6493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1798,8 +1796,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>N. F. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. F. St. J</Forenames>
       <PageNumber>5736</PageNumber>
       <PageNumber>6968</PageNumber>
     </MainItem>

@@ -647,8 +647,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Benson</Key>
-      <Forenames>A.</Forenames>
-      <Text>de G</Text>
+      <Forenames>A. de G</Forenames>
       <PageNumber>4050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,8 +837,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berry</Key>
-      <Forenames>C.</Forenames>
-      <Text>de P</Text>
+      <Forenames>C. de P</Forenames>
       <PageNumber>2535</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2259,8 +2259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brice</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>9037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2578,8 +2577,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromham</Key>
-      <Forenames>R. W.</Forenames>
-      <Text>de G. Bromhead, J. E</Text>
+      <Forenames>R. W. de G</Forenames>
+      <Text>. Bromhead, J. E</Text>
       <PageNumber>7509</PageNumber>
     </MainItem>
   </ItemGroup>

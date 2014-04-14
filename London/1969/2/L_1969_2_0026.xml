@@ -296,8 +296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobham</Key>
-      <Forenames>The</Forenames>
-      <Text>Viscount</Text>
+      <Title>The Viscount</Title>
       <PageNumber>3454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1783,8 +1782,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cussans</Key>
-      <Forenames>A. A.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. A. de C</Forenames>
       <PageNumber>4723</PageNumber>
     </MainItem>
   </ItemGroup>

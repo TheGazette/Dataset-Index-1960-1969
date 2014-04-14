@@ -1492,8 +1492,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>B. N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. N. St. C</Forenames>
       <PageNumber>6789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1556,7 +1555,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L.T</Text>
+      <Text>
+        <Honour>L.T</Honour>
+      </Text>
       <PageNumber>8021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1714,7 +1715,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>7522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1806,9 +1809,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Baerle</Forenames>
-      <Text>, A. R. H</Text>
+      <Key>Van Baerle</Key>
+      <Forenames>A. R. H.</Forenames>
       <PageNumber>6788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1821,8 +1823,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Kiste</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Kiste</Forenames>
       <Text>, K. S. A</Text>
       <PageNumber>7775</PageNumber>
     </MainItem>
@@ -2876,7 +2878,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wark</Key>
-      <Forenames>J. De C. K.</Forenames>
+      <Forenames>J. De C</Forenames>
+      <Text>. K</Text>
       <PageNumber>8322</PageNumber>
     </MainItem>
   </ItemGroup>

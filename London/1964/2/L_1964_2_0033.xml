@@ -1634,7 +1634,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gerrard</Key>
-      <Text>M.M. E</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5645</PageNumber>
     </MainItem>
   </ItemGroup>

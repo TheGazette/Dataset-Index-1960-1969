@@ -57,8 +57,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sleeman</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. C. de F</Forenames>
       <PageNumber>435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,8 +1051,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steadman</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>543</PageNumber>
     </MainItem>
   </ItemGroup>

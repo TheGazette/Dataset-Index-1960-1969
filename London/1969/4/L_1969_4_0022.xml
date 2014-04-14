@@ -165,8 +165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harmsworth</Key>
-      <Forenames>A. V. M. I. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. V. M. I. St. J</Forenames>
       <PageNumber>10213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2816,7 +2815,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. B. De M.</Forenames>
+      <Forenames>H. B. De M</Forenames>
       <PageNumber>11813</PageNumber>
     </MainItem>
   </ItemGroup>

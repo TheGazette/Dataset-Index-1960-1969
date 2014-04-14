@@ -457,9 +457,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Wyk</Forenames>
-      <Text>, P. D</Text>
+      <Key>Van Wyk</Key>
+      <Forenames>P. D.</Forenames>
       <PageNumber>9267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,8 +1696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. St. A</Forenames>
       <PageNumber>8633</PageNumber>
     </MainItem>
   </ItemGroup>

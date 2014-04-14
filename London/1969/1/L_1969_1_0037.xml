@@ -288,8 +288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rolleston</Key>
-      <Forenames>G. L. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>G. L. St. L</Forenames>
       <PageNumber>2077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +427,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>3166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,9 +775,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, R. E. T</Text>
+      <Key>St. John</Key>
+      <Forenames>R. E. T.</Forenames>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>

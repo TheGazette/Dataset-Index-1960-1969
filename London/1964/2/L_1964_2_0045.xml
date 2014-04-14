@@ -307,8 +307,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Studdert</Key>
-      <Forenames>M. J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. J. de C</Forenames>
       <PageNumber>3981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2088,8 +2087,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tillett</Key>
-      <Forenames>E. W.</Forenames>
-      <Text>de C</Text>
+      <Forenames>E. W. de C</Forenames>
       <PageNumber>3684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2126,8 +2124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tilney</Key>
-      <Forenames>R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. de C</Forenames>
       <PageNumber>4643</PageNumber>
     </MainItem>
   </ItemGroup>

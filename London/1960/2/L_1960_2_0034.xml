@@ -309,8 +309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>J.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. de V</Forenames>
       <PageNumber>4507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1418,7 +1417,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2393,8 +2394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelton</Key>
-      <Forenames>M. J. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. J. St. G</Forenames>
       <PageNumber>2455</PageNumber>
     </MainItem>
   </ItemGroup>

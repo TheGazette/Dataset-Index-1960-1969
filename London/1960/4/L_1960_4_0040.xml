@@ -743,8 +743,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quinn</Key>
-      <Forenames>P. L. O</Forenames>
-      <Text>'T</Text>
+      <Forenames>P. L. O'T</Forenames>
       <PageNumber>6693</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1119,29 +1119,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, E. M</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>E. M.</Forenames>
       <PageNumber>7009</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kane, E</Text>
+      <Key>O'Kane</Key>
+      <Forenames>E</Forenames>
       <PageNumber>7209</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, J. M</Text>
+      <Key>O'Leary</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>8863</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, A</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>7124</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -362,8 +362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dashwood</Key>
-      <Forenames>M.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. de C</Forenames>
       <PageNumber>3185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,9 +1040,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Leacy</Forenames>
-      <Text>, J. R:</Text>
+      <Key>De Leacy</Key>
+      <Forenames>J. R</Forenames>
+      <Text>:</Text>
       <PageNumber>3192</PageNumber>
       <PageNumber>3193</PageNumber>
     </MainItem>

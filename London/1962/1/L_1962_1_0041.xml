@@ -1652,7 +1652,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Forenames>D. Mr-</Forenames>
+      <Forenames>D.</Forenames>
+      <Text>Mr-</Text>
       <PageNumber>2140</PageNumber>
     </MainItem>
   </ItemGroup>

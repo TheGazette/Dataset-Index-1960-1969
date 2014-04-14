@@ -642,8 +642,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellamy</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. H</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. H</Text>
       <PageNumber>2340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +873,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>1500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2603,7 +2605,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>

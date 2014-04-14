@@ -1793,7 +1793,9 @@
       <Key>Adair</Key>
       <Title>Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1115</PageNumber>
     </MainItem>
   </ItemGroup>

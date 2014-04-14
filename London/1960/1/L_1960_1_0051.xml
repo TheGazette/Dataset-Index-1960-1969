@@ -95,7 +95,7 @@
     </SubItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>G.</Text>
+      <Text>G</Text>
       <PageNumber>11177</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -142,8 +142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Frizzell</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. C. A:</Text>
+      <Forenames>D. St. C</Forenames>
+      <Text>. A:</Text>
       <PageNumber>1906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1845,7 +1845,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Haw</Key>
-      <Text>6rth, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>184</PageNumber>
       <PageNumber>185</PageNumber>
     </MainItem>

@@ -2246,9 +2246,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Brugen</Forenames>
-      <Text>, M. J</Text>
+      <Key>Van Brugen</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>1700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2261,25 +2260,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Heuvel</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Heuvel</Forenames>
       <Text>, C</Text>
       <PageNumber>2610</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Essen</Forenames>
-      <Text>, C. G</Text>
+      <Key>Van Essen</Key>
+      <Forenames>C. G.</Forenames>
       <PageNumber>314</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Haeften</Forenames>
-      <Text>, P. P. C</Text>
+      <Key>Van Haeften</Key>
+      <Forenames>P. P. C.</Forenames>
       <PageNumber>821</PageNumber>
     </MainItem>
   </ItemGroup>

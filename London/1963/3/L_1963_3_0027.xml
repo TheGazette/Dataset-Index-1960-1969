@@ -1925,8 +1925,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Golden</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>F. St. C</Forenames>
       <PageNumber>7914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2281,8 +2280,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J. M</Text>
+      <Forenames>D. St. J</Forenames>
+      <Text>. M</Text>
       <PageNumber>6264</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1515,8 +1515,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. P</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. P.</Forenames>
       <PageNumber>8321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1537,8 +1537,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J</Forenames>
       <PageNumber>8488</PageNumber>
     </MainItem>
   </ItemGroup>

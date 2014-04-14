@@ -1025,8 +1025,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bandon</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>The Earl</Title>
+      <Text>of</Text>
       <PageNumber>1772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1601,8 +1601,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. G. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>J. G. St. P</Forenames>
       <PageNumber>2257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2110,8 +2109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaufort</Key>
-      <Forenames>The</Forenames>
-      <Text>Duchess of</Text>
+      <Title>The Duchess</Title>
+      <Text>of</Text>
       <PageNumber>1847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2677,8 +2676,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. de B</Forenames>
       <PageNumber>745</PageNumber>
     </MainItem>
   </ItemGroup>

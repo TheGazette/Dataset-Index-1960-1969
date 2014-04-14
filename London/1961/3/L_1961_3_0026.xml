@@ -155,18 +155,52 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bono</Forenames>
-      <Text>, V. J</Text>
+      <Key>De Bono</Key>
+      <Forenames>V. J.</Forenames>
       <PageNumber>6767</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Butts</Forenames>
-      <Text>, F. M</Text>
+      <Key>de Bunsen</Key>
+      <Forenames>P. N.</Forenames>
+      <PageNumber>5563</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burton</Key>
+      <Forenames>D.</Forenames>
+      <PageNumber>4933</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Butts</Key>
+      <Forenames>F. M.</Forenames>
       <PageNumber>5493</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Coetlogen</Key>
+      <Forenames>Stuart</Forenames>
+      <Text>, P. J</Text>
+      <PageNumber>6967</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Coverley</Key>
+      <Forenames>C. M.</Forenames>
+      <PageNumber>6619</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gex</Key>
+      <Forenames>G. F.</Forenames>
+      <PageNumber>5395</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -229,9 +263,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Naeyer</Forenames>
-      <Text>, R. E. S</Text>
+      <Key>De Naeyer</Key>
+      <Forenames>R. E. S.</Forenames>
       <PageNumber>4933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,8 +308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denning</Key>
-      <Forenames>J. H. K.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. H. K. de W</Forenames>
       <PageNumber>4928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,6 +363,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Quincey</Key>
+      <Text>.A. B</Text>
+      <PageNumber>6679</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Derbyshire</Key>
       <Title>Rev.</Title>
       <Forenames>A. G.</Forenames>
@@ -357,6 +396,13 @@
       <Key>Deutsch</Key>
       <Forenames>K. E.</Forenames>
       <PageNumber>5887</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Veuve</Key>
+      <Forenames>D. T.</Forenames>
+      <PageNumber>6543</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -426,9 +472,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wilde</Forenames>
-      <Text>, W. E</Text>
+      <Key>De Wilde</Key>
+      <Forenames>W. E.</Forenames>
       <PageNumber>5975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,6 +482,13 @@
       <Key>Dewing</Key>
       <Forenames>B. R.</Forenames>
       <PageNumber>5966</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wolf</Key>
+      <Forenames>J. H.</Forenames>
+      <PageNumber>7051</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1776,9 +1828,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Mughn</Forenames>
-      <Text>, R. B</Text>
+      <Key>Du Mughn</Key>
+      <Forenames>R. B.</Forenames>
       <PageNumber>6173</PageNumber>
     </MainItem>
   </ItemGroup>

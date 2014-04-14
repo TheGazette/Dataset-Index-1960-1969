@@ -1240,8 +1240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boult</Key>
-      <Forenames>N.</Forenames>
-      <Text>de W</Text>
+      <Forenames>N. de W</Forenames>
       <PageNumber>2461</PageNumber>
     </MainItem>
   </ItemGroup>

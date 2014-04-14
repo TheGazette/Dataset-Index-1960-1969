@@ -425,8 +425,7 @@
   <ItemGroup>
     <MainItem>
       <Key>CauMeild</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>T. St. G</Forenames>
       <PageNumber>8943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,8 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Forenames>R. H.</Forenames>
-      <Text>de R</Text>
+      <Forenames>R. H. de R</Forenames>
       <PageNumber>8714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1774,7 +1772,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colley</Key>
-      <Forenames>A. J. De Q.</Forenames>
+      <Forenames>A. J. De Q</Forenames>
       <PageNumber>8948</PageNumber>
     </MainItem>
   </ItemGroup>

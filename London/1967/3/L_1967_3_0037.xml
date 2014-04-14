@@ -802,7 +802,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>7882</PageNumber>
     </MainItem>
   </ItemGroup>

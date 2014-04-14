@@ -553,8 +553,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Forenames>S. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>S. M. O'H</Forenames>
       <PageNumber>4923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,8 +1009,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Airey</Key>
-      <Forenames>J. F. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>J. F. St. G</Forenames>
       <PageNumber>5665</PageNumber>
     </MainItem>
   </ItemGroup>

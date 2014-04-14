@@ -2060,8 +2060,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>F. R. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>F. R. St. P</Forenames>
       <PageNumber>3065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2520,8 +2519,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. E</Text>
+      <Forenames>M. St. E</Forenames>
       <PageNumber>4368</PageNumber>
     </MainItem>
   </ItemGroup>

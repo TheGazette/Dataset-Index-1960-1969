@@ -2188,8 +2188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey-Warter</Key>
-      <Forenames>H. G.</Forenames>
-      <Text>de G. de</Text>
+      <Forenames>H. G. de G</Forenames>
+      <Text>. de</Text>
       <PageNumber>6584</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -433,8 +433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shannon</Key>
-      <Forenames>D. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. R. St. J</Forenames>
       <PageNumber>6759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1784,8 +1783,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sleeman</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. C. de F</Forenames>
       <PageNumber>5561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2033,8 +2031,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. F</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. F</Text>
       <PageNumber>5273</PageNumber>
     </MainItem>
   </ItemGroup>

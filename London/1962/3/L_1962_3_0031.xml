@@ -1552,7 +1552,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>(R</Text>
+      <Text>(R.</Text>
       <PageNumber>5472</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -2550,8 +2550,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de C</Text>
+      <Forenames>P. de C</Forenames>
       <PageNumber>6267</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1936,7 +1936,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacot</Key>
-      <Text>de Boinod, D. B. de V</Text>
+      <Forenames>de Boinod</Forenames>
+      <Text>, D. B. de V</Text>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>

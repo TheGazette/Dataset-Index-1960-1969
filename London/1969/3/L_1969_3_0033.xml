@@ -396,7 +396,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,8 +525,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. D. St. J</Forenames>
       <PageNumber>9010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2387,8 +2388,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>P. St. A</Forenames>
       <PageNumber>9216</PageNumber>
     </MainItem>
   </ItemGroup>

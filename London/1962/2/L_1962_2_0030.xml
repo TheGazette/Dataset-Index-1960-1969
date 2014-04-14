@@ -1909,7 +1909,10 @@
     <MainItem>
       <Key>Fowgies</Key>
       <Forenames>Fowgies</Forenames>
-      <Text>, N.P.C. N.P.C. : :</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2797,8 +2800,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaieford</Key>
-      <Forenames>R. D.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. D. de V</Forenames>
       <PageNumber>4768</PageNumber>
     </MainItem>
   </ItemGroup>

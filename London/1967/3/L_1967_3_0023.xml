@@ -508,7 +508,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. G. De P.</Forenames>
+      <Forenames>P. G. De P</Forenames>
       <PageNumber>7388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1271,8 +1271,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>R.</Forenames>
-      <Text>de L</Text>
+      <Forenames>R. de L</Forenames>
       <PageNumber>10423</PageNumber>
     </MainItem>
   </ItemGroup>

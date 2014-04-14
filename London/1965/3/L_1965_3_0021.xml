@@ -1998,8 +1998,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alley</Key>
-      <Forenames>P. D.</Forenames>
-      <Text>de L</Text>
+      <Forenames>P. D. de L</Forenames>
       <PageNumber>7571</PageNumber>
     </MainItem>
   </ItemGroup>

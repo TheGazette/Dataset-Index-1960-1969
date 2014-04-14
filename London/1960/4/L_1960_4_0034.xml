@@ -300,8 +300,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamersley</Key>
-      <Forenames>J. H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>J. H. St. G</Forenames>
       <PageNumber>8624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1969,7 +1968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henriques</Key>
-      <Forenames>C. De P.</Forenames>
+      <Forenames>C. De P</Forenames>
       <PageNumber>8042</PageNumber>
     </MainItem>
   </ItemGroup>

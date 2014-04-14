@@ -343,8 +343,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J.' ' ' '</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>.' ' ' '</Text>
       <PageNumber>3456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1637,7 +1637,9 @@
       <Key>Williams-Wynn</Key>
       <Title>Sir</Title>
       <Forenames>O. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2535</PageNumber>
     </MainItem>
   </ItemGroup>

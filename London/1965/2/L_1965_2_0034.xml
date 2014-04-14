@@ -1284,7 +1284,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>4857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2027,8 +2029,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>V.</Forenames>
-      <Text>de P. C</Text>
+      <Forenames>V. de P</Forenames>
+      <Text>. C</Text>
       <PageNumber>5967</PageNumber>
     </MainItem>
   </ItemGroup>

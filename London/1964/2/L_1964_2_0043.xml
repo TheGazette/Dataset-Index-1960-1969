@@ -738,8 +738,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roy-Applin</Key>
-      <Title>St.</Title>
-      <Forenames>V. J. T.</Forenames>
+      <Title>St. V.</Title>
+      <Forenames>J. T.</Forenames>
       <PageNumber>5531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,8 +1064,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John Perry</Forenames>
+      <Key>St. John</Key>
+      <Forenames>Perry</Forenames>
       <Text>, C. H</Text>
       <PageNumber>4111</PageNumber>
     </MainItem>

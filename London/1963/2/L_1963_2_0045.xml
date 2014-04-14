@@ -152,8 +152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whidborne</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>5261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1301,7 +1300,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Text>de Broke, Lord</Text>
+      <Forenames>de Broke</Forenames>
+      <Text>, Lord</Text>
       <PageNumber>4995</PageNumber>
     </MainItem>
   </ItemGroup>

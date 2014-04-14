@@ -1009,8 +1009,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C. W</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. W</Text>
       <PageNumber>766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1771,8 +1771,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell-Jones</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. St. C</Forenames>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>

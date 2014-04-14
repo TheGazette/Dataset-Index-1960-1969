@@ -1913,8 +1913,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenkins</Key>
-      <Forenames>C. P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>C. P. de B</Forenames>
       <PageNumber>310</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1323,8 +1323,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorold</Key>
-      <Forenames>A. P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>A. P. de B</Forenames>
       <PageNumber>6085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2617,9 +2616,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Bergen</Forenames>
-      <Text>, K. E</Text>
+      <Key>Van Bergen</Key>
+      <Forenames>K. E.</Forenames>
       <PageNumber>5690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2632,9 +2630,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Eyssen</Forenames>
-      <Text>, F. F</Text>
+      <Key>Van Eyssen</Key>
+      <Forenames>F. F.</Forenames>
       <PageNumber>4207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2661,17 +2658,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Someren</Forenames>
-      <Text>, R. ,S</Text>
+      <Key>Van Someren</Key>
+      <Forenames>R.</Forenames>
+      <Text>,S</Text>
       <PageNumber>5363</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Wtberghe</Forenames>
-      <Text>, C. G</Text>
+      <Key>Van Wtberghe</Key>
+      <Forenames>C. G.</Forenames>
       <PageNumber>5278</PageNumber>
     </MainItem>
   </ItemGroup>

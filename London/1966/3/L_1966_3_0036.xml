@@ -2062,8 +2062,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poison</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>8137</PageNumber>
     </MainItem>
   </ItemGroup>

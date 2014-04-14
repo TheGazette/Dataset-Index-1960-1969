@@ -1351,8 +1351,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyslop</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>N. St. G</Forenames>
       <PageNumber>10010</PageNumber>
     </MainItem>
   </ItemGroup>

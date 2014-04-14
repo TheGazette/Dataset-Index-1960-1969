@@ -1949,7 +1949,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Larthe</Key>
-      <Text>de Langladure, J. E. M</Text>
+      <Forenames>de Langladure</Forenames>
+      <Text>, J. E. M</Text>
       <PageNumber>5179</PageNumber>
     </MainItem>
   </ItemGroup>

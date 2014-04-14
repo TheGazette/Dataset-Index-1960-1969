@@ -487,8 +487,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wall</Key>
-      <Forenames>M. E. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>M. E. St. Q</Forenames>
       <PageNumber>259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,8 +1179,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de G. V. C</Text>
+      <Forenames>P. de G</Forenames>
+      <Text>. V. C</Text>
       <PageNumber>564</PageNumber>
     </MainItem>
   </ItemGroup>

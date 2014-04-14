@@ -1882,8 +1882,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jefferies</Key>
-      <Forenames>C. G. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>C. G. St. D</Forenames>
       <PageNumber>12344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1939,8 +1938,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jeffrey</Key>
-      <Forenames>J. W.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. W. de M</Forenames>
       <PageNumber>13568</PageNumber>
     </MainItem>
   </ItemGroup>

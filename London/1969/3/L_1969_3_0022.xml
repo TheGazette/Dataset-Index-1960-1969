@@ -1303,17 +1303,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, CD</Text>
+      <Key>De Burgh</Key>
+      <Text>CD</Text>
       <PageNumber>9216</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Candole</Forenames>
-      <Text>, N. V</Text>
+      <Key>de Burgh</Key>
+      <Forenames>P. R. R.</Forenames>
+      <PageNumber>6782</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Candole</Key>
+      <Forenames>N. V.</Forenames>
       <PageNumber>9706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,25 +1345,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Foubert</Forenames>
-      <Text>, N. O. H</Text>
+      <Key>De Foubert</Key>
+      <Forenames>N. O. H.</Forenames>
       <PageNumber>9709</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Perelle</Forenames>
+      <Key>De La</Key>
+      <Forenames>Perelle</Forenames>
       <Text>, J. P</Text>
       <PageNumber>8764</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lay</Forenames>
-      <Text>, J</Text>
+      <Key>De Lay</Key>
+      <Forenames>J</Forenames>
       <PageNumber>7287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1509,9 +1512,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pradines</Forenames>
-      <Text>, R. S</Text>
+      <Key>De Pradines</Key>
+      <Forenames>R. S.</Forenames>
       <PageNumber>6792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1538,9 +1540,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Soyza</Forenames>
-      <Text>, A. A</Text>
+      <Key>De Soyza</Key>
+      <Forenames>A. A.</Forenames>
       <PageNumber>6790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1856,7 +1857,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>9010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2211,7 +2214,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>9710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2496,9 +2501,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Mughn</Forenames>
-      <Text>, R. B</Text>
+      <Key>Du Mughn</Key>
+      <Forenames>R. B.</Forenames>
       <PageNumber>7287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2555,7 +2559,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>C.</Forenames>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>6780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2596,8 +2602,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>W. E. M.</Forenames>
-      <Text>de S</Text>
+      <Forenames>W. E. M. de S</Forenames>
       <PageNumber>9706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2626,9 +2631,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Plessis</Forenames>
-      <Text>, R. P</Text>
+      <Key>Du Plessis</Key>
+      <Forenames>R. P.</Forenames>
       <PageNumber>6792</PageNumber>
     </MainItem>
   </ItemGroup>

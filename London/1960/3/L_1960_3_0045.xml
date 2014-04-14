@@ -412,7 +412,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallorie</Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>5318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2170,8 +2172,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. H</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. H.</Forenames>
       <PageNumber>5315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2184,8 +2186,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doherty, E. F</Text>
+      <Key>O'Doherty</Key>
+      <Forenames>E. F.</Forenames>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2212,15 +2214,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, B. G. '</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>B. G.</Forenames>
+      <Text>'</Text>
       <PageNumber>5606</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, L</Text>
+      <Key>O'Hara</Key>
+      <Forenames>L.</Forenames>
       <PageNumber>4819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2299,8 +2302,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, C. A</Text>
+      <Key>O'Regan</Key>
+      <Forenames>C. A.</Forenames>
       <PageNumber>4578</PageNumber>
     </MainItem>
   </ItemGroup>

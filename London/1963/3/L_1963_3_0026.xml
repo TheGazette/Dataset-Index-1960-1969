@@ -603,8 +603,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Enfield</Key>
-      <Forenames>The</Forenames>
-      <Text>Viscount</Text>
+      <Title>The Viscount</Title>
       <PageNumber>6632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1876,8 +1875,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Filler</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>5984</PageNumber>
     </MainItem>
   </ItemGroup>

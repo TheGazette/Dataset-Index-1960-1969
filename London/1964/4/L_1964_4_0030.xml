@@ -402,8 +402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eden</Key>
-      <Forenames>The</Forenames>
-      <Text>Viscount</Text>
+      <Title>The Viscount</Title>
       <PageNumber>8287</PageNumber>
     </MainItem>
   </ItemGroup>

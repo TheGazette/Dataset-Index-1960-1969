@@ -594,9 +594,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Sertima</Forenames>
-      <Text>, J. P</Text>
+      <Key>Van Sertima</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>9248</PageNumber>
     </MainItem>
   </ItemGroup>

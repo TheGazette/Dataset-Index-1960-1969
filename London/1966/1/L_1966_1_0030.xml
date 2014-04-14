@@ -343,8 +343,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. B.</Forenames>
-      <Text>de S</Text>
+      <Forenames>M. B. de S</Forenames>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,8 +1102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collin</Key>
-      <Forenames>G.</Forenames>
-      <Text>de E</Text>
+      <Forenames>G. de E</Forenames>
       <PageNumber>1521</PageNumber>
       <PageNumber>2581</PageNumber>
     </MainItem>

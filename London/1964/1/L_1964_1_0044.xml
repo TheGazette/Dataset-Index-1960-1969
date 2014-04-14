@@ -2151,25 +2151,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, C. A. R. L</Text>
+      <Key>St. John</Key>
+      <Forenames>C. A. R. L.</Forenames>
       <PageNumber>1554</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Johnston</Forenames>
-      <Text>, C. I</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>C. I.</Forenames>
       <PageNumber>1261</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Pierre</Forenames>
-      <Text>, Y</Text>
+      <Key>St. Pierre</Key>
+      <Forenames>Y.</Forenames>
       <PageNumber>191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2715,8 +2712,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scobie</Key>
-      <Forenames>I.</Forenames>
-      <Text>de C. M</Text>
+      <Forenames>I. de C</Forenames>
+      <Text>. M</Text>
       <PageNumber>1560</PageNumber>
     </MainItem>
   </ItemGroup>

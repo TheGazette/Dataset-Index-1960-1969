@@ -1593,8 +1593,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coutere</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. V. de</Text>
+      <Forenames>L. St. V</Forenames>
+      <Text>. de</Text>
       <PageNumber>10233</PageNumber>
     </MainItem>
   </ItemGroup>

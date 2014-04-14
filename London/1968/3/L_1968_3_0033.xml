@@ -724,7 +724,7 @@
     <KeyDitto>___ ___ ___ ...</KeyDitto>
     <KeyDitto>___ ___ ___ ...</KeyDitto>
     <SubItem>
-      <Text>I. W</Text>
+      <Text>I. W.</Text>
       <PageNumber>7347</PageNumber>
       <PageNumber>9130</PageNumber>
     </SubItem>
@@ -2093,16 +2093,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Sevenoaks</Key>
-      <Title>St.</Title>
-      <Forenames>J . E. F.</Forenames>
+      <Title>St. J .</Title>
+      <Forenames>E. F.</Forenames>
       <PageNumber>10011</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Severne</Key>
-      <Forenames>J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>7352</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -320,8 +320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gresley</Key>
-      <Forenames>R. De L. Le</Forenames>
-      <Text>'</Text>
+      <Forenames>R. De L</Forenames>
+      <Text>. Le'</Text>
       <PageNumber>6804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,8 +353,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. J. St. J</Forenames>
       <PageNumber>6420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,8 +374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grihbon</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>N. St. G</Forenames>
       <PageNumber>5975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2038,8 +2036,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. T</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. T</Text>
       <PageNumber>7353</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2246,9 +2246,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Mughn</Forenames>
-      <Text>, R. B</Text>
+      <Key>Du Mughn</Key>
+      <Forenames>R. B.</Forenames>
       <PageNumber>7256</PageNumber>
     </MainItem>
   </ItemGroup>

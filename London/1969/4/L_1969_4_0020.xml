@@ -694,9 +694,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Plessis</Forenames>
-      <Text>, A. N</Text>
+      <Key>Du Plessis</Key>
+      <Forenames>A. N.</Forenames>
       <PageNumber>13004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1520,7 +1519,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>10741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1724,8 +1725,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eve</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>12862</PageNumber>
     </MainItem>
   </ItemGroup>

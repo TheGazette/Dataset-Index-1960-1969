@@ -482,8 +482,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Emmerton</Key>
-      <Forenames>A. L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. L. St. J</Forenames>
       <PageNumber>3166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +885,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1738,7 +1739,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>2345</PageNumber>
     </MainItem>
   </ItemGroup>

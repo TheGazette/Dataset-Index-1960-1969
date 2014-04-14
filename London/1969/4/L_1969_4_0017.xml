@@ -535,8 +535,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berkshire</Key>
-      <Forenames>R. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. R. St. J</Forenames>
       <PageNumber>11385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1989,7 +1988,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bontoft</Key>
-      <Text>de St Quentin, E. F. I</Text>
+      <Forenames>de St Quentin</Forenames>
+      <Text>, E. F. I</Text>
       <PageNumber>12237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2417,7 +2417,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brady</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>13004</PageNumber>
     </MainItem>
   </ItemGroup>

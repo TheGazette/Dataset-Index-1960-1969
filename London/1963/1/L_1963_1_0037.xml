@@ -284,8 +284,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luckett</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. de B</Forenames>
       <PageNumber>2818</PageNumber>
     </MainItem>
   </ItemGroup>

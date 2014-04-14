@@ -1988,7 +1988,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leask</Key>
-      <Forenames>A. De C. L.</Forenames>
+      <Forenames>A. De C</Forenames>
+      <Text>. L</Text>
       <PageNumber>1149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2025,8 +2026,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. A. de M</Forenames>
       <PageNumber>404</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1206,8 +1206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caulfield</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>T. St. G</Forenames>
       <PageNumber>7355</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -469,8 +469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Forenames>A.</Forenames>
-      <Text>de G</Text>
+      <Forenames>A. de G</Forenames>
       <PageNumber>6543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2177,8 +2176,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. F</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. F</Text>
       <PageNumber>6765</PageNumber>
     </MainItem>
   </ItemGroup>

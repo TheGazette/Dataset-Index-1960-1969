@@ -1696,8 +1696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cosgrove</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>J. O'C</Forenames>
       <PageNumber>9062</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1646,8 +1646,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. G. H</Text>
+      <Forenames>P. St. G</Forenames>
+      <Text>. H</Text>
       <PageNumber>2361</PageNumber>
     </MainItem>
   </ItemGroup>

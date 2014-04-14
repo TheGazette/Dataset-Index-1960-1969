@@ -1912,7 +1912,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mpnfaian</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4033</PageNumber>
     </MainItem>
   </ItemGroup>

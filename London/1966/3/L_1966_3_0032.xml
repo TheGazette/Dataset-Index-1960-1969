@@ -325,9 +325,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>9031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2316,7 +2315,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewin-Harris</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>8266</PageNumber>
     </MainItem>
   </ItemGroup>

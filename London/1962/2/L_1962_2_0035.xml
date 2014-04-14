@@ -783,7 +783,7 @@
     <KeyDitto>—</KeyDitto>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>R.</Text>
+      <Text>R</Text>
       <PageNumber>4778</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1193,8 +1193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingham</Key>
-      <Forenames>N. J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. J. St. J</Forenames>
       <PageNumber>2797</PageNumber>
     </MainItem>
   </ItemGroup>

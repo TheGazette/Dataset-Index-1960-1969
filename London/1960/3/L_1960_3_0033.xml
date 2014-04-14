@@ -33,7 +33,7 @@
       <PageNumber>5162</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>~ ' .:.</Text>
+      <Text>~ ' .:</Text>
       <PageNumber>5364</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -62,7 +62,7 @@
     <KeyDitto>___ ___ ,...,,</KeyDitto>
     <KeyDitto>___ ___ ___ .;.</KeyDitto>
     <SubItem>
-      <Text>..*.</Text>
+      <Text>..*</Text>
       <PageNumber>4812</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1618,22 +1618,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, M. P. ... '</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>M. P.</Forenames>
+      <Text>... '</Text>
       <PageNumber>5164</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, P. . ..;</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>P.</Forenames>
+      <Text>. ..;</Text>
       <PageNumber>5312</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn; G.' C. :' '</Text>
+      <Key>O'Flynn</Key>
+      <Text>; G.' C. :' '</Text>
       <PageNumber>4657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1740,22 +1742,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, O'Meara, F.' F.' j. j</Text>
+      <Key>O'Meara</Key>
+      <Forenames>O'Meara</Forenames>
+      <Text>, F.' F.' j. j</Text>
       <PageNumber>5067</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil,' T. N</Text>
+      <Key>O'Neil</Key>
+      <Text>' T. N</Text>
       <PageNumber>5308</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J-. A. ... ;</Text>
+      <Key>O'Neill</Key>
+      <Text>J-. A. ... ;</Text>
       <PageNumber>3215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1812,22 +1815,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, B.-M</Text>
+      <Key>O'Regan</Key>
+      <Forenames>B.</Forenames>
+      <Text>-M</Text>
       <PageNumber>4813</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, M.-.-D</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>M.</Forenames>
+      <Text>-.-D</Text>
       <PageNumber>5947</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordah, J. L; H</Text>
+      <Key>O'Riordah</Key>
+      <Forenames>J. L</Forenames>
+      <Text>; H</Text>
       <PageNumber>6155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1929,8 +1935,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. L</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. L.</Forenames>
       <PageNumber>4661</PageNumber>
     </MainItem>
   </ItemGroup>

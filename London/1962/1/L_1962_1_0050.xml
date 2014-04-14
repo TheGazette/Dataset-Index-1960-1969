@@ -653,8 +653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whidmore</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>1759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,8 +1408,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. A. de C</Forenames>
       <PageNumber>136</PageNumber>
     </MainItem>
   </ItemGroup>

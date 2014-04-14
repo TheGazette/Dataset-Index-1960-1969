@@ -1907,7 +1907,9 @@
       <Key>
         <KeyDitto>___ ——..</KeyDitto>
       </Key>
-      <Text>T.D. '</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>674</PageNumber>
     </MainItem>
   </ItemGroup>

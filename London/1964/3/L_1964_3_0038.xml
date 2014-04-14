@@ -1604,8 +1604,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuppen</Key>
-      <Forenames>N.</Forenames>
-      <Text>de B. H</Text>
+      <Forenames>N. de B</Forenames>
+      <Text>. H</Text>
       <PageNumber>5911</PageNumber>
     </MainItem>
   </ItemGroup>

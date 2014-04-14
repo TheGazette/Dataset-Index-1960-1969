@@ -510,7 +510,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Larpent</Key>
-      <Forenames>L. D. A. De H.</Forenames>
+      <Forenames>L. D. A. De H</Forenames>
       <PageNumber>7000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2197,8 +2197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Forenames>J. T. M. D. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>J. T. M. D. O'D</Forenames>
       <PageNumber>6588</PageNumber>
       <PageNumber>6589</PageNumber>
     </MainItem>
@@ -2643,8 +2642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyburn</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>5549</PageNumber>
     </MainItem>
   </ItemGroup>

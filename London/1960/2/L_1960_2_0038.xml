@@ -481,8 +481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pelham-Burn</Key>
-      <Forenames>C. L. St</Forenames>
-      <Text>. H</Text>
+      <Forenames>C. L. St. H</Forenames>
       <PageNumber>3197</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ...</KeyDitto>
@@ -1751,7 +1750,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>3811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2205,8 +2205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G. A</Text>
+      <Forenames>B. St. G</Forenames>
+      <Text>. A</Text>
       <PageNumber>3812</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1458,8 +1458,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Rey</Forenames>
+      <Key>De La</Key>
+      <Forenames>Rey</Forenames>
       <Text>, I</Text>
       <PageNumber>5062</PageNumber>
     </MainItem>
@@ -1524,9 +1524,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Naeyer</Forenames>
-      <Text>, P. J</Text>
+      <Key>De Naeyer</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1721,9 +1720,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Witt</Forenames>
-      <Text>, V</Text>
+      <Key>De Witt</Key>
+      <Forenames>V</Forenames>
       <PageNumber>5334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2063,8 +2061,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodgson</Key>
-      <Forenames>H.</Forenames>
-      <Text>de S</Text>
+      <Forenames>H. de S</Forenames>
       <PageNumber>4820</PageNumber>
     </MainItem>
   </ItemGroup>

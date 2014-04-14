@@ -1327,9 +1327,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lacy</Forenames>
-      <Text>, K</Text>
+      <Key>de Jersey</Key>
+      <Forenames>G. C.</Forenames>
+      <PageNumber>1804</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Lacy</Key>
+      <Forenames>K</Forenames>
       <PageNumber>1805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1342,9 +1348,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Saram</Forenames>
-      <Text>, R. B</Text>
+      <Key>De Saram</Key>
+      <Forenames>R. B.</Forenames>
       <PageNumber>1084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2337,8 +2342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hinde</Key>
-      <Forenames>G.</Forenames>
-      <Text>de B</Text>
+      <Forenames>G. de B</Forenames>
       <PageNumber>1083</PageNumber>
     </MainItem>
   </ItemGroup>

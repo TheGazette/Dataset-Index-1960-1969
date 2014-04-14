@@ -582,8 +582,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barr</Key>
-      <Title>St.</Title>
-      <Forenames>C. G.</Forenames>
+      <Title>St. C.</Title>
+      <Forenames>G.</Forenames>
       <PageNumber>3027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,8 +1033,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Becher</Key>
-      <Forenames>W. P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. P. St. J</Forenames>
       <PageNumber>4507</PageNumber>
     </MainItem>
   </ItemGroup>

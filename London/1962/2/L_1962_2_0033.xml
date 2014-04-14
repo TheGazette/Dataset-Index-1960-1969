@@ -1272,7 +1272,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Holdorf</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>338</PageNumber>
     </MainItem>

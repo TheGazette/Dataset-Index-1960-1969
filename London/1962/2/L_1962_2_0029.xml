@@ -416,9 +416,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, D. M. H.'</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>D. M. H.</Forenames>
+      <Text>'</Text>
       <PageNumber>4768</PageNumber>
     </MainItem>
   </ItemGroup>

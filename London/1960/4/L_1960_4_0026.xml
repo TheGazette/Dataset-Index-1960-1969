@@ -577,8 +577,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Forenames>L. A.</Forenames>
-      <Text>de E</Text>
+      <Forenames>L. A. de E</Forenames>
       <PageNumber>6702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,8 +1228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley-Hall</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>8490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,8 +1422,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, S. J</Text>
+      <Key>O'Connell</Key>
+      <Forenames>S. J.</Forenames>
       <PageNumber>8491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,22 +1436,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, D. A</Text>
+      <Key>O'Meara</Key>
+      <Forenames>D. A.</Forenames>
       <PageNumber>7392</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, W. P</Text>
+      <Key>O'Neill</Key>
+      <Forenames>W. P.</Forenames>
       <PageNumber>8490</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, J. P. B</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>J. P. B.</Forenames>
       <PageNumber>8490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2184,8 +2182,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rochfort</Key>
-      <Forenames>J. D.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. D. de B</Forenames>
       <PageNumber>7393</PageNumber>
     </MainItem>
   </ItemGroup>

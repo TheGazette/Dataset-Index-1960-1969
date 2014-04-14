@@ -540,15 +540,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J. R</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J. R.</Forenames>
       <PageNumber>3934</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, D. A</Text>
+      <Key>O'Leary</Key>
+      <Forenames>D. A.</Forenames>
       <PageNumber>6563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2403,8 +2403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkin</Key>
-      <Forenames>G.</Forenames>
-      <Text>de S</Text>
+      <Forenames>G. de S</Forenames>
       <PageNumber>4120</PageNumber>
     </MainItem>
   </ItemGroup>

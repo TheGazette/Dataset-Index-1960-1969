@@ -1697,8 +1697,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. R.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. R. de W</Forenames>
       <PageNumber>663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1923,8 +1922,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haslam-Fox</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>1010</PageNumber>
     </MainItem>
   </ItemGroup>

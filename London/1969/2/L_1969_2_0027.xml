@@ -744,9 +744,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, J. M</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,8 +1004,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duvoisin</Key>
-      <Forenames>J. F.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. F. de W</Forenames>
       <PageNumber>6258</PageNumber>
     </MainItem>
   </ItemGroup>

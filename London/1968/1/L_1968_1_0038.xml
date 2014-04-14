@@ -812,8 +812,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ker</Key>
-      <Forenames>A. H.</Forenames>
-      <Text>de G</Text>
+      <Forenames>A. H. de G</Forenames>
       <PageNumber>73</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2017,8 +2016,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lash</Key>
-      <Forenames>J. N.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. N. de W</Forenames>
       <PageNumber>2658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2402,8 +2400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>R. E.</Forenames>
-      <Text>de M</Text>
+      <Forenames>R. E. de M</Forenames>
       <PageNumber>71</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -578,7 +578,9 @@
     <MainItem>
       <Key>Smillie</Key>
       <Forenames>G. R.</Forenames>
-      <Text>DL</Text>
+      <Text>
+        <Honour>DL</Honour>
+      </Text>
       <PageNumber>2302</PageNumber>
     </MainItem>
   </ItemGroup>

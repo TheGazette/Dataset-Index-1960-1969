@@ -79,15 +79,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, L. G</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>L. G.</Forenames>
       <PageNumber>9607</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe.L. G</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>L. G.</Forenames>
       <PageNumber>9608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1904,8 +1904,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>7771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2322,7 +2321,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>de Sugg, R. G. L</Text>
+      <Forenames>de Sugg</Forenames>
+      <Text>, R. G. L</Text>
       <PageNumber>9011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2746,7 +2746,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>9012</PageNumber>
     </MainItem>
   </ItemGroup>

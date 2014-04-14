@@ -1466,8 +1466,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. T</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. T</Text>
       <PageNumber>4122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2013,8 +2013,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartnell</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>2798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2230,8 +2229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haslam-Fox</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>3177</PageNumber>
     </MainItem>
   </ItemGroup>

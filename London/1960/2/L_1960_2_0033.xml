@@ -413,8 +413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartnell</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>3454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1894,7 +1893,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodson</Key>
-      <Text>TD. 'L. S</Text>
+      <Text>
+        <Honour>TD</Honour>
+      </Text>
       <PageNumber>2775</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ...</KeyDitto>

@@ -2663,18 +2663,20 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>M.D</Text>
-      <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>O.J.</Forenames>
-      <PageNumber>993</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>2637</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>O.J.</Forenames>
+        <PageNumber>993</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -2929,7 +2931,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>B.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>3169</PageNumber>
     </MainItem>
   </ItemGroup>

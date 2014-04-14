@@ -1050,8 +1050,7 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. de B</Forenames>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,8 +1367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McBride</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. St. C</Forenames>
       <PageNumber>5294</PageNumber>
     </MainItem>
   </ItemGroup>

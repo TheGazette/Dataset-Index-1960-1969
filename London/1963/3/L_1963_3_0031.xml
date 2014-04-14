@@ -1197,8 +1197,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. B.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. B. de B</Forenames>
       <PageNumber>6457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2650,8 +2649,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leask</Key>
-      <Forenames>A.</Forenames>
-      <Text>de C. L</Text>
+      <Forenames>A. de C</Forenames>
+      <Text>. L</Text>
       <PageNumber>7742</PageNumber>
     </MainItem>
   </ItemGroup>

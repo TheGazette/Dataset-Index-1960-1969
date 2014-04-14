@@ -120,15 +120,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, A. F</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>A. F.</Forenames>
       <PageNumber>1008</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, D. I</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>D. I</Forenames>
       <PageNumber>1288</PageNumber>
     </MainItem>
   </ItemGroup>

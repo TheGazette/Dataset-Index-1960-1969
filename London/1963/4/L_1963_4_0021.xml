@@ -739,7 +739,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>L. T</Text>
+      <Text>L. T.</Text>
       <PageNumber>9424</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -934,8 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Battersby</Key>
-      <Forenames>A. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. A. St. J</Forenames>
       <PageNumber>9789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1283,8 +1282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Becher</Key>
-      <Forenames>W. P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. P. St. J</Forenames>
       <PageNumber>10639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1538,8 +1536,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. L.</Forenames>
-      <Text>de H</Text>
+      <Forenames>R. L. de H</Forenames>
       <PageNumber>8879</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,8 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wailes</Key>
-      <Forenames>J. R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. R. de B</Forenames>
       <PageNumber>6662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,8 +457,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D.</Forenames>
-      <Text>de W</Text>
+      <Forenames>D. de W</Forenames>
       <PageNumber>6654</PageNumber>
     </MainItem>
   </ItemGroup>

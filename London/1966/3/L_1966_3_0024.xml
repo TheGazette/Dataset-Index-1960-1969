@@ -1007,8 +1007,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler-Davis</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. G. '</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. '</Text>
       <PageNumber>8136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2220,8 +2220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cavanagh</Key>
-      <Forenames>M.</Forenames>
-      <Text>de V</Text>
+      <Forenames>M. de V</Forenames>
       <PageNumber>7949</PageNumber>
     </MainItem>
   </ItemGroup>

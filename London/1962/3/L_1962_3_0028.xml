@@ -1004,7 +1004,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>5304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2426,8 +2428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gransden</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>6653</PageNumber>
     </MainItem>
   </ItemGroup>

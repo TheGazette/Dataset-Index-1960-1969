@@ -1629,8 +1629,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collin</Key>
-      <Forenames>G.</Forenames>
-      <Text>de E</Text>
+      <Forenames>G. de E</Forenames>
       <PageNumber>74</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1783,7 +1782,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Colvin</Key>
-      <Text>KG</Text>
+      <Text>
+        <Honour>KG</Honour>
+      </Text>
       <PageNumber>80</PageNumber>
     </MainItem>
   </ItemGroup>

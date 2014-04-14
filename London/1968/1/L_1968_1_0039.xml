@@ -439,8 +439,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>1179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,8 +830,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Logan</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>M. O'H</Forenames>
       <PageNumber>880</PageNumber>
     </MainItem>
   </ItemGroup>

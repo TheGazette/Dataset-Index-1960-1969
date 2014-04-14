@@ -802,7 +802,9 @@
       <Key>Farrington</Key>
       <Title>Sir</Title>
       <Forenames>H. F. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +887,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Feather</Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>

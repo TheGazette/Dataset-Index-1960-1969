@@ -1139,8 +1139,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. S.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. S. de W</Forenames>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1714,8 +1713,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. St. A</Forenames>
       <PageNumber>6328</PageNumber>
     </MainItem>
   </ItemGroup>

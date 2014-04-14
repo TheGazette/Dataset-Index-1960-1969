@@ -2096,8 +2096,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Briffa</Key>
-      <Forenames>De St</Forenames>
-      <Text>. Vincent, E. P. E</Text>
+      <Title>De St.</Title>
+      <Forenames>Vincent</Forenames>
+      <Text>, E. P. E</Text>
       <PageNumber>9261</PageNumber>
     </MainItem>
   </ItemGroup>

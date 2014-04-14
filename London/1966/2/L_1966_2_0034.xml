@@ -1689,8 +1689,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chesham</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord .</Title>
       <PageNumber>6999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2395,8 +2394,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. B.</Forenames>
-      <Text>de S</Text>
+      <Forenames>M. B. de S</Forenames>
       <PageNumber>4121</PageNumber>
     </MainItem>
   </ItemGroup>

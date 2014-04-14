@@ -256,8 +256,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G. A</Text>
+      <Forenames>B. St. G</Forenames>
+      <Text>. A</Text>
       <PageNumber>5947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,8 +1250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rolleston</Key>
-      <Forenames>G. L. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>G. L. St. L</Forenames>
       <PageNumber>5309</PageNumber>
       <PageNumber>5309</PageNumber>
     </MainItem>
@@ -1958,9 +1957,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Ford</Forenames>
-      <Text>,. P. '</Text>
+      <Key>St. Clair-Ford</Key>
+      <Text>. P. '</Text>
       <PageNumber>5597</PageNumber>
       <PageNumber>6225</PageNumber>
     </MainItem>

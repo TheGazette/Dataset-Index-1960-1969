@@ -2401,8 +2401,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Forenames>A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>A. de V</Forenames>
       <PageNumber>5563</PageNumber>
     </MainItem>
   </ItemGroup>

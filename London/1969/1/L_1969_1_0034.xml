@@ -128,7 +128,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McCurry</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>2083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1802,7 +1804,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>2897</PageNumber>
     </MainItem>
   </ItemGroup>

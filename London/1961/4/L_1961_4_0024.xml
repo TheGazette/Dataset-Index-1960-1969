@@ -2203,8 +2203,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>J.</Forenames>
-      <Text>de C. E</Text>
+      <Forenames>J. de C</Forenames>
+      <Text>. E</Text>
       <PageNumber>9402</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2696,7 +2696,7 @@
       <PageNumber>9205</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>D.</Text>
+      <Text>D</Text>
       <PageNumber>8437</PageNumber>
     </SubItem>
   </ItemGroup>

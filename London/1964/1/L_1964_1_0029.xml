@@ -1729,8 +1729,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calthrop</Key>
-      <Forenames>J. B.</Forenames>
-      <Text>de S</Text>
+      <Forenames>J. B. de S</Forenames>
       <PageNumber>2383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2548,8 +2547,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Casenove</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L</Text>
+      <Forenames>H. de L</Forenames>
       <PageNumber>184</PageNumber>
     </MainItem>
   </ItemGroup>

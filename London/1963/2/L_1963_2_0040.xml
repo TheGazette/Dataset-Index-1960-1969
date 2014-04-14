@@ -544,8 +544,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>K. H. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>K. H. St. C</Forenames>
       <PageNumber>3742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,8 +1128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ransome</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. T</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. T</Text>
       <PageNumber>5445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1519,8 +1518,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rees</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J. D</Text>
+      <Forenames>D. St. J</Forenames>
+      <Text>. D</Text>
       <PageNumber>5527</PageNumber>
     </MainItem>
   </ItemGroup>

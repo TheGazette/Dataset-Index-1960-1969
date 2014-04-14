@@ -2267,8 +2267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gainer</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>2048</PageNumber>
     </MainItem>
   </ItemGroup>

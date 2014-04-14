@@ -2385,9 +2385,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burlet</Forenames>
-      <Text>, R. P. A. J</Text>
+      <Key>de Bourcier</Key>
+      <Forenames>P. G.</Forenames>
+      <PageNumber>2723</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Burlet</Key>
+      <Forenames>R. P. A. J</Forenames>
       <PageNumber>3182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2442,9 +2448,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Laslo</Forenames>
-      <Text>, P</Text>
+      <Key>De Laslo</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>4765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2635,9 +2640,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, R. M. J</Text>
+      <Key>De Pree</Key>
+      <Forenames>R. M. J.</Forenames>
       <PageNumber>4612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2666,9 +2670,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rohan</Forenames>
-      <Text>, L. F</Text>
+      <Key>De Rohan</Key>
+      <Forenames>L. F.</Forenames>
       <PageNumber>5117</PageNumber>
     </MainItem>
   </ItemGroup>

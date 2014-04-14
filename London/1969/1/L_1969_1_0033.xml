@@ -1176,7 +1176,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.D. R</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2660,8 +2662,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyburn</Key>
-      <Forenames>D. B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. B. St. J</Forenames>
       <PageNumber>996</PageNumber>
     </MainItem>
   </ItemGroup>

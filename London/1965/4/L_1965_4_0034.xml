@@ -1103,8 +1103,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. S.</Forenames>
-      <Text>de N</Text>
+      <Forenames>H. S. de N</Forenames>
       <PageNumber>11200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1830,24 +1829,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Ford</Forenames>
-      <Text>, P</Text>
+      <Key>St. Clair-Ford</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>11061</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, R. E. T</Text>
+      <Key>St. John</Key>
+      <Forenames>R. E. T.</Forenames>
       <PageNumber>9168</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John Perry</Forenames>
+      <Key>St. John</Key>
+      <Forenames>Perry</Forenames>
       <Text>, C. H</Text>
       <PageNumber>12222</PageNumber>
     </MainItem>

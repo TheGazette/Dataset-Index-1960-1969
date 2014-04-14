@@ -2776,8 +2776,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D</Forenames>
       <PageNumber>11376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2837,22 +2837,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Hill, J. R</Text>
+      <Key>O'Brien-Hill</Key>
+      <Forenames>J. R.</Forenames>
       <PageNumber>12236</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, J</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>10735</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, L. D</Text>
+      <Key>O'Connor</Key>
+      <Forenames>L. D.</Forenames>
       <PageNumber>11812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2874,15 +2874,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doherty, B</Text>
+      <Key>O'Doherty</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>10948</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, D. M</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>D. M.</Forenames>
       <PageNumber>10948</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1651,8 +1651,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steiner</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>3301</PageNumber>
     </MainItem>
   </ItemGroup>

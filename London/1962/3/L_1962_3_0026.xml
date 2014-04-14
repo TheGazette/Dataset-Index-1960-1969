@@ -3,8 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dashwood</Key>
-      <Forenames>M.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. de C</Forenames>
       <PageNumber>6265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,10 +582,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcy</Forenames>
-      <Text>, J</Text>
+      <Key>de Candole</Key>
+      <Forenames>C. A.</Forenames>
+      <PageNumber>7417</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Courcy</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>7514</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Coutere</Key>
+      <Forenames>L. St. V</Forenames>
+      <PageNumber>5721</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -605,17 +617,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Large</Forenames>
-      <Text>, B. A</Text>
+      <Key>De Large</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>5728</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Laszlo</Forenames>
-      <Text>, D. P</Text>
+      <Key>De Laszlo</Key>
+      <Forenames>D. P.</Forenames>
       <PageNumber>5720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,8 +757,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Salis.</Title>
+      <Key>De Salis</Key>
       <Forenames>J. O.</Forenames>
       <PageNumber>5557</PageNumber>
     </MainItem>
@@ -791,9 +800,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Winton</Forenames>
-      <Text>, J. F. H. C</Text>
+      <Key>De Winton</Key>
+      <Forenames>J. F. H. C.</Forenames>
       <PageNumber>5482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1598,8 +1606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downer</Key>
-      <Forenames>J. H. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>J. H. O'D</Forenames>
       <PageNumber>7579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2066,9 +2073,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Plessis</Forenames>
-      <Text>, A. N</Text>
+      <Key>Du Plessis</Key>
+      <Forenames>A. N.</Forenames>
       <PageNumber>6664</PageNumber>
     </MainItem>
   </ItemGroup>

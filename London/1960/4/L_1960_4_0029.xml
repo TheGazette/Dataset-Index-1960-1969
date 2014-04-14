@@ -1405,7 +1405,9 @@
   <ItemGroup>
     <MainItem>
       <Key>CVmell</Key>
-      <Text>; M.C.' '... .. .I,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,8 +1544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>CantJie</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>B. St. G</Forenames>
       <PageNumber>8794</PageNumber>
     </MainItem>
   </ItemGroup>

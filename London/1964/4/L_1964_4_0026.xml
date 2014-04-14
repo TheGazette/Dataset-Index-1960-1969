@@ -1880,8 +1880,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromhead</Key>
-      <Forenames>J. E.</Forenames>
-      <Text>de G</Text>
+      <Forenames>J. E. de G</Forenames>
       <PageNumber>8925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1952,8 +1951,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke-Johnson</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <PageNumber>9505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2439,8 +2438,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>N. F. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. F. St. J</Forenames>
       <PageNumber>9190</PageNumber>
     </MainItem>
   </ItemGroup>

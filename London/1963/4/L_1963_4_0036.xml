@@ -832,8 +832,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. S.</Forenames>
-      <Text>de N</Text>
+      <Forenames>H. S. de N</Forenames>
       <PageNumber>8072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1692,17 +1691,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Wade</Forenames>
-      <Text>, G</Text>
+      <Key>St. Clair-Wade</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>9241</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Vaughan</Forenames>
-      <Text>, T. E. J</Text>
+      <Key>St. Vaughan</Key>
+      <Forenames>T. E. J.</Forenames>
       <PageNumber>8314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2081,8 +2078,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savill</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>10091</PageNumber>
     </MainItem>
   </ItemGroup>

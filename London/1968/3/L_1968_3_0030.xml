@@ -1356,7 +1356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morripaleo</Key>
-      <Text>de Piro, J. C</Text>
+      <Forenames>de Piro</Forenames>
+      <Text>, J. C</Text>
       <PageNumber>8342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,8 +1439,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mooney</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>7347</PageNumber>
     </MainItem>
   </ItemGroup>

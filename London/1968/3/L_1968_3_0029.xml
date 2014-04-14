@@ -379,8 +379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lohan</Key>
-      <Forenames>H. M.</Forenames>
-      <Text>du V</Text>
+      <Forenames>H. M. du V</Forenames>
       <PageNumber>7346</PageNumber>
     </MainItem>
   </ItemGroup>

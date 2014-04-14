@@ -1538,17 +1538,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beast</Forenames>
-      <Text>, F. G. L</Text>
+      <Key>Van Beast</Key>
+      <Forenames>F. G. L</Forenames>
       <PageNumber>4730</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Kempen</Forenames>
-      <Text>, R. E</Text>
+      <Key>Van Kempen</Key>
+      <Forenames>R. E.</Forenames>
       <PageNumber>4951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2326,8 +2324,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>U. V.</Forenames>
-      <Text>de L</Text>
+      <Forenames>U. V. de L</Forenames>
       <PageNumber>6348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2547,7 +2544,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walters</Key>
-      <Text>A.E. '</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>6708</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -210,8 +210,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. P. H.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. P. H. de V</Forenames>
       <PageNumber>7818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +870,9 @@
       <Key>
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
-      <Text>~r~~ PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>9037</PageNumber>
     </MainItem>
     <SubItem>
@@ -1094,7 +1095,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jeffreys</Key>
-      <Text>G.C. D</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>8266</PageNumber>
     </MainItem>
   </ItemGroup>

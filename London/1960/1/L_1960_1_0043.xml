@@ -115,7 +115,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowland-James</Key>
-      <Text>;G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>2018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1651,7 +1653,7 @@
       <PageNumber>1902</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>107.</Text>
+      <Text>107</Text>
       <PageNumber>6</PageNumber>
     </SubItem>
   </ItemGroup>

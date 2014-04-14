@@ -887,8 +887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steiner</Key>
-      <Forenames>O. H. M . St</Forenames>
-      <Text>. J</Text>
+      <Forenames>O. H. M . St. J</Forenames>
       <PageNumber>10772</PageNumber>
     </MainItem>
   </ItemGroup>

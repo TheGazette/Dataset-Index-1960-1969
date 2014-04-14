@@ -1524,6 +1524,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Plessis</Key>
+      <Forenames>B. D.</Forenames>
+      <PageNumber>3117</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dudley</Key>
       <Forenames>F. E.</Forenames>
       <PageNumber>2784</PageNumber>

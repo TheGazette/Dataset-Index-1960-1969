@@ -496,6 +496,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Limburg</Key>
+      <Forenames>Stirum</Forenames>
+      <Text>, C. P. M</Text>
+      <PageNumber>8253</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Sertima</Key>
+      <Forenames>J. P.</Forenames>
+      <PageNumber>9377</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vanstone</Key>
       <Forenames>W. H.</Forenames>
       <PageNumber>7506</PageNumber>
@@ -503,9 +518,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Wadenoijen</Forenames>
-      <Text>, H. C</Text>
+      <Key>Van Wadenoijen</Key>
+      <Forenames>H. C.</Forenames>
       <PageNumber>8620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,8 +1350,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. W.</Forenames>
-      <Text>de W</Text>
+      <Forenames>E. W. de W</Forenames>
       <PageNumber>7868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1689,8 +1702,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warburton</Key>
-      <Forenames>P. E.</Forenames>
-      <Text>de D</Text>
+      <Forenames>P. E. de D</Forenames>
       <PageNumber>7129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1976,8 +1988,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. S. R.</Forenames>
-      <Text>de W</Text>
+      <Forenames>R. S. R. de W</Forenames>
       <PageNumber>7195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2533,8 +2544,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>L. St. J</Forenames>
       <PageNumber>7505</PageNumber>
       <PageNumber>9207</PageNumber>
     </MainItem>

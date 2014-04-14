@@ -537,8 +537,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shevlin</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <PageNumber>10843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,8 +829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simonds</Key>
-      <Forenames>T. A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>T. A. de L</Forenames>
       <PageNumber>11546</PageNumber>
     </MainItem>
   </ItemGroup>

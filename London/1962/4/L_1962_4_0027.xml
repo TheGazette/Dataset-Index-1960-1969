@@ -673,7 +673,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>de Walden, Lord</Text>
+      <Forenames>de Walden</Forenames>
+      <Text>, Lord</Text>
       <PageNumber>10097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1436,8 +1437,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G. D.</Forenames>
-      <Text>de C</Text>
+      <Forenames>G. D. de C</Forenames>
       <PageNumber>9353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1838,8 +1838,7 @@
       <Key>
         <KeyDitto>___ —— ___</KeyDitto>
       </Key>
-      <Forenames>N. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>N. St. G</Forenames>
       <PageNumber>8803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2090,8 +2089,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Irwin</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>B. St. G</Forenames>
       <PageNumber>9457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2109,8 +2107,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. St. G</Forenames>
       <PageNumber>7909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2353,7 +2350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacot</Key>
-      <Text>de Boinod, C. W. B</Text>
+      <Forenames>de Boinod</Forenames>
+      <Text>, C. W. B</Text>
       <PageNumber>9898</PageNumber>
     </MainItem>
   </ItemGroup>

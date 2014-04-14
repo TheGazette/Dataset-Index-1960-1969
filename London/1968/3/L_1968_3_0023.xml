@@ -394,17 +394,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, C. D</Text>
+      <Key>De Burgh</Key>
+      <Forenames>C. D.</Forenames>
       <PageNumber>9348</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcy-Ireland</Forenames>
-      <Text>, H. G</Text>
+      <Key>De Courcy-Ireland</Key>
+      <Forenames>H. G.</Forenames>
       <PageNumber>7341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,9 +438,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Halpert</Forenames>
-      <Text>, J. M</Text>
+      <Key>De Halpert</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>9348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,9 +466,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Leacy</Forenames>
-      <Text>, J. R</Text>
+      <Key>De Leacy</Key>
+      <Forenames>J. R.</Forenames>
       <PageNumber>9588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,9 +494,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mowbray</Forenames>
-      <Text>, C. J</Text>
+      <Key>De Mowbray</Key>
+      <Forenames>C. J</Forenames>
       <PageNumber>9347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1929,17 +1924,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vallon-Lohan</Forenames>
-      <Text>, M. D</Text>
+      <Key>Du Vallon-Lohan</Key>
+      <Forenames>M. D.</Forenames>
       <PageNumber>7851</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vivier</Forenames>
-      <Text>, P. E</Text>
+      <Key>Du Vivier</Key>
+      <Forenames>P. E.</Forenames>
       <PageNumber>9348</PageNumber>
     </MainItem>
   </ItemGroup>

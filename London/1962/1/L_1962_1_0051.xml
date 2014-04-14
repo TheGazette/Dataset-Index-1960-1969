@@ -317,7 +317,7 @@
       <PageNumber>1209</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ C. B. S</Text>
+      <Text>___ ___ C. B. S.</Text>
       <PageNumber>1204</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1544,8 +1544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yearwood</Key>
-      <Forenames>G.</Forenames>
-      <Text>de L</Text>
+      <Forenames>G. de L</Forenames>
       <PageNumber>2056</PageNumber>
     </MainItem>
   </ItemGroup>

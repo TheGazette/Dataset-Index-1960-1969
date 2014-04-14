@@ -211,8 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Studdert</Key>
-      <Forenames>M. J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. J. de C</Forenames>
       <PageNumber>2334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1594,7 +1593,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorold</Key>
-      <Forenames>A. B. De B.</Forenames>
+      <Forenames>A. B. De B</Forenames>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>

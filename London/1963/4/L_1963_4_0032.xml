@@ -1294,8 +1294,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malcolm</Key>
-      <Forenames>J. C. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. C. St. A</Forenames>
       <PageNumber>8881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1559,8 +1558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marina</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The Prin-</Forenames>
+      <Title>H.R.H. The Prin-</Title>
       <Text>cess</Text>
       <PageNumber>8761</PageNumber>
     </MainItem>
@@ -1719,7 +1717,7 @@
       <PageNumber>10544</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>P. J. E</Text>
+      <Text>P. J. E.</Text>
       <PageNumber>8422</PageNumber>
     </SubItem>
   </ItemGroup>

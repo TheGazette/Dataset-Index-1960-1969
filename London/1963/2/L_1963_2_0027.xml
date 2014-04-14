@@ -375,8 +375,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brounlie</Key>
-      <Forenames>C. A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>C. A. de B</Forenames>
       <PageNumber>5528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,8 +1177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>C. N. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>C. N. St. P</Forenames>
       <PageNumber>5263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1482,7 +1480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burns</Key>
-      <Text>de Bono, P. J</Text>
+      <Forenames>de Bono</Forenames>
+      <Text>, P. J</Text>
       <PageNumber>3027</PageNumber>
     </MainItem>
   </ItemGroup>

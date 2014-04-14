@@ -572,8 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Minogue</Key>
-      <Forenames>P. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>P. J. O'B</Forenames>
       <PageNumber>13910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,8 +1119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley-Hall</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>11321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1604,8 +1602,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E. O</Forenames>
-      <Text>'D. McD</Text>
+      <Forenames>E. O'D</Forenames>
+      <Text>. McD</Text>
       <PageNumber>13226</PageNumber>
     </MainItem>
   </ItemGroup>

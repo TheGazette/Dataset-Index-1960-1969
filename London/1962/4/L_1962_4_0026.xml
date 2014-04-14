@@ -2630,7 +2630,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoffman</Key>
-      <Text>de Visme, G. F. A</Text>
+      <Forenames>de Visme</Forenames>
+      <Text>, G. F. A</Text>
       <PageNumber>9641</PageNumber>
     </MainItem>
   </ItemGroup>

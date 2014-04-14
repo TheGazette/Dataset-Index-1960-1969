@@ -889,8 +889,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowett</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>W. St. L</Forenames>
       <PageNumber>7385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,8 +1353,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>L. B.</Forenames>
-      <Text>de V</Text>
+      <Forenames>L. B. de V</Forenames>
       <PageNumber>8949</PageNumber>
     </MainItem>
   </ItemGroup>

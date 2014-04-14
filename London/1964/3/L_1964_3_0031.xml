@@ -703,8 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lumley</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>T. O'D</Forenames>
       <PageNumber>6311</PageNumber>
     </MainItem>
   </ItemGroup>

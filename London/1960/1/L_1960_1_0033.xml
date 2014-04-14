@@ -808,7 +808,7 @@
     <KeyDitto>—</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>M. H. L.</Text>
+      <Text>M. H. L</Text>
       <PageNumber>689</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1209,8 +1209,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J.</Forenames>
-      <Text>de C. E</Text>
+      <Forenames>J. de C</Forenames>
+      <Text>. E</Text>
       <PageNumber>1380</PageNumber>
     </MainItem>
   </ItemGroup>

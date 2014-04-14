@@ -201,9 +201,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Win-ton</Forenames>
-      <Text>, T. H</Text>
+      <Key>de Spon</Key>
+      <Forenames>M. F. L.</Forenames>
+      <PageNumber>7393</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Win-ton</Key>
+      <Forenames>T. H.</Forenames>
       <PageNumber>6704</PageNumber>
     </MainItem>
   </ItemGroup>

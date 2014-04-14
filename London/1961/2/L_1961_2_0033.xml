@@ -677,8 +677,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M.</Forenames>
-      <Text>de V</Text>
+      <Forenames>M. de V</Forenames>
       <PageNumber>2830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1930,8 +1929,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gteri</Key>
-      <Forenames>A. M.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. M. de C</Forenames>
       <PageNumber>3507</PageNumber>
     </MainItem>
   </ItemGroup>

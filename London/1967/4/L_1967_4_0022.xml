@@ -78,8 +78,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cartwright</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C</Text>
+      <Forenames>H. de C</Forenames>
       <PageNumber>14159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,8 +226,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>B. M.</Forenames>
-      <Text>de L</Text>
+      <Forenames>B. M. de L</Forenames>
       <PageNumber>11534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +580,9 @@
       <Key>
         <KeyDitto>--—</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>14157</PageNumber>
     </MainItem>
   </ItemGroup>

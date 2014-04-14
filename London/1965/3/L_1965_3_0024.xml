@@ -572,8 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Braham</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>du P</Text>
+      <Forenames>J. C. du P</Forenames>
       <PageNumber>7137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,8 +1245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromhead</Key>
-      <Forenames>D.</Forenames>
-      <Text>de G</Text>
+      <Forenames>D. de G</Forenames>
       <PageNumber>6296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1869,8 +1867,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T. J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>T. J. de C</Forenames>
       <PageNumber>8782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1984,8 +1981,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>The</Forenames>
-      <Text>Lord '</Text>
+      <Title>The Lord</Title>
+      <Text>'</Text>
       <PageNumber>6726</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -772,8 +772,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downer</Key>
-      <Forenames>J. H. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>J. H. O'D</Forenames>
       <PageNumber>3428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,9 +1207,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Feu</Forenames>
-      <Text>, D. F</Text>
+      <Key>Du Feu</Key>
+      <Forenames>D. F.</Forenames>
       <PageNumber>2827</PageNumber>
     </MainItem>
   </ItemGroup>

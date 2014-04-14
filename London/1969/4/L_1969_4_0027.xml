@@ -2102,9 +2102,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Croix</Forenames>
-      <Text>, J. de</Text>
+      <Key>St. Croix</Key>
+      <Forenames>J.</Forenames>
+      <Text>de</Text>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>

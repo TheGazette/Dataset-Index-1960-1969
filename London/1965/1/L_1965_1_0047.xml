@@ -799,16 +799,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, D.-E</Text>
+      <Key>St. John</Key>
+      <Forenames>D.</Forenames>
+      <Text>-E</Text>
       <PageNumber>2382</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Maur Sheil</Forenames>
+      <Key>St. Maur</Key>
+      <Forenames>Sheil</Forenames>
       <Text>, J. W. M</Text>
       <PageNumber>3186</PageNumber>
     </MainItem>

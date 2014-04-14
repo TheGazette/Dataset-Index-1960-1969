@@ -536,7 +536,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>1245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,8 +761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baddeley</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. St. C</Forenames>
       <PageNumber>2050</PageNumber>
     </MainItem>
   </ItemGroup>

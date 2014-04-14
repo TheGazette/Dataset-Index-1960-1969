@@ -713,7 +713,9 @@
     <MainItem>
       <Key>Ehever</Key>
       <Forenames>S.</Forenames>
-      <Text>OM. '</Text>
+      <Text>
+        <Honour>OM</Honour>
+      </Text>
       <PageNumber>5672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,8 +1269,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fancourt</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J:</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>:</Text>
       <PageNumber>6261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1987,8 +1989,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Filler</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. .:</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. .:</Text>
       <PageNumber>6403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2011,8 +2013,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H.</Forenames>
-      <Text>du P</Text>
+      <Forenames>H. du P</Forenames>
       <PageNumber>6341</PageNumber>
     </MainItem>
   </ItemGroup>

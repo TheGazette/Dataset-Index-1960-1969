@@ -1083,8 +1083,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E.</Forenames>
-      <Text>de V</Text>
+      <Forenames>E. de V</Forenames>
       <PageNumber>8026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2008,8 +2007,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stitt</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>7192</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -400,9 +400,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pont</Forenames>
-      <Text>, R. R. E</Text>
+      <Key>Du Pont</Key>
+      <Forenames>R. R. E.</Forenames>
       <PageNumber>8944</PageNumber>
     </MainItem>
   </ItemGroup>

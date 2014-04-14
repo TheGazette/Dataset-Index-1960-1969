@@ -91,8 +91,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eve</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>1264</PageNumber>
     </MainItem>
   </ItemGroup>

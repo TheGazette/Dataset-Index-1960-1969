@@ -391,13 +391,6 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Helens</Forenames>
-      <PageNumber>7256</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Sowerby</Key>
       <Title>Bridge .</Title>
       <PageNumber>8805</PageNumber>

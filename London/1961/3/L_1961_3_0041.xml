@@ -1522,17 +1522,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, M. A. J</Text>
+      <Key>St. Clair</Key>
+      <Forenames>M. A. J.</Forenames>
       <PageNumber>5395</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Martin</Forenames>
-      <Text>, M. O</Text>
+      <Key>St. Martin</Key>
+      <Forenames>M. O.</Forenames>
       <PageNumber>5968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,8 +1619,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>P. J.</Forenames>
-      <Text>de C. S</Text>
+      <Forenames>P. J. de C</Forenames>
+      <Text>. S</Text>
       <PageNumber>6967</PageNumber>
     </MainItem>
   </ItemGroup>

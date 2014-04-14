@@ -1471,7 +1471,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pease</Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>3400</PageNumber>
     </MainItem>
   </ItemGroup>

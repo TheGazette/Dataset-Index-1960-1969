@@ -608,7 +608,7 @@
     <KeyDitto>___ ___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>Loftus, J.</Text>
+      <Text>Loftus, J</Text>
       <PageNumber>4191</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -748,7 +748,7 @@
       <PageNumber>3504</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>W. H. L. ... 4765 Lovett-Campbell, P. V.</Text>
+      <Text>W. H. L. ... 4765 Lovett-Campbell, P. V</Text>
       <PageNumber>4192</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -855,8 +855,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. de B</Forenames>
       <PageNumber>4928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,8 +1115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lytle</Key>
-      <Forenames>S. W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. W. St. J</Forenames>
       <PageNumber>4768</PageNumber>
     </MainItem>
   </ItemGroup>

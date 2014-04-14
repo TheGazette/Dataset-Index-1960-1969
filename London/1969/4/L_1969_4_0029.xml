@@ -2339,8 +2339,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wark</Key>
-      <Forenames>J.</Forenames>
-      <Text>de C. K</Text>
+      <Forenames>J. de C</Forenames>
+      <Text>. K</Text>
       <PageNumber>11050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2390,8 +2390,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. S. R.</Forenames>
-      <Text>de W</Text>
+      <Forenames>R. S. R. de W</Forenames>
       <PageNumber>10213</PageNumber>
     </MainItem>
   </ItemGroup>

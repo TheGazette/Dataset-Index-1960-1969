@@ -1016,8 +1016,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Cent.</Title>
+      <Key>de Brett</Key>
+      <Forenames>E. S.</Forenames>
+      <PageNumber>5945</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Cent</Key>
       <Forenames>D. C.</Forenames>
       <PageNumber>6406</PageNumber>
     </MainItem>
@@ -1028,6 +1034,14 @@
       <Forenames>Cruz</Forenames>
       <Text>, S. J</Text>
       <PageNumber>6609</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ferrars</Key>
+      <Forenames>P. K.</Forenames>
+      <Text>DA</Text>
+      <PageNumber>4812</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1048,8 +1062,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Haye</Forenames>
+      <Key>De La</Key>
+      <Forenames>Haye</Forenames>
       <Text>, P</Text>
       <PageNumber>4816</PageNumber>
     </MainItem>
@@ -1072,8 +1086,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vere Hunt</Forenames>
+      <Key>de St</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, A. M. J</Text>
+      <PageNumber>4812</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Valero</Key>
+      <Forenames>Wills</Forenames>
+      <Text>, M. A</Text>
+      <PageNumber>48115</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Vere</Key>
+      <Forenames>Hunt</Forenames>
       <Text>, J. P. H</Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
@@ -1181,7 +1211,7 @@
       <PageNumber>5313</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>— ___ C. R., Sub. not.</Text>
+      <Text>— ___ C. R., Sub. not</Text>
       <PageNumber>4573</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1567,8 +1597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodgson</Key>
-      <Forenames>H.</Forenames>
-      <Text>de S</Text>
+      <Forenames>H. de S</Forenames>
       <PageNumber>4813</PageNumber>
     </MainItem>
   </ItemGroup>

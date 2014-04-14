@@ -2247,8 +2247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Filliter</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>1000</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1879,7 +1879,7 @@
       <PageNumber>7350</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>P</Text>
+      <Text>P.</Text>
       <PageNumber>7122</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1900,7 +1900,7 @@
       <PageNumber>7416</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M. A</Text>
+      <Text>M. A.</Text>
       <PageNumber>6084</PageNumber>
       <PageNumber>7352</PageNumber>
     </SubItem>
@@ -1965,8 +1965,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Menzies</Key>
-      <Forenames>M. F. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>M. F. O'B</Forenames>
       <PageNumber>6664</PageNumber>
     </MainItem>
   </ItemGroup>

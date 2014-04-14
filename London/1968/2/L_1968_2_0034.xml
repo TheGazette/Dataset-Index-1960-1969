@@ -765,8 +765,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hennessey</Key>
-      <Forenames>P.</Forenames>
-      <Text>de P</Text>
+      <Forenames>P. de P</Forenames>
       <PageNumber>6789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2023,8 +2022,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horgan</Key>
-      <Forenames>O</Forenames>
-      <Text>'C</Text>
+      <Title>O'C.</Title>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2398,8 +2396,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>4889</PageNumber>
     </MainItem>
   </ItemGroup>

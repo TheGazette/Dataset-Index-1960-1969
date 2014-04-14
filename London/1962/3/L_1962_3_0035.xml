@@ -2167,8 +2167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newbery</Key>
-      <Forenames>D. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>D. O'D</Forenames>
       <PageNumber>5481</PageNumber>
     </MainItem>
   </ItemGroup>

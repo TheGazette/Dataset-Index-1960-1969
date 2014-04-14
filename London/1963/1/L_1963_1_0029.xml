@@ -2390,9 +2390,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, R. U. P</Text>
+      <Key>De Burgh</Key>
+      <Forenames>R. U. P.</Forenames>
       <PageNumber>79</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2405,17 +2404,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Coverley</Forenames>
-      <Text>, C. M</Text>
+      <Key>De Coverley</Key>
+      <Forenames>C. M.</Forenames>
       <PageNumber>973</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Garis</Forenames>
-      <Text>, L. .:</Text>
+      <Key>De Garis</Key>
+      <Forenames>L.</Forenames>
+      <Text>.:</Text>
       <PageNumber>79</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2501,8 +2499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dennehy</Key>
-      <Forenames>C. H.</Forenames>
-      <Text>de W. Denning, J. H. K</Text>
+      <Forenames>C. H. de W</Forenames>
+      <Text>. Denning, J. H. K</Text>
       <PageNumber>2515</PageNumber>
     </MainItem>
   </ItemGroup>

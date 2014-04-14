@@ -1704,8 +1704,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanson</Key>
-      <Forenames>G. H.</Forenames>
-      <Text>de G</Text>
+      <Forenames>G. H. de G</Forenames>
       <PageNumber>2076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2158,8 +2157,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>R. C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. C. St. J</Forenames>
       <PageNumber>204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2193,7 +2191,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>1806</PageNumber>
     </MainItem>
   </ItemGroup>

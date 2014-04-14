@@ -1200,7 +1200,7 @@
     <KeyDitto>___ ___ ___</KeyDitto>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>T.</Text>
+      <Text>T</Text>
       <PageNumber>73</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -2065,8 +2065,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>1676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2299,8 +2298,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. C. (Sub. not.)</Text>
+      <Forenames>M. St. C</Forenames>
+      <Text>. (Sub. not.)</Text>
       <PageNumber>73</PageNumber>
     </MainItem>
   </ItemGroup>

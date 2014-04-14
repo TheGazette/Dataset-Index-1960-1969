@@ -305,7 +305,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>S. C. P.</Text>
+      <Text>S. C. P</Text>
       <PageNumber>5308</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1042,7 +1042,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>H. F. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2320,8 +2322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fry</Key>
-      <Forenames>A. A. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>A. A. St. Q</Forenames>
       <PageNumber>4813</PageNumber>
     </MainItem>
   </ItemGroup>

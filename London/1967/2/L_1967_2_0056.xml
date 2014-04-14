@@ -1371,8 +1371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sweet</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>P. St. A</Forenames>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2281,8 +2280,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>W. R.</Forenames>
-      <Text>de C. M</Text>
+      <Forenames>W. R. de C</Forenames>
+      <Text>. M</Text>
       <PageNumber>5715</PageNumber>
     </MainItem>
   </ItemGroup>

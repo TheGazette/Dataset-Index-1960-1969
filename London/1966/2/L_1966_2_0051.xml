@@ -10,8 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. St. A</Forenames>
       <PageNumber>6345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1833,8 +1832,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>4394</PageNumber>
       <PageNumber>6708</PageNumber>
     </MainItem>

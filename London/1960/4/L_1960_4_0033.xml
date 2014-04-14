@@ -849,8 +849,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Forenames>G. A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>G. A. St. G</Forenames>
       <PageNumber>7546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,8 +1118,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Q. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>Q. St. C</Forenames>
       <PageNumber>8315</PageNumber>
     </MainItem>
   </ItemGroup>

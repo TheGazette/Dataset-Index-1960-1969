@@ -1687,8 +1687,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malan</Key>
-      <Forenames>V. C.</Forenames>
-      <Text>de R</Text>
+      <Forenames>V. C. de R</Forenames>
       <PageNumber>6707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1709,8 +1708,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malet</Key>
-      <Forenames>H. D. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>H. D. St. L</Forenames>
       <PageNumber>6113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2427,8 +2425,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. L.</Forenames>
-      <Text>de C</Text>
+      <Forenames>P. L. de C</Forenames>
       <PageNumber>5441</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -45,8 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allingham</Key>
-      <Forenames>J. O.</Forenames>
-      <Text>de G</Text>
+      <Forenames>J. O. de G</Forenames>
       <PageNumber>3152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2300,8 +2299,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnetson</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>3321</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -32,8 +32,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, C. E. N</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>C. E. N.</Forenames>
       <PageNumber>8895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,8 +167,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, P. A</Text>
+      <Key>O'Shea</Key>
+      <Forenames>P. A.</Forenames>
       <PageNumber>8441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,8 +197,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. P. F</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. P. F.</Forenames>
       <PageNumber>8449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,8 +222,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, L</Text>
+      <Key>O'Toole</Key>
+      <Forenames>L</Forenames>
       <PageNumber>7572</PageNumber>
     </MainItem>
   </ItemGroup>

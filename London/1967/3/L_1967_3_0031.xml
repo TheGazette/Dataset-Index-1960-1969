@@ -252,7 +252,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacot</Key>
-      <Text>de Boinod, C. W. B</Text>
+      <Forenames>de Boinod</Forenames>
+      <Text>, C. W. B</Text>
       <PageNumber>10423</PageNumber>
     </MainItem>
   </ItemGroup>

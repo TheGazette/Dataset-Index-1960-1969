@@ -66,10 +66,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, H</Text>
+      <Key>De Pree</Key>
+      <Forenames>H</Forenames>
       <PageNumber>3829</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pree</Key>
+      <Forenames>R. M. J.</Forenames>
+      <PageNumber>3844</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2246,8 +2252,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pare Braham</Forenames>
+      <Key>Du Pare</Key>
+      <Forenames>Braham</Forenames>
       <Text>, J. C</Text>
       <PageNumber>4028</PageNumber>
     </MainItem>
@@ -2335,8 +2341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duvoisin</Key>
-      <Forenames>J. F.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. F. de W</Forenames>
       <PageNumber>3817</PageNumber>
     </MainItem>
   </ItemGroup>

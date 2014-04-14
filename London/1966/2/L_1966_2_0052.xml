@@ -100,7 +100,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Winand</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>5691</PageNumber>
     </MainItem>
   </ItemGroup>

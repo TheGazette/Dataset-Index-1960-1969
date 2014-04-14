@@ -218,8 +218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daniell</Key>
-      <Forenames>A. P.</Forenames>
-      <Text>de T</Text>
+      <Forenames>A. P. de T</Forenames>
       <PageNumber>2638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +268,9 @@
       <Key>Darell</Key>
       <Title>Sir</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +691,9 @@
       <Key>dAvigdor-Goldsmid</Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,10 +901,88 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Candole</Forenames>
-      <Text>, J. A. V</Text>
+      <Key>De Candole</Key>
+      <Forenames>J. A. V.</Forenames>
       <PageNumber>2867</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Costobadie</Key>
+      <Forenames>H. P.</Forenames>
+      <PageNumber>3882</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Coiircy-dreland</Key>
+      <Forenames>D. G.</Forenames>
+      <PageNumber>4508</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Grey</Key>
+      <Title>Hon.</Title>
+      <Forenames>J.</Forenames>
+      <PageNumber>4023</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lange</Key>
+      <Forenames>A. E.</Forenames>
+      <PageNumber>2641</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ramsey</Key>
+      <Title>Lord .</Title>
+      <PageNumber>2868</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Cruix</Forenames>
+      <Text>, A. M. J</Text>
+      <PageNumber>4066</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sausmarez</Key>
+      <Forenames>M. G.</Forenames>
+      <PageNumber>2958</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Verteuil</Key>
+      <Forenames>C. R.</Forenames>
+      <PageNumber>3200</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vine</Key>
+      <Forenames>A. D.</Forenames>
+      <PageNumber>2638</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>D. B. G.</Forenames>
+      <PageNumber>2362</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Witt</Key>
+      <Forenames>R. H.</Forenames>
+      <PageNumber>2641</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1122,7 +1203,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Desire</Key>
-      <Text>de Lannoy, S. W</Text>
+      <Forenames>de Lannoy</Forenames>
+      <Text>, S. W</Text>
       <PageNumber>2781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2131,16 +2213,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Duvoisin</Key>
-      <Forenames>J. F.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. F. de W</Forenames>
       <PageNumber>3725</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dwight</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. St. J</Forenames>
       <PageNumber>3454</PageNumber>
     </MainItem>
   </ItemGroup>

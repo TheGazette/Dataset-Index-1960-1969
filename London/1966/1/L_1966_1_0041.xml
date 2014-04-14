@@ -71,8 +71,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, T. A</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>T. A.</Forenames>
       <PageNumber>323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,16 +209,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>655</PageNumber>
       <PageNumber>1249</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, B. P</Text>
+      <Key>O'Toole</Key>
+      <Forenames>B. P.</Forenames>
       <PageNumber>2848</PageNumber>
     </MainItem>
   </ItemGroup>

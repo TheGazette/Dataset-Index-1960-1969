@@ -1648,8 +1648,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. F</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. F.</Forenames>
       <PageNumber>1728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1666,7 +1666,9 @@
       <Key>Ogilvy-Wedderburn</Key>
       <Title>Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1708,8 +1710,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, M. J</Text>
+      <Key>O'Shea</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>782</PageNumber>
     </MainItem>
   </ItemGroup>

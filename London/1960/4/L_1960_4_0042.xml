@@ -1671,8 +1671,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Studdert</Key>
-      <Forenames>M. J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. J. de C</Forenames>
       <PageNumber>7547</PageNumber>
     </MainItem>
   </ItemGroup>

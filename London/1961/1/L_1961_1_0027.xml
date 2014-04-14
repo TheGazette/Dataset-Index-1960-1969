@@ -589,17 +589,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, D. M. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>D. M. H.</Forenames>
       <PageNumber>1616</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pont</Forenames>
-      <Text>, R. R. E</Text>
+      <Key>Du Pont</Key>
+      <Forenames>R. R. E.</Forenames>
       <PageNumber>2155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,9 +1052,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Prince Philip, Duke . of</Text>
+      <Title>H.R.H. The Prince</Title>
+      <Forenames>Philip</Forenames>
+      <Text>, Duke . of</Text>
       <PageNumber>923</PageNumber>
     </MainItem>
   </ItemGroup>

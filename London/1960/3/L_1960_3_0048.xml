@@ -2200,8 +2200,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Forenames>J. T. M. D. O</Forenames>
-      <Text>'D. ..'</Text>
+      <Forenames>J. T. M. D. O'D</Forenames>
+      <Text>. ..'</Text>
       <PageNumber>6555</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -196,7 +196,7 @@
       <PageNumber>10093</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>G</Text>
+      <Text>G.</Text>
       <PageNumber>9789</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1415,8 +1415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haslam-Fox</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>9699</PageNumber>
     </MainItem>
   </ItemGroup>

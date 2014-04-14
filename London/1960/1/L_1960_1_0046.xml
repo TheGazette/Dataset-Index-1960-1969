@@ -477,8 +477,8 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Forenames>R.C.</Forenames>
-      <Text>de W. '</Text>
+      <Forenames>R.C. de W</Forenames>
+      <Text>. '</Text>
       <PageNumber>601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +496,9 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>1079</PageNumber>
     </MainItem>
   </ItemGroup>

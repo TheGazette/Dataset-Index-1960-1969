@@ -316,8 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Raymond</Key>
-      <Forenames>P. F. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>P. F. O'C</Forenames>
       <PageNumber>8525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1800,8 +1799,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>F. St. C</Forenames>
       <PageNumber>9898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2280,8 +2278,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. B.</Forenames>
-      <Text>de T</Text>
+      <Forenames>P. B. de T</Forenames>
       <PageNumber>9898</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -959,8 +959,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leverhulme</Key>
-      <Forenames>The</Forenames>
-      <Text>Viscount</Text>
+      <Title>The Viscount</Title>
       <PageNumber>3454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,95 +1120,97 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Text>M.C</Text>
-      <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>N.M.R.</Forenames>
-      <PageNumber>5480</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>N.</Forenames>
-      <Text>P.C</Text>
-      <PageNumber>6258</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. G.</Forenames>
-      <PageNumber>4184</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>T.O.</Forenames>
-      <PageNumber>6258</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Leyland</Key>
-      <Forenames>A. L.</Forenames>
-      <PageNumber>6021</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lezemore</Key>
-      <Forenames>R. B.</Forenames>
-      <PageNumber>5485</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Licence</Key>
-      <Forenames>W. A. J.</Forenames>
-      <PageNumber>4993</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lidbetter</Key>
-      <Forenames>L. O. B.</Forenames>
-      <PageNumber>6255</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lidstone</Key>
-      <Forenames>J. H.</Forenames>
-      <PageNumber>3461</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lightburn</Key>
-      <Forenames>P. J.</Forenames>
-      <PageNumber>4717</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lill</Key>
-      <Forenames>J.A.</Forenames>
-      <PageNumber>6020</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>4188</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___ ___</KeyDitto>
+        </Key>
+        <Forenames>N.M.R.</Forenames>
+        <PageNumber>5480</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>N.</Forenames>
+        <Text>P.C</Text>
+        <PageNumber>6258</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>R. G.</Forenames>
+        <PageNumber>4184</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>T.O.</Forenames>
+        <PageNumber>6258</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Leyland</Key>
+        <Forenames>A. L.</Forenames>
+        <PageNumber>6021</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lezemore</Key>
+        <Forenames>R. B.</Forenames>
+        <PageNumber>5485</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Licence</Key>
+        <Forenames>W. A. J.</Forenames>
+        <PageNumber>4993</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lidbetter</Key>
+        <Forenames>L. O. B.</Forenames>
+        <PageNumber>6255</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lidstone</Key>
+        <Forenames>J. H.</Forenames>
+        <PageNumber>3461</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lightburn</Key>
+        <Forenames>P. J.</Forenames>
+        <PageNumber>4717</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lill</Key>
+        <Forenames>J.A.</Forenames>
+        <PageNumber>6020</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Lilley</Key>
@@ -1723,15 +1724,16 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>6255</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Luckham</Key>
-      <Forenames>T.</Forenames>
-      <Text>de C</Text>
+      <Forenames>T. de C</Forenames>
       <PageNumber>3457</PageNumber>
     </MainItem>
   </ItemGroup>

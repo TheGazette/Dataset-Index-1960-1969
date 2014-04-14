@@ -2139,8 +2139,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>O. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>O. R. St. J</Forenames>
       <PageNumber>11842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2457,16 +2456,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Broe-Ferguson</Key>
-      <Forenames>E. N.</Forenames>
-      <Text>de B. deB.de</Text>
+      <Forenames>E. N. de B</Forenames>
+      <Text>. deB.de</Text>
       <PageNumber>13227</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brogan</Key>
-      <Forenames>W. G. St</Forenames>
-      <Text>. S</Text>
+      <Forenames>W. G. St. S</Forenames>
       <PageNumber>11582</PageNumber>
     </MainItem>
   </ItemGroup>

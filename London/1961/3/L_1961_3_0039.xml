@@ -2168,8 +2168,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>5563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2439,7 +2438,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___</KeyDitto>
     <SubItem>
-      <Text>J. A. G.</Text>
+      <Text>J. A. G</Text>
       <PageNumber>6768</PageNumber>
     </SubItem>
   </ItemGroup>

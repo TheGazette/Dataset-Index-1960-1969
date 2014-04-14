@@ -840,9 +840,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beer</Forenames>
-      <Text>, F. B. C</Text>
+      <Key>De Beer</Key>
+      <Forenames>F. B. C.</Forenames>
       <PageNumber>12946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,9 +883,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Grussa</Forenames>
-      <Text>, N. S</Text>
+      <Key>De Grussa</Key>
+      <Forenames>N. S.</Forenames>
       <PageNumber>13226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,9 +913,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Laszlo</Forenames>
-      <Text>, D. P</Text>
+      <Key>De Laszlo</Key>
+      <Forenames>D. P.</Forenames>
       <PageNumber>10530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,9 +957,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Nahlik</Forenames>
-      <Text>, A. T. J. A</Text>
+      <Key>De Nahlik</Key>
+      <Forenames>A. T. J. A.</Forenames>
       <PageNumber>11054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,9 +1070,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rohan</Forenames>
-      <Text>, L. F</Text>
+      <Key>De Rohan</Key>
+      <Forenames>L. F.</Forenames>
       <PageNumber>11588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2406,8 +2401,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duvoisin</Key>
-      <Forenames>J. F.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. F. de W</Forenames>
       <PageNumber>11581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2605,8 +2599,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>The</Forenames>
-      <Text>Viscount</Text>
+      <Title>The Viscount</Title>
       <PageNumber>11324</PageNumber>
     </MainItem>
   </ItemGroup>

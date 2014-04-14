@@ -136,8 +136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cramp</Key>
-      <Forenames>A. C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. C. St. J</Forenames>
       <PageNumber>6493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +972,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>6176</PageNumber>
     </MainItem>
   </ItemGroup>

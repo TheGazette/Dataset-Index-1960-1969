@@ -629,8 +629,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Absolon</Key>
-      <Forenames>J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>2642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,8 +829,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. J.</Forenames>
-      <Text>de Q</Text>
+      <Forenames>P. J. de Q</Forenames>
       <PageNumber>2719</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -301,8 +301,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. St. G</Forenames>
       <PageNumber>9975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,8 +322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Isham</Key>
-      <Forenames>A. R.</Forenames>
-      <Text>de V</Text>
+      <Forenames>A. R. de V</Forenames>
       <PageNumber>9167</PageNumber>
     </MainItem>
   </ItemGroup>

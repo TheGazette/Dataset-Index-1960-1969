@@ -2621,8 +2621,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Romilly</Key>
-      <Forenames>H. M.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. M. de B</Forenames>
       <PageNumber>5686</PageNumber>
     </MainItem>
   </ItemGroup>

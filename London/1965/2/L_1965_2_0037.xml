@@ -234,8 +234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNeile</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>S. St. C</Forenames>
       <PageNumber>3302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,8 +495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malcolm</Key>
-      <Forenames>J. C. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. C. St. A</Forenames>
       <PageNumber>5691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,8 +1008,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>C.</Forenames>
-      <Text>de G</Text>
+      <Forenames>C. de G</Forenames>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>

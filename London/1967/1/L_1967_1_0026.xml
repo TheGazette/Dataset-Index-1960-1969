@@ -801,8 +801,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>2610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,8 +810,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. H</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. H</Text>
       <PageNumber>574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,8 +1065,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berkshire</Key>
-      <Forenames>R. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. R. St. J</Forenames>
       <PageNumber>2614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2643,7 +2641,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromhead</Key>
-      <Forenames>D. De G.</Forenames>
+      <Forenames>D. De G</Forenames>
       <PageNumber>1159</PageNumber>
     </MainItem>
   </ItemGroup>

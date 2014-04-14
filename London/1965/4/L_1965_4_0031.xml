@@ -725,8 +725,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Minogue</Key>
-      <Forenames>P. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>P. J. O'B</Forenames>
       <PageNumber>10972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1135,8 +1134,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>W. B. St</Forenames>
-      <Text>. J. ... Scott, Montagu Douglas</Text>
+      <Forenames>W. B. St. J</Forenames>
+      <Text>. ... Scott, Montagu Douglas</Text>
       <PageNumber>9469</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1920,8 +1920,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steiner</Key>
-      <Forenames>O. H. M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>O. H. M. St. J</Forenames>
       <PageNumber>773</PageNumber>
     </MainItem>
   </ItemGroup>

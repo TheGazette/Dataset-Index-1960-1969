@@ -357,8 +357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Forenames>F. H.</Forenames>
-      <Text>de B</Text>
+      <Forenames>F. H. de B</Forenames>
       <PageNumber>8610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1474,8 +1473,7 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>8946</PageNumber>
     </MainItem>
   </ItemGroup>

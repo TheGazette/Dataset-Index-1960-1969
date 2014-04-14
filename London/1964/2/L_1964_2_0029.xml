@@ -1053,8 +1053,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler-Davis</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>W. St. G</Forenames>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1539,8 +1538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>L. F.</Forenames>
-      <Text>de V</Text>
+      <Forenames>L. F. de V</Forenames>
       <PageNumber>5061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2188,8 +2186,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazallet</Key>
-      <Forenames>R. P. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. P. St. G</Forenames>
       <PageNumber>5456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2351,8 +2348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Forenames>P. N.</Forenames>
-      <Text>de R</Text>
+      <Forenames>P. N. de R</Forenames>
       <PageNumber>3358</PageNumber>
     </MainItem>
   </ItemGroup>

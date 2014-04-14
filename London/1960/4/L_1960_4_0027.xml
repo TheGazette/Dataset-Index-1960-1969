@@ -699,8 +699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turtle</Key>
-      <Forenames>P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>P. de B</Forenames>
       <PageNumber>8951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +841,9 @@
       <Key>Walsham</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>,,Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8489</PageNumber>
     </MainItem>
   </ItemGroup>

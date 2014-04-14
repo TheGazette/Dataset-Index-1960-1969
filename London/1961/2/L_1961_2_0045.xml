@@ -259,8 +259,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ribbins</Key>
-      <Title>St.</Title>
-      <Forenames>J. K. H.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>K. H.</Forenames>
       <PageNumber>3073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2064,7 +2064,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>2641</PageNumber>
     </MainItem>
   </ItemGroup>

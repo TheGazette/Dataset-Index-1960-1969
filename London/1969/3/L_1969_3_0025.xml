@@ -1525,8 +1525,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hazell</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. St. G</Forenames>
       <PageNumber>7774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2746,7 +2745,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9221</PageNumber>
     </MainItem>
   </ItemGroup>

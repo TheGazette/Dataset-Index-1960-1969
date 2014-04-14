@@ -210,8 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>C.</Forenames>
-      <Text>de G</Text>
+      <Forenames>C. de G</Forenames>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,8 +419,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paige</Key>
-      <Forenames>D.</Forenames>
-      <Text>de B. '. .:</Text>
+      <Forenames>D. de B</Forenames>
+      <Text>. '. .:</Text>
       <PageNumber>1080</PageNumber>
     </MainItem>
   </ItemGroup>

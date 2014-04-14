@@ -1004,8 +1004,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitchin</Key>
-      <Forenames>G. A.</Forenames>
-      <Text>de G</Text>
+      <Forenames>G. A. de G</Forenames>
       <PageNumber>259</PageNumber>
     </MainItem>
   </ItemGroup>

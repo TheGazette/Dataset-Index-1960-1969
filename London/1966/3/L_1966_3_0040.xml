@@ -1531,7 +1531,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tully</Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>10168</PageNumber>
     </MainItem>
   </ItemGroup>

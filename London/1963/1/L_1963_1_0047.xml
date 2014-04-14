@@ -159,8 +159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winkfield</Key>
-      <Forenames>R.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. de V</Forenames>
       <PageNumber>1884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,8 +1033,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wraxall</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord .</Title>
       <PageNumber>973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,8 +1422,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young-James</Key>
-      <Forenames>D. A.</Forenames>
-      <Text>de S</Text>
+      <Forenames>D. A. de S</Forenames>
       <PageNumber>706</PageNumber>
     </MainItem>
   </ItemGroup>

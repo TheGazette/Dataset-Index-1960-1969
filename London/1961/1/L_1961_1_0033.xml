@@ -203,8 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malet</Key>
-      <Forenames>H. D. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>H. D. St. L</Forenames>
       <PageNumber>353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2259,8 +2258,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moncrieff</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J. G</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. G</Text>
       <PageNumber>21</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -360,8 +360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranmer</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. St. G</Forenames>
       <PageNumber>999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1506,9 +1505,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Clermont</Forenames>
-      <Text>, P. A. J</Text>
+      <Key>De Clermont</Key>
+      <Forenames>P. A. J.</Forenames>
       <PageNumber>2339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1942,7 +1940,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>2631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2616,7 +2616,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Durbin</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>2077</PageNumber>
     </MainItem>
   </ItemGroup>

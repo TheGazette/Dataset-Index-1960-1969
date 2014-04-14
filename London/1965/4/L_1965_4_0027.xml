@@ -178,8 +178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henriques</Key>
-      <Forenames>C.</Forenames>
-      <Text>de P</Text>
+      <Forenames>C. de P</Forenames>
       <PageNumber>10973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1070,8 +1069,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holbrook</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>N. St. C</Forenames>
       <PageNumber>11863</PageNumber>
     </MainItem>
   </ItemGroup>
